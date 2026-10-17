@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""AI Brief static site generator. Reads data/articles.json, writes HTML + sitemap + robots."""
+"""Ady static site generator. Reads data/articles.json, writes HTML + sitemap + robots."""
 import json, os, html, shutil, re, hashlib
 from datetime import date
 
@@ -103,7 +103,7 @@ def header(active="home", ticker_items=None):
 {ticker}
 <header class="site-header">
 <div class="wrap header-inner">
-<a class="logo" href="index.html"><span class="logo-mark">🤖</span><span><em>AI</em> Brief</span></a>
+<a class="logo" href="index.html"><span class="logo-mark">🤖</span><span><em>Ady</em></span></a>
 <button class="icon-btn hamburger" id="hamburger" aria-label="Menu">☰</button>
 <nav class="main-nav" id="mainNav">
 {nav("index.html","Home","home")}
@@ -130,7 +130,7 @@ def header(active="home", ticker_items=None):
 FOOTER = f"""<footer class="site-footer">
 <div class="wrap footer-top">
 <div class="footer-brand">
-<a class="logo" href="index.html"><span class="logo-mark">🤖</span><span><em>AI</em> Brief</span></a>
+<a class="logo" href="index.html"><span class="logo-mark">🤖</span><span><em>Ady</em></span></a>
 <p style="margin-top:12px">AI news &amp; tools, explained simply. Original briefs, honest takes, and practical guides — published daily for a worldwide audience.</p>
 </div>
 <div>
@@ -158,7 +158,7 @@ FOOTER = f"""<footer class="site-footer">
 </div>
 </div>
 <div class="wrap footer-bottom">
-<p>© {date.today().year} AI Brief. Original summaries with source links; all trademarks belong to their owners.</p>
+<p>© {date.today().year} Ady. Original summaries with source links; all trademarks belong to their owners.</p>
 <p>Made with 🤖 for the AI-curious.</p>
 </div>
 </footer>
@@ -167,7 +167,7 @@ FOOTER = f"""<footer class="site-footer">
 </html>"""
 
 NEWSLETTER = """<section class="newsletter reveal">
-<h2>Get the AI Brief in your inbox</h2>
+<h2>Get Ady in your inbox</h2>
 <p>One short email per week. The most important AI stories, zero spam. Join thousands of AI-curious readers.</p>
 <div class="stats">
 <div><strong>12+</strong>Original briefs</div>
@@ -205,8 +205,8 @@ def article_schema(a, canonical, cat_slug):
         "description": a["excerpt"],
         "datePublished": a["date"],
         "dateModified": a["date"],
-        "author": {"@type": "Organization", "name": "AI Brief", "url": URL},
-        "publisher": {"@type": "Organization", "name": "AI Brief", "url": URL},
+        "author": {"@type": "Organization", "name": "Ady", "url": URL},
+        "publisher": {"@type": "Organization", "name": "Ady", "url": URL},
         "mainEntityOfPage": canonical,
     }
     bc = {
@@ -336,7 +336,7 @@ for idx, a in enumerate(ARTICLES):
 <p class="lede">{esc(a['excerpt'])}</p>
 <div class="byline">
 <div class="avatar">A</div>
-<div class="who"><strong>AI Brief</strong><span>{fmt_date(a['date'])} · {a['read_minutes']} min read</span></div>
+<div class="who"><strong>Ady</strong><span>{fmt_date(a['date'])} · {a['read_minutes']} min read</span></div>
 <div class="share-row">
 <button class="share-btn" data-share="x" aria-label="Share on X" title="Share on X">𝕏</button>
 <button class="share-btn" data-share="linkedin" aria-label="Share on LinkedIn" title="Share on LinkedIn">in</button>
@@ -349,7 +349,7 @@ for idx, a in enumerate(ARTICLES):
 <div class="tags">{' '.join(f'<span class="tag">#{esc(t)}</span>' for t in a.get('tags', []))}</div>
 <div class="author-box">
 <div class="avatar">A</div>
-<div><h4>AI Brief</h4><p>AI news &amp; tools, explained simply. Original briefs with honest takes, published daily for readers worldwide.</p></div>
+<div><h4>Ady</h4><p>AI news &amp; tools, explained simply. Original briefs with honest takes, published daily for readers worldwide.</p></div>
 </div>
 </article>
 {pn}
@@ -360,7 +360,7 @@ for idx, a in enumerate(ARTICLES):
 <ol>{"".join(f'<li><a href="{x["slug"]}.html">{esc(x["title"])}</a></li>' for x in trending)}</ol>
 </div>
 <div class="side-card side-nl reveal">
-<h4>📬 Weekly AI Brief</h4>
+<h4>📬 The Weekly Ady</h4>
 <p>The most important AI stories, once a week. Zero spam.</p>
 <form id="nlFormSide"><input type="email" placeholder="you@example.com" required aria-label="Email"><button type="submit">Subscribe</button></form>
 <p class="nl-note" id="nlNoteSide" style="font-size:.82rem"></p>
@@ -382,14 +382,14 @@ search_index = [{
 write("search.json", json.dumps(search_index))
 
 # ---------- static pages ----------
-ABOUT_BODY = """<p><strong>AI Brief</strong> covers artificial intelligence news, tools, and tutorials in plain English — no hype, no jargon — for readers worldwide.</p><p>Every brief is an <strong>original summary with commentary</strong>, written to help you understand what happened and why it matters. We always link to the original source so you can read more and so publishers get the credit they deserve.</p><h2>How we're made</h2><p>AI Brief is an AI-assisted publication. Stories are drafted with AI help from public sources, then shaped into original briefs with our own analysis. We never reproduce articles — we summarize, contextualize, and link out.</p><h2>Corrections & takedowns</h2><p>Found an error or own content you'd like removed? <a href="contact.html">Contact us</a> and we'll respond within 48 hours.</p>"""
+ABOUT_BODY = """<p><strong>Ady</strong> covers artificial intelligence news, tools, and tutorials in plain English — no hype, no jargon — for readers worldwide.</p><p>Every brief is an <strong>original summary with commentary</strong>, written to help you understand what happened and why it matters. We always link to the original source so you can read more and so publishers get the credit they deserve.</p><h2>How we're made</h2><p>Ady is an AI-assisted publication. Stories are drafted with AI help from public sources, then shaped into original briefs with our own analysis. We never reproduce articles — we summarize, contextualize, and link out.</p><h2>Corrections & takedowns</h2><p>Found an error or own content you'd like removed? <a href="contact.html">Contact us</a> and we'll respond within 48 hours.</p>"""
 CONTACT_BODY = """<p>Questions, corrections, takedown requests, or partnership ideas — reach out:</p><p>📧 <strong>Email:</strong> <a href="mailto:hello@ainews.vercel.app">hello@ainews.vercel.app</a></p><p>We aim to respond within 48 hours. For content takedown requests, please include the article URL and proof of ownership.</p>"""
-PRIVACY_BODY = """<p>AI Brief respects your privacy.</p><h2>What we collect</h2><p>We use Google Analytics (GA4) to understand aggregate traffic patterns — pages visited, approximate location, device type. We do not collect names, emails, or personal identifiers unless you voluntarily subscribe to the newsletter.</p><h2>Cookies</h2><p>Analytics cookies help us improve the site. You can disable cookies in your browser settings.</p><h2>Third parties</h2><p>We do not sell your data. Analytics data is processed by Google under their privacy policy.</p><h2>Contact</h2><p>Privacy questions: <a href="mailto:hello@ainews.vercel.app">hello@ainews.vercel.app</a></p>"""
+PRIVACY_BODY = """<p>Ady respects your privacy.</p><h2>What we collect</h2><p>We use Google Analytics (GA4) to understand aggregate traffic patterns — pages visited, approximate location, device type. We do not collect names, emails, or personal identifiers unless you voluntarily subscribe to the newsletter.</p><h2>Cookies</h2><p>Analytics cookies help us improve the site. You can disable cookies in your browser settings.</p><h2>Third parties</h2><p>We do not sell your data. Analytics data is processed by Google under their privacy policy.</p><h2>Contact</h2><p>Privacy questions: <a href="mailto:hello@ainews.vercel.app">hello@ainews.vercel.app</a></p>"""
 
 for fname, title, desc_text, body_html, emoji in [
-    ("about.html", "About — AI Brief", "What AI Brief is and how it works.", ABOUT_BODY, "ℹ️"),
-    ("contact.html", "Contact — AI Brief", "Contact AI Brief for corrections, takedowns, or partnerships.", CONTACT_BODY, "✉️"),
-    ("privacy.html", "Privacy Policy — AI Brief", "AI Brief privacy policy: what we collect and why.", PRIVACY_BODY, "🔒"),
+    ("about.html", "About — Ady", "What Ady is and how it works.", ABOUT_BODY, "ℹ️"),
+    ("contact.html", "Contact — Ady", "Contact Ady for corrections, takedowns, or partnerships.", CONTACT_BODY, "✉️"),
+    ("privacy.html", "Privacy Policy — Ady", "Ady privacy policy: what we collect and why.", PRIVACY_BODY, "🔒"),
 ]:
     key = fname.replace(".html", "")
     write(fname, head(title, desc_text, f"{URL}/{fname}") + header(key, ARTICLES) + f"""
@@ -411,7 +411,7 @@ ns = ['<?xml version="1.0" encoding="UTF-8"?>',
       '<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">']
 for a in ARTICLES:
     ns.append(f"""  <url><loc>{URL}/articles/{a['slug']}.html</loc>
-    <news:news><news:publication><news:name>AI Brief</news:name><news:language>en</news:language></news:publication>
+    <news:news><news:publication><news:name>Ady</news:name><news:language>en</news:language></news:publication>
     <news:publication_date>{a['date']}</news:publication_date><news:title>{esc(a['title'])}</news:title></news:news></url>""")
 ns.append("</urlset>")
 write("news-sitemap.xml", "\n".join(ns))

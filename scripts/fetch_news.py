@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-AI Brief news pipeline — fetches AI news RSS feeds, dedupes against existing
+Ady news pipeline — fetches AI news RSS feeds, dedupes against existing
 articles, and generates draft briefs.
 
 Summarization: if GEMINI_API_KEY env var is set, calls Gemini API for original
@@ -132,7 +132,7 @@ def main():
             new_articles.append({
                 "slug": f"{date.today().isoformat()}-{slug}",
                 "title": title[:120],
-                "excerpt": f"AI Brief on: {title[:140]}",
+                "excerpt": f"Ady on: {title[:140]}",
                 "category": "AI News",
                 "date": date.today().isoformat(),
                 "read_minutes": 3,

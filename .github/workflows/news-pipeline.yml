@@ -1,4 +1,4 @@
-name: AI Brief news pipeline
+name: Ady news pipeline
 
 on:
   schedule:

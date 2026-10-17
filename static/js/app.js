@@ -1,4 +1,4 @@
-// AI Brief — interactions: theme, mobile nav, search, reveal, progress, share, newsletter
+// Ady — interactions: theme, mobile nav, search, reveal, progress, share, newsletter
 (function(){
   "use strict";
   var root = document.documentElement;

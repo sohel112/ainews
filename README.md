@@ -1,4 +1,4 @@
-# AI Brief — AI news & tools, explained simply
+# Ady — AI news & tools, explained simply
 
 Static news site. Built by `scripts/build.py` from `data/articles.json`.
 
