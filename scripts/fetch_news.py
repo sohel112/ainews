@@ -31,7 +31,7 @@ MAX_NEW = 5  # max new drafts per run
 
 
 def fetch(url, timeout=25):
-    req = Request(url, headers={"User-Agent": "AIBriefBot/1.0 (+https://ainews.vercel.app)"})
+    req = Request(url, headers={"User-Agent": "AIBriefBot/1.0 (+https://ainews-psi-teal.vercel.app)"})
     with urlopen(req, timeout=timeout) as r:
         return r.read().decode("utf-8", errors="ignore")
 
