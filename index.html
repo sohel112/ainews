@@ -12,9 +12,13 @@
 <meta property="og:type" content="website">
 <meta property="og:url" content="https://ainews-psi-teal.vercel.app/">
 <meta property="og:site_name" content="AI Brief">
-<meta name="twitter:card" content="summary">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="AI Brief — AI news &amp; tools, explained simply">
+<meta name="twitter:description" content="AI Brief covers artificial intelligence news, tools, and tutorials in plain English. Daily briefs on ChatGPT, Gemini, Claude, open-source AI, and the tools that matter.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link rel="stylesheet" href="css/style.css">
-<link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🤖</text></svg>">
+<link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><rect width='100' height='100' rx='22' fill='%234f46e5'/><text x='50' y='68' font-size='52' text-anchor='middle' fill='white' font-family='Georgia'>A</text></svg>">
 <!-- Google tag (gtag.js) — replace G-XXXXXXXXXX with your GA4 Measurement ID -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-XXXXXXXXXX"></script>
 <script>
@@ -23,12 +27,14 @@ function gtag(){dataLayer.push(arguments);}
 gtag("js", new Date());
 gtag("config", "G-XXXXXXXXXX");
 </script>
-<script type="application/ld+json">{"@context": "https://schema.org", "@type": "WebSite", "name": "AI Brief", "url": "https://ainews-psi-teal.vercel.app/", "description": "AI Brief covers artificial intelligence news, tools, and tutorials in plain English. Daily briefs on ChatGPT, Gemini, Claude, open-source AI, and the tools that matter."}</script>
+<script type="application/ld+json">{"@context": "https://schema.org", "@type": "WebSite", "name": "AI Brief", "url": "https://ainews-psi-teal.vercel.app/", "description": "AI Brief covers artificial intelligence news, tools, and tutorials in plain English. Daily briefs on ChatGPT, Gemini, Claude, open-source AI, and the tools that matter.", "potentialAction": {"@type": "SearchAction", "target": "https://ainews-psi-teal.vercel.app/?q={search_term_string}", "query-input": "required name=search_term_string"}}</script>
 </head><body>
+<div class="ticker" aria-hidden="true"><div class="ticker-inner"><span class="tick-label">Latest</span><a href="articles/chatgpt-new-reasoning-features-explained.html">ChatGPT&#x27;s Reasoning Models: What &quot;Thinking Longer&quot; Actually Means for You</a><a href="articles/gemini-vs-chatgpt-which-to-use.html">Gemini vs ChatGPT in 2026: Which AI Assistant Should You Actually Use?</a><a href="articles/best-free-ai-tools-students-2026.html">10 Free AI Tools for Students That Are Actually Worth Your Time</a><a href="articles/what-is-llm-explained-simply.html">What Is an LLM? Large Language Models Explained in Plain English</a><a href="articles/prompt-engineering-beginners-guide.html">Prompt Engineering for Beginners: 7 Techniques That Instantly Improve AI Answers</a><a href="articles/anthropic-claude-what-makes-it-different.html">Anthropic&#x27;s Claude: What Makes It Different from ChatGPT?</a><a href="articles/ai-tools-video-creators-save-time.html">5 AI Tools for Video Creators That Actually Save Time (Not Just Hype)</a><a href="articles/deepseek-open-weight-ai-explained.html">DeepSeek Explained: Why This Open-Weight AI Model Shook the Industry</a><a href="articles/chatgpt-new-reasoning-features-explained.html">ChatGPT&#x27;s Reasoning Models: What &quot;Thinking Longer&quot; Actually Means for You</a><a href="articles/gemini-vs-chatgpt-which-to-use.html">Gemini vs ChatGPT in 2026: Which AI Assistant Should You Actually Use?</a><a href="articles/best-free-ai-tools-students-2026.html">10 Free AI Tools for Students That Are Actually Worth Your Time</a><a href="articles/what-is-llm-explained-simply.html">What Is an LLM? Large Language Models Explained in Plain English</a><a href="articles/prompt-engineering-beginners-guide.html">Prompt Engineering for Beginners: 7 Techniques That Instantly Improve AI Answers</a><a href="articles/anthropic-claude-what-makes-it-different.html">Anthropic&#x27;s Claude: What Makes It Different from ChatGPT?</a><a href="articles/ai-tools-video-creators-save-time.html">5 AI Tools for Video Creators That Actually Save Time (Not Just Hype)</a><a href="articles/deepseek-open-weight-ai-explained.html">DeepSeek Explained: Why This Open-Weight AI Model Shook the Industry</a></div></div>
 <header class="site-header">
 <div class="wrap header-inner">
-<a class="logo" href="index.html">🤖 <span>AI</span> Brief</a>
-<nav class="main-nav">
+<a class="logo" href="index.html"><span class="logo-mark">🤖</span><span><em>AI</em> Brief</span></a>
+<button class="icon-btn hamburger" id="hamburger" aria-label="Menu">☰</button>
+<nav class="main-nav" id="mainNav">
 <a href="index.html" class="active">Home</a>
 <a href="ai-news.html">AI News</a>
 <a href="ai-tools.html">AI Tools</a>
@@ -36,208 +42,203 @@ gtag("config", "G-XXXXXXXXXX");
 <a href="explainers.html">Explainers</a>
 <a href="about.html">About</a>
 </nav>
-<button class="theme-toggle" id="themeToggle" aria-label="Toggle dark mode">🌙</button>
+<div class="header-actions">
+<button class="icon-btn" data-search-open aria-label="Search (Ctrl+K)" title="Search (Ctrl+K)">🔍</button>
+<button class="icon-btn theme-toggle" aria-label="Toggle dark mode">🌙</button>
+<button class="btn-subscribe" data-subscribe>Subscribe</button>
+</div>
 </div>
 </header>
+<div class="search-overlay" id="searchOverlay">
+<div class="search-box">
+<input type="text" id="searchInput" placeholder="Search AI news, tools, guides…" autocomplete="off">
+<div class="search-results" id="searchResults"></div>
+</div>
+</div>
 <main class="wrap">
-<section class="hero">
-<span class="badge">Featured</span>
-<a class="hero-link" href="articles/chatgpt-new-reasoning-features-explained.html">
-<div class="hero-emoji">🧠</div>
+<section class="hero-grid">
+<a class="hero-main reveal" href="articles/chatgpt-new-reasoning-features-explained.html">
+<div class="art " style="background:linear-gradient(135deg,hsl(233,62%,42%),hsl(288,68%,30%))"><span class="art-letter" style="font-size:11rem">C</span></div>
+<div class="hero-content">
+<span class="kicker">✨ Featured story</span>
 <h1>ChatGPT&#x27;s Reasoning Models: What &quot;Thinking Longer&quot; Actually Means for You</h1>
 <p>OpenAI&#x27;s newer ChatGPT models spend more time reasoning before answering. Here&#x27;s what changes in everyday use — and when it doesn&#x27;t matter.</p>
-<div class="meta"><span>2026-10-17</span> · <span>4 min read</span></div>
+<div class="hero-meta"><span><span class="badge news">AI News</span></span><span>Oct 17, 2026</span><span>·</span><span>4 min read</span></div>
+</div>
 </a>
+<div class="hero-side"><a class="hero-side-card reveal" href="articles/gemini-vs-chatgpt-which-to-use.html">
+<div class="art " style="background:linear-gradient(135deg,hsl(175,62%,42%),hsl(230,68%,30%))"><span class="art-letter" style="font-size:2.6rem">G</span></div>
+<div><h3>Gemini vs ChatGPT in 2026: Which AI Assistant Should You Actually Use?</h3><div class="meta"><span>Oct 16, 2026</span><span class="dot">•</span><span>6 min</span></div></div>
+</a><a class="hero-side-card reveal" href="articles/best-free-ai-tools-students-2026.html">
+<div class="art " style="background:linear-gradient(135deg,hsl(156,62%,42%),hsl(211,68%,30%))"><span class="art-letter" style="font-size:2.6rem">1</span></div>
+<div><h3>10 Free AI Tools for Students That Are Actually Worth Your Time</h3><div class="meta"><span>Oct 15, 2026</span><span class="dot">•</span><span>7 min</span></div></div>
+</a><a class="hero-side-card reveal" href="articles/what-is-llm-explained-simply.html">
+<div class="art " style="background:linear-gradient(135deg,hsl(334,62%,42%),hsl(29,68%,30%))"><span class="art-letter" style="font-size:2.6rem">W</span></div>
+<div><h3>What Is an LLM? Large Language Models Explained in Plain English</h3><div class="meta"><span>Oct 14, 2026</span><span class="dot">•</span><span>5 min</span></div></div>
+</a></div>
 </section>
-<section><div class="section-head"><h2>🕐 Latest</h2></div><div class="grid"><a class="card" href="articles/gemini-vs-chatgpt-which-to-use.html">
-<div class="card-emoji">⚔️</div>
-<div class="card-body">
-<span class="badge">AI Tools</span>
-<h3>Gemini vs ChatGPT in 2026: Which AI Assistant Should You Actually Use?</h3>
-<p>The two biggest AI assistants compared on real-world tasks — writing, coding, research, and multimodal smarts — so you can pick the right one.</p>
-<div class="meta"><span>2026-10-16</span> · <span>6 min read</span></div>
-</div>
-</a><a class="card" href="articles/best-free-ai-tools-students-2026.html">
-<div class="card-emoji">🎓</div>
-<div class="card-body">
-<span class="badge">AI Tools</span>
-<h3>10 Free AI Tools for Students That Are Actually Worth Your Time</h3>
-<p>From research to revision, these free AI tools help students study smarter — no credit card required.</p>
-<div class="meta"><span>2026-10-15</span> · <span>7 min read</span></div>
-</div>
-</a><a class="card" href="articles/what-is-llm-explained-simply.html">
-<div class="card-emoji">📖</div>
-<div class="card-body">
-<span class="badge">Explainers</span>
-<h3>What Is an LLM? Large Language Models Explained in Plain English</h3>
-<p>No jargon, no hype — just a clear explanation of what large language models are, how they work, and what they can&#x27;t do.</p>
-<div class="meta"><span>2026-10-14</span> · <span>5 min read</span></div>
-</div>
-</a><a class="card" href="articles/prompt-engineering-beginners-guide.html">
-<div class="card-emoji">✍️</div>
-<div class="card-body">
-<span class="badge">Tutorials</span>
-<h3>Prompt Engineering for Beginners: 7 Techniques That Instantly Improve AI Answers</h3>
-<p>Stop getting generic AI responses. These seven simple prompting techniques will 10x the quality of what ChatGPT, Claude, and Gemini give you.</p>
-<div class="meta"><span>2026-10-13</span> · <span>8 min read</span></div>
-</div>
-</a><a class="card" href="articles/anthropic-claude-what-makes-it-different.html">
-<div class="card-emoji">🟠</div>
-<div class="card-body">
-<span class="badge">AI News</span>
-<h3>Anthropic&#x27;s Claude: What Makes It Different from ChatGPT?</h3>
-<p>Claude has quietly become the favorite of writers and developers. Here&#x27;s what sets Anthropic&#x27;s AI apart — and where it still lags.</p>
-<div class="meta"><span>2026-10-12</span> · <span>5 min read</span></div>
-</div>
-</a><a class="card" href="articles/ai-tools-video-creators-save-time.html">
-<div class="card-emoji">🎬</div>
-<div class="card-body">
-<span class="badge">AI Tools</span>
-<h3>5 AI Tools for Video Creators That Actually Save Time (Not Just Hype)</h3>
-<p>Editing, captions, voiceovers, thumbnails — these AI tools cut real hours from the video workflow.</p>
-<div class="meta"><span>2026-10-11</span> · <span>6 min read</span></div>
-</div>
-</a><a class="card" href="articles/deepseek-open-weight-ai-explained.html">
-<div class="card-emoji">🌊</div>
-<div class="card-body">
-<span class="badge">AI News</span>
-<h3>DeepSeek Explained: Why This Open-Weight AI Model Shook the Industry</h3>
-<p>A Chinese lab showed world-class AI can be built far more cheaply than assumed. Here&#x27;s why DeepSeek matters — and what &quot;open-weight&quot; means.</p>
-<div class="meta"><span>2026-10-10</span> · <span>5 min read</span></div>
-</div>
-</a><a class="card" href="articles/ai-image-generators-compared-midjourney-dalle.html">
-<div class="card-emoji">🎨</div>
-<div class="card-body">
-<span class="badge">AI Tools</span>
-<h3>AI Image Generators Compared: Midjourney vs DALL-E vs Stable Diffusion vs Flux</h3>
-<p>Which AI image tool should you use? We compare the big four on quality, ease of use, and price.</p>
-<div class="meta"><span>2026-10-09</span> · <span>7 min read</span></div>
-</div>
-</a><a class="card" href="articles/small-business-ai-without-developers.html">
-<div class="card-emoji">🏪</div>
-<div class="card-body">
-<span class="badge">Tutorials</span>
-<h3>How Small Businesses Can Use AI Today (No Developers Required)</h3>
-<p>A practical playbook: customer support, marketing, and admin — the three places AI pays for itself fastest in a small business.</p>
-<div class="meta"><span>2026-10-08</span> · <span>8 min read</span></div>
-</div>
-</a><a class="card" href="articles/eu-ai-act-what-it-means.html">
-<div class="card-emoji">⚖️</div>
-<div class="card-body">
-<span class="badge">AI News</span>
-<h3>The EU AI Act: What the World&#x27;s First Major AI Law Means for You</h3>
-<p>Europe has passed the first comprehensive AI law. Here&#x27;s what it actually does — and why it affects AI users far beyond Europe.</p>
-<div class="meta"><span>2026-10-07</span> · <span>6 min read</span></div>
-</div>
-</a><a class="card" href="articles/grok-xai-chatbot-explained.html">
-<div class="card-emoji">✖️</div>
-<div class="card-body">
-<span class="badge">Explainers</span>
-<h3>Grok by xAI: Elon Musk&#x27;s AI Chatbot, Explained</h3>
-<p>Integrated with X and pitched as the witty, unfiltered alternative — what Grok actually offers and who it&#x27;s for.</p>
-<div class="meta"><span>2026-10-06</span> · <span>5 min read</span></div>
-</div>
+
+<section><div class="section-head reveal"><h2><span class="sec-emoji">🕐</span>Latest briefs</h2><a href="ai-news.html">More news →</a></div>
+<div class="latest-list"><a class="latest-item reveal" href="articles/gemini-vs-chatgpt-which-to-use.html">
+<span class="latest-num">01</span>
+<div><h3>Gemini vs ChatGPT in 2026: Which AI Assistant Should You Actually Use?</h3><p>The two biggest AI assistants compared on real-world tasks — writing, coding, research, and multimodal smarts — so you can pick the right one.</p>
+<div class="meta"><span class="badge tools">AI Tools</span><span>Oct 16, 2026</span><span class="dot">•</span><span>6 min read</span></div></div>
+</a><a class="latest-item reveal" href="articles/best-free-ai-tools-students-2026.html">
+<span class="latest-num">02</span>
+<div><h3>10 Free AI Tools for Students That Are Actually Worth Your Time</h3><p>From research to revision, these free AI tools help students study smarter — no credit card required.</p>
+<div class="meta"><span class="badge tools">AI Tools</span><span>Oct 15, 2026</span><span class="dot">•</span><span>7 min read</span></div></div>
+</a><a class="latest-item reveal" href="articles/what-is-llm-explained-simply.html">
+<span class="latest-num">03</span>
+<div><h3>What Is an LLM? Large Language Models Explained in Plain English</h3><p>No jargon, no hype — just a clear explanation of what large language models are, how they work, and what they can&#x27;t do.</p>
+<div class="meta"><span class="badge explainers">Explainers</span><span>Oct 14, 2026</span><span class="dot">•</span><span>5 min read</span></div></div>
+</a><a class="latest-item reveal" href="articles/prompt-engineering-beginners-guide.html">
+<span class="latest-num">04</span>
+<div><h3>Prompt Engineering for Beginners: 7 Techniques That Instantly Improve AI Answers</h3><p>Stop getting generic AI responses. These seven simple prompting techniques will 10x the quality of what ChatGPT, Claude, and Gemini give you.</p>
+<div class="meta"><span class="badge tutorials">Tutorials</span><span>Oct 13, 2026</span><span class="dot">•</span><span>8 min read</span></div></div>
+</a><a class="latest-item reveal" href="articles/anthropic-claude-what-makes-it-different.html">
+<span class="latest-num">05</span>
+<div><h3>Anthropic&#x27;s Claude: What Makes It Different from ChatGPT?</h3><p>Claude has quietly become the favorite of writers and developers. Here&#x27;s what sets Anthropic&#x27;s AI apart — and where it still lags.</p>
+<div class="meta"><span class="badge news">AI News</span><span>Oct 12, 2026</span><span class="dot">•</span><span>5 min read</span></div></div>
+</a><a class="latest-item reveal" href="articles/ai-tools-video-creators-save-time.html">
+<span class="latest-num">06</span>
+<div><h3>5 AI Tools for Video Creators That Actually Save Time (Not Just Hype)</h3><p>Editing, captions, voiceovers, thumbnails — these AI tools cut real hours from the video workflow.</p>
+<div class="meta"><span class="badge tools">AI Tools</span><span>Oct 11, 2026</span><span class="dot">•</span><span>6 min read</span></div></div>
+</a><a class="latest-item reveal" href="articles/deepseek-open-weight-ai-explained.html">
+<span class="latest-num">07</span>
+<div><h3>DeepSeek Explained: Why This Open-Weight AI Model Shook the Industry</h3><p>A Chinese lab showed world-class AI can be built far more cheaply than assumed. Here&#x27;s why DeepSeek matters — and what &quot;open-weight&quot; means.</p>
+<div class="meta"><span class="badge news">AI News</span><span>Oct 10, 2026</span><span class="dot">•</span><span>5 min read</span></div></div>
+</a><a class="latest-item reveal" href="articles/ai-image-generators-compared-midjourney-dalle.html">
+<span class="latest-num">08</span>
+<div><h3>AI Image Generators Compared: Midjourney vs DALL-E vs Stable Diffusion vs Flux</h3><p>Which AI image tool should you use? We compare the big four on quality, ease of use, and price.</p>
+<div class="meta"><span class="badge tools">AI Tools</span><span>Oct 9, 2026</span><span class="dot">•</span><span>7 min read</span></div></div>
 </a></div></section>
-<section class="cat-section"><div class="section-head"><h2>📰 AI News</h2><a href="ai-news.html">View all →</a></div><div class="grid"><a class="card" href="articles/chatgpt-new-reasoning-features-explained.html">
-<div class="card-emoji">🧠</div>
+
+<section class="cat-section"><div class="section-head reveal"><h2><span class="sec-emoji">📰</span>AI News</h2><a href="ai-news.html">View all →</a></div><div class="grid"><a class="card reveal" href="articles/chatgpt-new-reasoning-features-explained.html">
+<div class="art " style="background:linear-gradient(135deg,hsl(233,62%,42%),hsl(288,68%,30%))"><span class="art-letter" style="font-size:4.2rem">C</span></div>
 <div class="card-body">
-<span class="badge">AI News</span>
+<span class="badge news">AI News</span>
 <h3>ChatGPT&#x27;s Reasoning Models: What &quot;Thinking Longer&quot; Actually Means for You</h3>
 <p>OpenAI&#x27;s newer ChatGPT models spend more time reasoning before answering. Here&#x27;s what changes in everyday use — and when it doesn&#x27;t matter.</p>
-<div class="meta"><span>2026-10-17</span> · <span>4 min read</span></div>
+<div class="meta"><span>Oct 17, 2026</span><span class="dot">•</span><span>4 min read</span></div>
 </div>
-</a><a class="card" href="articles/anthropic-claude-what-makes-it-different.html">
-<div class="card-emoji">🟠</div>
+</a><a class="card reveal" href="articles/anthropic-claude-what-makes-it-different.html">
+<div class="art " style="background:linear-gradient(135deg,hsl(242,62%,42%),hsl(297,68%,30%))"><span class="art-letter" style="font-size:4.2rem">A</span></div>
 <div class="card-body">
-<span class="badge">AI News</span>
+<span class="badge news">AI News</span>
 <h3>Anthropic&#x27;s Claude: What Makes It Different from ChatGPT?</h3>
 <p>Claude has quietly become the favorite of writers and developers. Here&#x27;s what sets Anthropic&#x27;s AI apart — and where it still lags.</p>
-<div class="meta"><span>2026-10-12</span> · <span>5 min read</span></div>
+<div class="meta"><span>Oct 12, 2026</span><span class="dot">•</span><span>5 min read</span></div>
 </div>
-</a><a class="card" href="articles/deepseek-open-weight-ai-explained.html">
-<div class="card-emoji">🌊</div>
+</a><a class="card reveal" href="articles/deepseek-open-weight-ai-explained.html">
+<div class="art " style="background:linear-gradient(135deg,hsl(235,62%,42%),hsl(290,68%,30%))"><span class="art-letter" style="font-size:4.2rem">D</span></div>
 <div class="card-body">
-<span class="badge">AI News</span>
+<span class="badge news">AI News</span>
 <h3>DeepSeek Explained: Why This Open-Weight AI Model Shook the Industry</h3>
 <p>A Chinese lab showed world-class AI can be built far more cheaply than assumed. Here&#x27;s why DeepSeek matters — and what &quot;open-weight&quot; means.</p>
-<div class="meta"><span>2026-10-10</span> · <span>5 min read</span></div>
+<div class="meta"><span>Oct 10, 2026</span><span class="dot">•</span><span>5 min read</span></div>
 </div>
-</a></div></section><section class="cat-section"><div class="section-head"><h2>🛠️ AI Tools</h2><a href="ai-tools.html">View all →</a></div><div class="grid"><a class="card" href="articles/gemini-vs-chatgpt-which-to-use.html">
-<div class="card-emoji">⚔️</div>
+</a></div></section><section class="cat-section"><div class="section-head reveal"><h2><span class="sec-emoji">🛠️</span>AI Tools</h2><a href="ai-tools.html">View all →</a></div><div class="grid"><a class="card reveal" href="articles/gemini-vs-chatgpt-which-to-use.html">
+<div class="art " style="background:linear-gradient(135deg,hsl(175,62%,42%),hsl(230,68%,30%))"><span class="art-letter" style="font-size:4.2rem">G</span></div>
 <div class="card-body">
-<span class="badge">AI Tools</span>
+<span class="badge tools">AI Tools</span>
 <h3>Gemini vs ChatGPT in 2026: Which AI Assistant Should You Actually Use?</h3>
 <p>The two biggest AI assistants compared on real-world tasks — writing, coding, research, and multimodal smarts — so you can pick the right one.</p>
-<div class="meta"><span>2026-10-16</span> · <span>6 min read</span></div>
+<div class="meta"><span>Oct 16, 2026</span><span class="dot">•</span><span>6 min read</span></div>
 </div>
-</a><a class="card" href="articles/best-free-ai-tools-students-2026.html">
-<div class="card-emoji">🎓</div>
+</a><a class="card reveal" href="articles/best-free-ai-tools-students-2026.html">
+<div class="art " style="background:linear-gradient(135deg,hsl(156,62%,42%),hsl(211,68%,30%))"><span class="art-letter" style="font-size:4.2rem">1</span></div>
 <div class="card-body">
-<span class="badge">AI Tools</span>
+<span class="badge tools">AI Tools</span>
 <h3>10 Free AI Tools for Students That Are Actually Worth Your Time</h3>
 <p>From research to revision, these free AI tools help students study smarter — no credit card required.</p>
-<div class="meta"><span>2026-10-15</span> · <span>7 min read</span></div>
+<div class="meta"><span>Oct 15, 2026</span><span class="dot">•</span><span>7 min read</span></div>
 </div>
-</a><a class="card" href="articles/ai-tools-video-creators-save-time.html">
-<div class="card-emoji">🎬</div>
+</a><a class="card reveal" href="articles/ai-tools-video-creators-save-time.html">
+<div class="art " style="background:linear-gradient(135deg,hsl(140,62%,42%),hsl(195,68%,30%))"><span class="art-letter" style="font-size:4.2rem">5</span></div>
 <div class="card-body">
-<span class="badge">AI Tools</span>
+<span class="badge tools">AI Tools</span>
 <h3>5 AI Tools for Video Creators That Actually Save Time (Not Just Hype)</h3>
 <p>Editing, captions, voiceovers, thumbnails — these AI tools cut real hours from the video workflow.</p>
-<div class="meta"><span>2026-10-11</span> · <span>6 min read</span></div>
+<div class="meta"><span>Oct 11, 2026</span><span class="dot">•</span><span>6 min read</span></div>
 </div>
-</a></div></section><section class="cat-section"><div class="section-head"><h2>🎯 Tutorials</h2><a href="tutorials.html">View all →</a></div><div class="grid"><a class="card" href="articles/prompt-engineering-beginners-guide.html">
-<div class="card-emoji">✍️</div>
+</a></div></section><section class="cat-section"><div class="section-head reveal"><h2><span class="sec-emoji">🎯</span>Tutorials</h2><a href="tutorials.html">View all →</a></div><div class="grid"><a class="card reveal" href="articles/prompt-engineering-beginners-guide.html">
+<div class="art " style="background:linear-gradient(135deg,hsl(27,62%,42%),hsl(82,68%,30%))"><span class="art-letter" style="font-size:4.2rem">P</span></div>
 <div class="card-body">
-<span class="badge">Tutorials</span>
+<span class="badge tutorials">Tutorials</span>
 <h3>Prompt Engineering for Beginners: 7 Techniques That Instantly Improve AI Answers</h3>
 <p>Stop getting generic AI responses. These seven simple prompting techniques will 10x the quality of what ChatGPT, Claude, and Gemini give you.</p>
-<div class="meta"><span>2026-10-13</span> · <span>8 min read</span></div>
+<div class="meta"><span>Oct 13, 2026</span><span class="dot">•</span><span>8 min read</span></div>
 </div>
-</a><a class="card" href="articles/small-business-ai-without-developers.html">
-<div class="card-emoji">🏪</div>
+</a><a class="card reveal" href="articles/small-business-ai-without-developers.html">
+<div class="art " style="background:linear-gradient(135deg,hsl(50,62%,42%),hsl(105,68%,30%))"><span class="art-letter" style="font-size:4.2rem">H</span></div>
 <div class="card-body">
-<span class="badge">Tutorials</span>
+<span class="badge tutorials">Tutorials</span>
 <h3>How Small Businesses Can Use AI Today (No Developers Required)</h3>
 <p>A practical playbook: customer support, marketing, and admin — the three places AI pays for itself fastest in a small business.</p>
-<div class="meta"><span>2026-10-08</span> · <span>8 min read</span></div>
+<div class="meta"><span>Oct 8, 2026</span><span class="dot">•</span><span>8 min read</span></div>
 </div>
-</a></div></section><section class="cat-section"><div class="section-head"><h2>📖 Explainers</h2><a href="explainers.html">View all →</a></div><div class="grid"><a class="card" href="articles/what-is-llm-explained-simply.html">
-<div class="card-emoji">📖</div>
+</a></div></section><section class="cat-section"><div class="section-head reveal"><h2><span class="sec-emoji">📖</span>Explainers</h2><a href="explainers.html">View all →</a></div><div class="grid"><a class="card reveal" href="articles/what-is-llm-explained-simply.html">
+<div class="art " style="background:linear-gradient(135deg,hsl(334,62%,42%),hsl(29,68%,30%))"><span class="art-letter" style="font-size:4.2rem">W</span></div>
 <div class="card-body">
-<span class="badge">Explainers</span>
+<span class="badge explainers">Explainers</span>
 <h3>What Is an LLM? Large Language Models Explained in Plain English</h3>
 <p>No jargon, no hype — just a clear explanation of what large language models are, how they work, and what they can&#x27;t do.</p>
-<div class="meta"><span>2026-10-14</span> · <span>5 min read</span></div>
+<div class="meta"><span>Oct 14, 2026</span><span class="dot">•</span><span>5 min read</span></div>
 </div>
-</a><a class="card" href="articles/grok-xai-chatbot-explained.html">
-<div class="card-emoji">✖️</div>
+</a><a class="card reveal" href="articles/grok-xai-chatbot-explained.html">
+<div class="art " style="background:linear-gradient(135deg,hsl(322,62%,42%),hsl(17,68%,30%))"><span class="art-letter" style="font-size:4.2rem">G</span></div>
 <div class="card-body">
-<span class="badge">Explainers</span>
+<span class="badge explainers">Explainers</span>
 <h3>Grok by xAI: Elon Musk&#x27;s AI Chatbot, Explained</h3>
 <p>Integrated with X and pitched as the witty, unfiltered alternative — what Grok actually offers and who it&#x27;s for.</p>
-<div class="meta"><span>2026-10-06</span> · <span>5 min read</span></div>
+<div class="meta"><span>Oct 6, 2026</span><span class="dot">•</span><span>5 min read</span></div>
 </div>
 </a></div></section>
-<section class="newsletter"><h2>📬 Get the AI Brief in your inbox</h2><p>One short email per week. The most important AI stories, zero spam.</p><form id="nlForm"><input type="email" id="nlEmail" placeholder="you@example.com" required><button type="submit">Subscribe</button></form><p class="nl-note" id="nlNote"></p></section>
+<section class="newsletter reveal">
+<h2>Get the AI Brief in your inbox</h2>
+<p>One short email per week. The most important AI stories, zero spam. Join thousands of AI-curious readers.</p>
+<div class="stats">
+<div><strong>12+</strong>Original briefs</div>
+<div><strong>4</strong>Sections</div>
+<div><strong>0</strong>Spam, ever</div>
+</div>
+<form id="nlForm"><input type="email" id="nlEmail" placeholder="you@example.com" required aria-label="Email"><button type="submit">Subscribe free</button></form>
+<p class="nl-note" id="nlNote"></p>
+</section>
 </main>
 <footer class="site-footer">
-<div class="wrap footer-grid">
-<div>
-<h4>🤖 AI Brief</h4>
-<p>AI news &amp; tools, explained simply. Original briefs, honest takes, and practical guides — published daily.</p>
+<div class="wrap footer-top">
+<div class="footer-brand">
+<a class="logo" href="index.html"><span class="logo-mark">🤖</span><span><em>AI</em> Brief</span></a>
+<p style="margin-top:12px">AI news &amp; tools, explained simply. Original briefs, honest takes, and practical guides — published daily for a worldwide audience.</p>
 </div>
 <div>
 <h4>Sections</h4>
-<p><a href="ai-news.html">AI News</a><br><a href="ai-tools.html">AI Tools</a><br><a href="tutorials.html">Tutorials</a><br><a href="explainers.html">Explainers</a></p>
+<ul>
+<li><a href="ai-news.html">AI News</a></li>
+<li><a href="ai-tools.html">AI Tools</a></li>
+<li><a href="tutorials.html">Tutorials</a></li>
+<li><a href="explainers.html">Explainers</a></li>
+</ul>
 </div>
 <div>
 <h4>Site</h4>
-<p><a href="about.html">About</a><br><a href="contact.html">Contact</a><br><a href="privacy.html">Privacy Policy</a></p>
+<ul>
+<li><a href="about.html">About</a></li>
+<li><a href="contact.html">Contact</a></li>
+<li><a href="privacy.html">Privacy Policy</a></li>
+</ul>
+</div>
+<div class="footer-nl">
+<h4>Newsletter</h4>
+<p>One short email per week. The most important AI stories, zero spam.</p>
+<form id="nlFormFooter"><input type="email" placeholder="you@example.com" required aria-label="Email"><button type="submit">Join</button></form>
+<p class="nl-note" id="nlNoteFooter" style="font-size:.82rem"></p>
 </div>
 </div>
 <div class="wrap footer-bottom">
-<p>© 2026 AI Brief. Summaries are original commentary with source links; all trademarks belong to their owners.</p>
+<p>© 2026 AI Brief. Original summaries with source links; all trademarks belong to their owners.</p>
+<p>Made with 🤖 for the AI-curious.</p>
 </div>
 </footer>
 <script src="js/app.js"></script>

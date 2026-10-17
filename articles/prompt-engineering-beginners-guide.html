@@ -12,9 +12,13 @@
 <meta property="og:type" content="article">
 <meta property="og:url" content="https://ainews-psi-teal.vercel.app/articles/prompt-engineering-beginners-guide.html">
 <meta property="og:site_name" content="AI Brief">
-<meta name="twitter:card" content="summary">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="Prompt Engineering for Beginners: 7 Techniques That Instantly Improve AI Answers — AI Brief">
+<meta name="twitter:description" content="Stop getting generic AI responses. These seven simple prompting techniques will 10x the quality of what ChatGPT, Claude, and Gemini give you.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link rel="stylesheet" href="css/style.css">
-<link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>✍️</text></svg>">
+<link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><rect width='100' height='100' rx='22' fill='%234f46e5'/><text x='50' y='68' font-size='52' text-anchor='middle' fill='white' font-family='Georgia'>A</text></svg>">
 <!-- Google tag (gtag.js) — replace G-XXXXXXXXXX with your GA4 Measurement ID -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-XXXXXXXXXX"></script>
 <script>
@@ -23,12 +27,15 @@ function gtag(){dataLayer.push(arguments);}
 gtag("js", new Date());
 gtag("config", "G-XXXXXXXXXX");
 </script>
-<script type="application/ld+json">{"@context": "https://schema.org", "@type": "NewsArticle", "headline": "Prompt Engineering for Beginners: 7 Techniques That Instantly Improve AI Answers", "description": "Stop getting generic AI responses. These seven simple prompting techniques will 10x the quality of what ChatGPT, Claude, and Gemini give you.", "datePublished": "2026-10-13", "dateModified": "2026-10-13", "author": {"@type": "Organization", "name": "AI Brief"}, "publisher": {"@type": "Organization", "name": "AI Brief", "url": "https://ainews-psi-teal.vercel.app"}, "mainEntityOfPage": "https://ainews-psi-teal.vercel.app/articles/prompt-engineering-beginners-guide.html"}</script>
+<script type="application/ld+json">{"@context": "https://schema.org", "@type": "NewsArticle", "headline": "Prompt Engineering for Beginners: 7 Techniques That Instantly Improve AI Answers", "description": "Stop getting generic AI responses. These seven simple prompting techniques will 10x the quality of what ChatGPT, Claude, and Gemini give you.", "datePublished": "2026-10-13", "dateModified": "2026-10-13", "author": {"@type": "Organization", "name": "AI Brief", "url": "https://ainews-psi-teal.vercel.app"}, "publisher": {"@type": "Organization", "name": "AI Brief", "url": "https://ainews-psi-teal.vercel.app"}, "mainEntityOfPage": "https://ainews-psi-teal.vercel.app/articles/prompt-engineering-beginners-guide.html"}</script>
+<script type="application/ld+json">{"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "Home", "item": "https://ainews-psi-teal.vercel.app/"}, {"@type": "ListItem", "position": 2, "name": "Tutorials", "item": "https://ainews-psi-teal.vercel.app/tutorials.html"}, {"@type": "ListItem", "position": 3, "name": "Prompt Engineering for Beginners: 7 Techniques That Instantly Improve AI Answers"}]}</script>
 </head><body>
+<div class="ticker" aria-hidden="true"><div class="ticker-inner"><span class="tick-label">Latest</span><a href="articles/chatgpt-new-reasoning-features-explained.html">ChatGPT&#x27;s Reasoning Models: What &quot;Thinking Longer&quot; Actually Means for You</a><a href="articles/gemini-vs-chatgpt-which-to-use.html">Gemini vs ChatGPT in 2026: Which AI Assistant Should You Actually Use?</a><a href="articles/best-free-ai-tools-students-2026.html">10 Free AI Tools for Students That Are Actually Worth Your Time</a><a href="articles/what-is-llm-explained-simply.html">What Is an LLM? Large Language Models Explained in Plain English</a><a href="articles/prompt-engineering-beginners-guide.html">Prompt Engineering for Beginners: 7 Techniques That Instantly Improve AI Answers</a><a href="articles/anthropic-claude-what-makes-it-different.html">Anthropic&#x27;s Claude: What Makes It Different from ChatGPT?</a><a href="articles/ai-tools-video-creators-save-time.html">5 AI Tools for Video Creators That Actually Save Time (Not Just Hype)</a><a href="articles/deepseek-open-weight-ai-explained.html">DeepSeek Explained: Why This Open-Weight AI Model Shook the Industry</a><a href="articles/chatgpt-new-reasoning-features-explained.html">ChatGPT&#x27;s Reasoning Models: What &quot;Thinking Longer&quot; Actually Means for You</a><a href="articles/gemini-vs-chatgpt-which-to-use.html">Gemini vs ChatGPT in 2026: Which AI Assistant Should You Actually Use?</a><a href="articles/best-free-ai-tools-students-2026.html">10 Free AI Tools for Students That Are Actually Worth Your Time</a><a href="articles/what-is-llm-explained-simply.html">What Is an LLM? Large Language Models Explained in Plain English</a><a href="articles/prompt-engineering-beginners-guide.html">Prompt Engineering for Beginners: 7 Techniques That Instantly Improve AI Answers</a><a href="articles/anthropic-claude-what-makes-it-different.html">Anthropic&#x27;s Claude: What Makes It Different from ChatGPT?</a><a href="articles/ai-tools-video-creators-save-time.html">5 AI Tools for Video Creators That Actually Save Time (Not Just Hype)</a><a href="articles/deepseek-open-weight-ai-explained.html">DeepSeek Explained: Why This Open-Weight AI Model Shook the Industry</a></div></div>
 <header class="site-header">
 <div class="wrap header-inner">
-<a class="logo" href="index.html">🤖 <span>AI</span> Brief</a>
-<nav class="main-nav">
+<a class="logo" href="index.html"><span class="logo-mark">🤖</span><span><em>AI</em> Brief</span></a>
+<button class="icon-btn hamburger" id="hamburger" aria-label="Menu">☰</button>
+<nav class="main-nav" id="mainNav">
 <a href="index.html">Home</a>
 <a href="ai-news.html">AI News</a>
 <a href="ai-tools.html">AI Tools</a>
@@ -36,48 +43,120 @@ gtag("config", "G-XXXXXXXXXX");
 <a href="explainers.html">Explainers</a>
 <a href="about.html">About</a>
 </nav>
-<button class="theme-toggle" id="themeToggle" aria-label="Toggle dark mode">🌙</button>
+<div class="header-actions">
+<button class="icon-btn" data-search-open aria-label="Search (Ctrl+K)" title="Search (Ctrl+K)">🔍</button>
+<button class="icon-btn theme-toggle" aria-label="Toggle dark mode">🌙</button>
+<button class="btn-subscribe" data-subscribe>Subscribe</button>
+</div>
 </div>
 </header>
-<main class="wrap article-page">
-<nav class="crumbs"><a href="../index.html">Home</a> / <a href="../tutorials.html">Tutorials</a></nav>
+<div class="search-overlay" id="searchOverlay">
+<div class="search-box">
+<input type="text" id="searchInput" placeholder="Search AI news, tools, guides…" autocomplete="off">
+<div class="search-results" id="searchResults"></div>
+</div>
+</div>
+<div class="progress-bar" id="progressBar"></div>
+<main class="wrap">
+<nav class="crumbs"><a href="../index.html">Home</a> &nbsp;/&nbsp; <a href="../tutorials.html">Tutorials</a> &nbsp;/&nbsp; <span>Prompt Engineering for Beginners: 7 Techni…</span></nav>
+<div class="article-layout">
+<div class="article-main">
 <article>
-<div class="article-emoji">✍️</div>
-<span class="badge">Tutorials</span>
+<span class="badge tutorials">Tutorials</span>
 <h1>Prompt Engineering for Beginners: 7 Techniques That Instantly Improve AI Answers</h1>
-<div class="meta"><span>By AI Brief</span> · <span>2026-10-13</span> · <span>8 min read</span></div>
 <p class="lede">Stop getting generic AI responses. These seven simple prompting techniques will 10x the quality of what ChatGPT, Claude, and Gemini give you.</p>
-<div class="article-body"><p>Most people use 10% of what AI assistants can do because their prompts are vague. The fix is simple. <strong>1. Be specific:</strong> "write a 200-word product description for a running shoe" beats "write about shoes." <strong>2. Give context:</strong> tell the AI who the audience is. <strong>3. Show an example</strong> of the style you want. <strong>4. Ask for step-by-step reasoning</strong> on hard problems.</p><p><strong>5. Iterate:</strong> treat the first answer as a draft and ask for revisions. <strong>6. Set constraints:</strong> length, tone, format. <strong>7. Use roles:</strong> "act as a hiring manager reviewing this resume" produces sharper feedback than a generic request.</p><p><strong>Why it matters:</strong> Prompting is the highest-leverage AI skill — it works across every tool and model. Our take: you don't need a 50-page course. Master these seven techniques and you'll outperform 90% of AI users immediately.</p></div>
+<div class="byline">
+<div class="avatar">A</div>
+<div class="who"><strong>AI Brief</strong><span>Oct 13, 2026 · 8 min read</span></div>
+<div class="share-row">
+<button class="share-btn" data-share="x" aria-label="Share on X" title="Share on X">𝕏</button>
+<button class="share-btn" data-share="linkedin" aria-label="Share on LinkedIn" title="Share on LinkedIn">in</button>
+<button class="share-btn" data-share="copy" aria-label="Copy link" title="Copy link">🔗</button>
+</div>
+</div>
+<div class="article-cover"><div class="art" style="background:linear-gradient(135deg,hsl(27,62%,42%),hsl(82,68%,30%))"><span class="art-letter" style="font-size:8rem">P</span></div></div>
+<div class="article-body"><p>Most people use 10% of what AI assistants can do because their prompts are vague. The fix is simple. <strong>1. Be specific:</strong> "write a 200-word product description for a running shoe" beats "write about shoes." <strong>2. Give context:</strong> tell the AI who the audience is. <strong>3. Show an example</strong> of the style you want. <strong>4. Ask for step-by-step reasoning</strong> on hard problems.</p><p><strong>5. Iterate:</strong> treat the first answer as a draft and ask for revisions. <strong>6. Set constraints:</strong> length, tone, format. <strong>7. Use roles:</strong> "act as a hiring manager reviewing this resume" produces sharper feedback than a generic request.</p><div class="why-box"><h4>💡 Why it matters</h4><p> Prompting is the highest-leverage AI skill — it works across every tool and model. Our take: you don't need a 50-page course. Master these seven techniques and you'll outperform 90% of AI users immediately.</p></div></div>
 <div class="source-box">🔗 <strong>Source:</strong> <a href="https://ainews-psi-teal.vercel.app/tutorials.html" rel="nofollow noopener" target="_blank">AI Brief Tutorials</a><p class="fine">This is an original summary with commentary. Read the full story at the source.</p></div>
 <div class="tags"><span class="tag">#Prompts</span> <span class="tag">#Tutorial</span> <span class="tag">#ChatGPT</span></div>
+<div class="author-box">
+<div class="avatar">A</div>
+<div><h4>AI Brief</h4><p>AI news &amp; tools, explained simply. Original briefs with honest takes, published daily for readers worldwide.</p></div>
+</div>
 </article>
-<section><div class="section-head"><h2>Related</h2></div><div class="grid"><a class="card" href="articles/small-business-ai-without-developers.html">
-<div class="card-emoji">🏪</div>
+<nav class="pn-nav"><a class="pn-card prev reveal" href="what-is-llm-explained-simply.html"><span>← Newer</span><h4>What Is an LLM? Large Language Models Explained in Plain English</h4></a><a class="pn-card next reveal" href="anthropic-claude-what-makes-it-different.html"><span>Older →</span><h4>Anthropic&#x27;s Claude: What Makes It Different from ChatGPT?</h4></a></nav>
+</div>
+<aside class="sidebar">
+<div class="side-card reveal">
+<h4>🔥 Trending</h4>
+<ol><li><a href="chatgpt-new-reasoning-features-explained.html">ChatGPT&#x27;s Reasoning Models: What &quot;Thinking Longer&quot; Actually Means for You</a></li><li><a href="gemini-vs-chatgpt-which-to-use.html">Gemini vs ChatGPT in 2026: Which AI Assistant Should You Actually Use?</a></li><li><a href="best-free-ai-tools-students-2026.html">10 Free AI Tools for Students That Are Actually Worth Your Time</a></li><li><a href="what-is-llm-explained-simply.html">What Is an LLM? Large Language Models Explained in Plain English</a></li><li><a href="anthropic-claude-what-makes-it-different.html">Anthropic&#x27;s Claude: What Makes It Different from ChatGPT?</a></li></ol>
+</div>
+<div class="side-card side-nl reveal">
+<h4>📬 Weekly AI Brief</h4>
+<p>The most important AI stories, once a week. Zero spam.</p>
+<form id="nlFormSide"><input type="email" placeholder="you@example.com" required aria-label="Email"><button type="submit">Subscribe</button></form>
+<p class="nl-note" id="nlNoteSide" style="font-size:.82rem"></p>
+</div>
+</aside>
+</div>
+<section><div class="section-head reveal"><h2>Related briefs</h2></div><div class="grid"><a class="card reveal" href="articles/small-business-ai-without-developers.html">
+<div class="art " style="background:linear-gradient(135deg,hsl(50,62%,42%),hsl(105,68%,30%))"><span class="art-letter" style="font-size:4.2rem">H</span></div>
 <div class="card-body">
-<span class="badge">Tutorials</span>
+<span class="badge tutorials">Tutorials</span>
 <h3>How Small Businesses Can Use AI Today (No Developers Required)</h3>
 <p>A practical playbook: customer support, marketing, and admin — the three places AI pays for itself fastest in a small business.</p>
-<div class="meta"><span>2026-10-08</span> · <span>8 min read</span></div>
+<div class="meta"><span>Oct 8, 2026</span><span class="dot">•</span><span>8 min read</span></div>
+</div>
+</a><a class="card reveal" href="articles/chatgpt-new-reasoning-features-explained.html">
+<div class="art " style="background:linear-gradient(135deg,hsl(233,62%,42%),hsl(288,68%,30%))"><span class="art-letter" style="font-size:4.2rem">C</span></div>
+<div class="card-body">
+<span class="badge news">AI News</span>
+<h3>ChatGPT&#x27;s Reasoning Models: What &quot;Thinking Longer&quot; Actually Means for You</h3>
+<p>OpenAI&#x27;s newer ChatGPT models spend more time reasoning before answering. Here&#x27;s what changes in everyday use — and when it doesn&#x27;t matter.</p>
+<div class="meta"><span>Oct 17, 2026</span><span class="dot">•</span><span>4 min read</span></div>
+</div>
+</a><a class="card reveal" href="articles/gemini-vs-chatgpt-which-to-use.html">
+<div class="art " style="background:linear-gradient(135deg,hsl(175,62%,42%),hsl(230,68%,30%))"><span class="art-letter" style="font-size:4.2rem">G</span></div>
+<div class="card-body">
+<span class="badge tools">AI Tools</span>
+<h3>Gemini vs ChatGPT in 2026: Which AI Assistant Should You Actually Use?</h3>
+<p>The two biggest AI assistants compared on real-world tasks — writing, coding, research, and multimodal smarts — so you can pick the right one.</p>
+<div class="meta"><span>Oct 16, 2026</span><span class="dot">•</span><span>6 min read</span></div>
 </div>
 </a></div></section>
 </main>
 <footer class="site-footer">
-<div class="wrap footer-grid">
-<div>
-<h4>🤖 AI Brief</h4>
-<p>AI news &amp; tools, explained simply. Original briefs, honest takes, and practical guides — published daily.</p>
+<div class="wrap footer-top">
+<div class="footer-brand">
+<a class="logo" href="index.html"><span class="logo-mark">🤖</span><span><em>AI</em> Brief</span></a>
+<p style="margin-top:12px">AI news &amp; tools, explained simply. Original briefs, honest takes, and practical guides — published daily for a worldwide audience.</p>
 </div>
 <div>
 <h4>Sections</h4>
-<p><a href="ai-news.html">AI News</a><br><a href="ai-tools.html">AI Tools</a><br><a href="tutorials.html">Tutorials</a><br><a href="explainers.html">Explainers</a></p>
+<ul>
+<li><a href="ai-news.html">AI News</a></li>
+<li><a href="ai-tools.html">AI Tools</a></li>
+<li><a href="tutorials.html">Tutorials</a></li>
+<li><a href="explainers.html">Explainers</a></li>
+</ul>
 </div>
 <div>
 <h4>Site</h4>
-<p><a href="about.html">About</a><br><a href="contact.html">Contact</a><br><a href="privacy.html">Privacy Policy</a></p>
+<ul>
+<li><a href="about.html">About</a></li>
+<li><a href="contact.html">Contact</a></li>
+<li><a href="privacy.html">Privacy Policy</a></li>
+</ul>
+</div>
+<div class="footer-nl">
+<h4>Newsletter</h4>
+<p>One short email per week. The most important AI stories, zero spam.</p>
+<form id="nlFormFooter"><input type="email" placeholder="you@example.com" required aria-label="Email"><button type="submit">Join</button></form>
+<p class="nl-note" id="nlNoteFooter" style="font-size:.82rem"></p>
 </div>
 </div>
 <div class="wrap footer-bottom">
-<p>© 2026 AI Brief. Summaries are original commentary with source links; all trademarks belong to their owners.</p>
+<p>© 2026 AI Brief. Original summaries with source links; all trademarks belong to their owners.</p>
+<p>Made with 🤖 for the AI-curious.</p>
 </div>
 </footer>
 <script src="js/app.js"></script>
