@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Sitemap: https://ainews.vercel.app/sitemap.xml
+Sitemap: https://ainews.vercel.app/news-sitemap.xml
