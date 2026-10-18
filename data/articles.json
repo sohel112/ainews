@@ -442,6 +442,86 @@
       "source_url": "https://huggingface.co/blog/allenai/benchmirt",
       "body": "<p><strong>BenchMIRT: What are LLM benchmarks actually measuring?</strong> — reported by Hugging Face Blog. AI summary pending review; read the full story at the source link below.</p>",
       "draft": true
+    },
+    {
+      "slug": "2026-10-18-granite-4-2-llms-how-they-re-built",
+      "title": "Granite 4.2 LLMs: How They're Built",
+      "excerpt": "Ady on: Granite 4.2 LLMs: How They're Built",
+      "category": "AI News",
+      "date": "2026-10-18",
+      "read_minutes": 3,
+      "emoji": "📰",
+      "tags": [
+        "AI News"
+      ],
+      "source_name": "Hugging Face Blog",
+      "source_url": "https://huggingface.co/blog/ibm-granite/granite-4-2",
+      "body": "<p><strong>Granite 4.2 LLMs: How They&#x27;re Built</strong> — reported by Hugging Face Blog. AI summary pending review; read the full story at the source link below.</p>",
+      "draft": true
+    },
+    {
+      "slug": "2026-10-18-wire-it-run-it-deploy-it-ai-workflows-in-gradio",
+      "title": "Wire It, Run It, Deploy It: AI Workflows in Gradio",
+      "excerpt": "Ady on: Wire It, Run It, Deploy It: AI Workflows in Gradio",
+      "category": "AI News",
+      "date": "2026-10-18",
+      "read_minutes": 3,
+      "emoji": "📰",
+      "tags": [
+        "AI News"
+      ],
+      "source_name": "Hugging Face Blog",
+      "source_url": "https://huggingface.co/blog/gradio-workflow-guide",
+      "body": "<p><strong>Wire It, Run It, Deploy It: AI Workflows in Gradio</strong> — reported by Hugging Face Blog. AI summary pending review; read the full story at the source link below.</p>",
+      "draft": true
+    },
+    {
+      "slug": "2026-10-18-record-train-and-deploy-from-one-place-with-strands-agents-l",
+      "title": "Record, train, and deploy from one place with Strands Agents, LeRobot, and Hugging Face Storage Buckets",
+      "excerpt": "Ady on: Record, train, and deploy from one place with Strands Agents, LeRobot, and Hugging Face Storage Buckets",
+      "category": "AI News",
+      "date": "2026-10-18",
+      "read_minutes": 3,
+      "emoji": "📰",
+      "tags": [
+        "AI News"
+      ],
+      "source_name": "Hugging Face Blog",
+      "source_url": "https://huggingface.co/blog/amazon/strands-lerobot-streaming-data-loop",
+      "body": "<p><strong>Record, train, and deploy from one place with Strands Agents, LeRobot, and Hugging Face Storage Buckets</strong> — reported by Hugging Face Blog. AI summary pending review; read the full story at the source link below.</p>",
+      "draft": true
+    },
+    {
+      "slug": "2026-10-18-nvidia-cosmos-h-dreams-bringing-real-time-generative-simulat",
+      "title": "NVIDIA Cosmos-H-Dreams: Bringing Real-Time Generative Simulation to Surgical Robotics",
+      "excerpt": "Ady on: NVIDIA Cosmos-H-Dreams: Bringing Real-Time Generative Simulation to Surgical Robotics",
+      "category": "AI News",
+      "date": "2026-10-18",
+      "read_minutes": 3,
+      "emoji": "📰",
+      "tags": [
+        "AI News"
+      ],
+      "source_name": "Hugging Face Blog",
+      "source_url": "https://huggingface.co/blog/nvidia/cosmos-h-dreams",
+      "body": "<p><strong>NVIDIA Cosmos-H-Dreams: Bringing Real-Time Generative Simulation to Surgical Robotics</strong> — reported by Hugging Face Blog. AI summary pending review; read the full story at the source link below.</p>",
+      "draft": true
+    },
+    {
+      "slug": "2026-10-18-grabette-an-open-system-to-record-robot-manipulation-data",
+      "title": "Grabette: an open system to record robot-manipulation data",
+      "excerpt": "Ady on: Grabette: an open system to record robot-manipulation data",
+      "category": "AI News",
+      "date": "2026-10-18",
+      "read_minutes": 3,
+      "emoji": "📰",
+      "tags": [
+        "AI News"
+      ],
+      "source_name": "Hugging Face Blog",
+      "source_url": "https://huggingface.co/blog/grabette",
+      "body": "<p><strong>Grabette: an open system to record robot-manipulation data</strong> — reported by Hugging Face Blog. AI summary pending review; read the full story at the source link below.</p>",
+      "draft": true
     }
   ],
   "site": {
