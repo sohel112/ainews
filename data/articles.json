@@ -602,6 +602,86 @@
       "source_url": "https://huggingface.co/blog/ibm-research/scarfbench",
       "body": "<p><strong>ScarfBench: Benchmarking AI Agents for Enterprise Java Framework Migration</strong> — reported by Hugging Face Blog. AI summary pending review; read the full story at the source link below.</p>",
       "draft": true
+    },
+    {
+      "slug": "2026-10-19-run-a-vllm-server-on-hf-jobs-in-one-command",
+      "title": "Run a vLLM Server on HF Jobs in One Command",
+      "excerpt": "Ady on: Run a vLLM Server on HF Jobs in One Command",
+      "category": "AI News",
+      "date": "2026-10-19",
+      "read_minutes": 3,
+      "emoji": "📰",
+      "tags": [
+        "AI News"
+      ],
+      "source_name": "Hugging Face Blog",
+      "source_url": "https://huggingface.co/blog/vllm-jobs",
+      "body": "<p><strong>Run a vLLM Server on HF Jobs in One Command</strong> — reported by Hugging Face Blog. AI summary pending review; read the full story at the source link below.</p>",
+      "draft": true
+    },
+    {
+      "slug": "2026-10-19-from-the-hugging-face-hub-to-robot-hardware-with-strands-age",
+      "title": "From the Hugging Face Hub to robot hardware with Strands Agents and LeRobot",
+      "excerpt": "Ady on: From the Hugging Face Hub to robot hardware with Strands Agents and LeRobot",
+      "category": "AI News",
+      "date": "2026-10-19",
+      "read_minutes": 3,
+      "emoji": "📰",
+      "tags": [
+        "AI News"
+      ],
+      "source_name": "Hugging Face Blog",
+      "source_url": "https://huggingface.co/blog/amazon/strands-lerobot-hub-to-hardware",
+      "body": "<p><strong>From the Hugging Face Hub to robot hardware with Strands Agents and LeRobot</strong> — reported by Hugging Face Blog. AI summary pending review; read the full story at the source link below.</p>",
+      "draft": true
+    },
+    {
+      "slug": "2026-10-19-beyond-llms-why-scalable-enterprise-ai-adoption-depends-on-a",
+      "title": "Beyond LLMs: Why Scalable Enterprise AI Adoption Depends on Agent Logic",
+      "excerpt": "Ady on: Beyond LLMs: Why Scalable Enterprise AI Adoption Depends on Agent Logic",
+      "category": "AI News",
+      "date": "2026-10-19",
+      "read_minutes": 3,
+      "emoji": "📰",
+      "tags": [
+        "AI News"
+      ],
+      "source_name": "Hugging Face Blog",
+      "source_url": "https://huggingface.co/blog/ibm-research/agent-logic-and-scalable-ai-adoption",
+      "body": "<p><strong>Beyond LLMs: Why Scalable Enterprise AI Adoption Depends on Agent Logic</strong> — reported by Hugging Face Blog. AI summary pending review; read the full story at the source link below.</p>",
+      "draft": true
+    },
+    {
+      "slug": "2026-10-19-harness-scaffold-and-the-ai-agent-terms-worth-getting-right",
+      "title": "Harness, Scaffold, and the AI Agent Terms Worth Getting Right",
+      "excerpt": "Ady on: Harness, Scaffold, and the AI Agent Terms Worth Getting Right",
+      "category": "AI News",
+      "date": "2026-10-19",
+      "read_minutes": 3,
+      "emoji": "📰",
+      "tags": [
+        "AI News"
+      ],
+      "source_name": "Hugging Face Blog",
+      "source_url": "https://huggingface.co/blog/agent-glossary",
+      "body": "<p><strong>Harness, Scaffold, and the AI Agent Terms Worth Getting Right</strong> — reported by Hugging Face Blog. AI summary pending review; read the full story at the source link below.</p>",
+      "draft": true
+    },
+    {
+      "slug": "2026-10-19-vllm-v0-to-v1-correctness-before-corrections-in-rl",
+      "title": "vLLM V0 to V1: Correctness Before Corrections in RL",
+      "excerpt": "Ady on: vLLM V0 to V1: Correctness Before Corrections in RL",
+      "category": "AI News",
+      "date": "2026-10-19",
+      "read_minutes": 3,
+      "emoji": "📰",
+      "tags": [
+        "AI News"
+      ],
+      "source_name": "Hugging Face Blog",
+      "source_url": "https://huggingface.co/blog/ServiceNow-AI/correctness-before-corrections",
+      "body": "<p><strong>vLLM V0 to V1: Correctness Before Corrections in RL</strong> — reported by Hugging Face Blog. AI summary pending review; read the full story at the source link below.</p>",
+      "draft": true
     }
   ],
   "site": {
