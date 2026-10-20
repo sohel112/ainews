@@ -842,6 +842,86 @@
       "source_url": "https://huggingface.co/blog/ibm-granite/granite-4-1",
       "body": "<p><strong>Granite 4.1 LLMs: How They’re Built</strong> — reported by Hugging Face Blog. AI summary pending review; read the full story at the source link below.</p>",
       "draft": true
+    },
+    {
+      "slug": "2026-10-20-how-to-build-scalable-web-apps-with-openai-s-privacy-filter",
+      "title": "How to build scalable web apps with OpenAI's Privacy Filter",
+      "excerpt": "Ady on: How to build scalable web apps with OpenAI's Privacy Filter",
+      "category": "AI News",
+      "date": "2026-10-20",
+      "read_minutes": 3,
+      "emoji": "📰",
+      "tags": [
+        "AI News"
+      ],
+      "source_name": "Hugging Face Blog",
+      "source_url": "https://huggingface.co/blog/openai-privacy-filter-web-apps",
+      "body": "<p><strong>How to build scalable web apps with OpenAI&#x27;s Privacy Filter</strong> — reported by Hugging Face Blog. AI summary pending review; read the full story at the source link below.</p>",
+      "draft": true
+    },
+    {
+      "slug": "2026-10-20-qimma-a-quality-first-arabic-llm-leaderboard",
+      "title": "QIMMA قِمّة ⛰: A Quality-First Arabic LLM Leaderboard",
+      "excerpt": "Ady on: QIMMA قِمّة ⛰: A Quality-First Arabic LLM Leaderboard",
+      "category": "AI News",
+      "date": "2026-10-20",
+      "read_minutes": 3,
+      "emoji": "📰",
+      "tags": [
+        "AI News"
+      ],
+      "source_name": "Hugging Face Blog",
+      "source_url": "https://huggingface.co/blog/tiiuae/qimma-arabic-leaderboard",
+      "body": "<p><strong>QIMMA قِمّة ⛰: A Quality-First Arabic LLM Leaderboard</strong> — reported by Hugging Face Blog. AI summary pending review; read the full story at the source link below.</p>",
+      "draft": true
+    },
+    {
+      "slug": "2026-10-20-ai-and-the-future-of-cybersecurity-why-openness-matters",
+      "title": "AI and the Future of Cybersecurity: Why Openness Matters",
+      "excerpt": "Ady on: AI and the Future of Cybersecurity: Why Openness Matters",
+      "category": "AI News",
+      "date": "2026-10-20",
+      "read_minutes": 3,
+      "emoji": "📰",
+      "tags": [
+        "AI News"
+      ],
+      "source_name": "Hugging Face Blog",
+      "source_url": "https://huggingface.co/blog/cybersecurity-openness",
+      "body": "<p><strong>AI and the Future of Cybersecurity: Why Openness Matters</strong> — reported by Hugging Face Blog. AI summary pending review; read the full story at the source link below.</p>",
+      "draft": true
+    },
+    {
+      "slug": "2026-10-20-meet-holotab-by-hcompany-your-ai-browser-companion",
+      "title": "Meet HoloTab by HCompany. Your AI browser companion.",
+      "excerpt": "Ady on: Meet HoloTab by HCompany. Your AI browser companion.",
+      "category": "AI News",
+      "date": "2026-10-20",
+      "read_minutes": 3,
+      "emoji": "📰",
+      "tags": [
+        "AI News"
+      ],
+      "source_name": "Hugging Face Blog",
+      "source_url": "https://huggingface.co/blog/Hcompany/holotab",
+      "body": "<p><strong>Meet HoloTab by HCompany. Your AI browser companion.</strong> — reported by Hugging Face Blog. AI summary pending review; read the full story at the source link below.</p>",
+      "draft": true
+    },
+    {
+      "slug": "2026-10-20-lerobot-v0-5-0-scaling-every-dimension",
+      "title": "LeRobot v0.5.0: Scaling Every Dimension",
+      "excerpt": "Ady on: LeRobot v0.5.0: Scaling Every Dimension",
+      "category": "AI News",
+      "date": "2026-10-20",
+      "read_minutes": 3,
+      "emoji": "📰",
+      "tags": [
+        "AI News"
+      ],
+      "source_name": "Hugging Face Blog",
+      "source_url": "https://huggingface.co/blog/lerobot-release-v050",
+      "body": "<p><strong>LeRobot v0.5.0: Scaling Every Dimension</strong> — reported by Hugging Face Blog. AI summary pending review; read the full story at the source link below.</p>",
+      "draft": true
     }
   ],
   "site": {
