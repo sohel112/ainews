@@ -1162,6 +1162,86 @@
       "source_url": "https://huggingface.co/blog/nxp/bringing-robotics-ai-to-embedded-platforms",
       "body": "<p><strong>Bringing Robotics AI to Embedded Platforms: Dataset Recording, VLA Fine‑Tuning, and On‑Device Optimizations</strong> — reported by Hugging Face Blog. AI summary pending review; read the full story at the source link below.</p>",
       "draft": true
+    },
+    {
+      "slug": "2026-10-21-ai-promises-productivity-but-for-managers-it-s-mostly-a-head",
+      "title": "AI promises productivity, but for managers, it’s mostly a headache for now",
+      "excerpt": "Ady on: AI promises productivity, but for managers, it’s mostly a headache for now",
+      "category": "AI News",
+      "date": "2026-10-21",
+      "read_minutes": 3,
+      "emoji": "📰",
+      "tags": [
+        "AI News"
+      ],
+      "source_name": "TechCrunch AI",
+      "source_url": "https://techcrunch.com/2026/10/21/ai-promises-productivity-but-for-managers-its-mostly-a-headache-for-now-says-new-survey/",
+      "body": "<p><strong>AI promises productivity, but for managers, it’s mostly a headache for now</strong> — reported by TechCrunch AI. AI summary pending review; read the full story at the source link below.</p>",
+      "draft": true
+    },
+    {
+      "slug": "2026-10-21-train-in-simulation-deploy-on-a-real-robot-microduck-with-is",
+      "title": "Train in Simulation, Deploy on a Real Robot: Microduck with Isaac Lab 3.0",
+      "excerpt": "Ady on: Train in Simulation, Deploy on a Real Robot: Microduck with Isaac Lab 3.0",
+      "category": "AI News",
+      "date": "2026-10-21",
+      "read_minutes": 3,
+      "emoji": "📰",
+      "tags": [
+        "AI News"
+      ],
+      "source_name": "Hugging Face Blog",
+      "source_url": "https://huggingface.co/blog/nvidia/microduck-isaac-lab-sim-to-real",
+      "body": "<p><strong>Train in Simulation, Deploy on a Real Robot: Microduck with Isaac Lab 3.0</strong> — reported by Hugging Face Blog. AI summary pending review; read the full story at the source link below.</p>",
+      "draft": true
+    },
+    {
+      "slug": "2026-10-21-train-ai-models-with-unsloth-and-hugging-face-jobs-for-free",
+      "title": "Train AI models with Unsloth and Hugging Face Jobs for FREE",
+      "excerpt": "Ady on: Train AI models with Unsloth and Hugging Face Jobs for FREE",
+      "category": "AI News",
+      "date": "2026-10-21",
+      "read_minutes": 3,
+      "emoji": "📰",
+      "tags": [
+        "AI News"
+      ],
+      "source_name": "Hugging Face Blog",
+      "source_url": "https://huggingface.co/blog/unsloth-jobs",
+      "body": "<p><strong>Train AI models with Unsloth and Hugging Face Jobs for FREE</strong> — reported by Hugging Face Blog. AI summary pending review; read the full story at the source link below.</p>",
+      "draft": true
+    },
+    {
+      "slug": "2026-10-21-custom-kernels-for-all-from-codex-and-claude",
+      "title": "Custom Kernels for All from Codex and Claude",
+      "excerpt": "Ady on: Custom Kernels for All from Codex and Claude",
+      "category": "AI News",
+      "date": "2026-10-21",
+      "read_minutes": 3,
+      "emoji": "📰",
+      "tags": [
+        "AI News"
+      ],
+      "source_name": "Hugging Face Blog",
+      "source_url": "https://huggingface.co/blog/custom-cuda-kernels-agent-skills",
+      "body": "<p><strong>Custom Kernels for All from Codex and Claude</strong> — reported by Hugging Face Blog. AI summary pending review; read the full story at the source link below.</p>",
+      "draft": true
+    },
+    {
+      "slug": "2026-10-21-the-future-of-the-global-open-source-ai-ecosystem-from-deeps",
+      "title": "The Future of the Global Open-Source AI Ecosystem: From DeepSeek to AI+",
+      "excerpt": "Ady on: The Future of the Global Open-Source AI Ecosystem: From DeepSeek to AI+",
+      "category": "AI News",
+      "date": "2026-10-21",
+      "read_minutes": 3,
+      "emoji": "📰",
+      "tags": [
+        "AI News"
+      ],
+      "source_name": "Hugging Face Blog",
+      "source_url": "https://huggingface.co/blog/huggingface/one-year-since-the-deepseek-moment-blog-3",
+      "body": "<p><strong>The Future of the Global Open-Source AI Ecosystem: From DeepSeek to AI+</strong> — reported by Hugging Face Blog. AI summary pending review; read the full story at the source link below.</p>",
+      "draft": true
     }
   ],
   "site": {
