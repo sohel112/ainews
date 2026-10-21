@@ -1082,6 +1082,86 @@
       "source_url": "https://techcrunch.com/2026/10/20/openai-acquires-startup-orchestra-bio%e2%81%a0-to-beef-up-its-biotech-business/",
       "body": "<p><strong>OpenAI acquires startup Orchestra Bio⁠ to beef up its biotech business</strong> — reported by TechCrunch AI. AI summary pending review; read the full story at the source link below.</p>",
       "draft": true
+    },
+    {
+      "slug": "2026-10-21-google-has-joined-amazon-in-attacking-nvidia-s-stronghold-wi",
+      "title": "Google has joined Amazon in attacking Nvidia’s stronghold with AI app developers",
+      "excerpt": "Ady on: Google has joined Amazon in attacking Nvidia’s stronghold with AI app developers",
+      "category": "AI News",
+      "date": "2026-10-21",
+      "read_minutes": 3,
+      "emoji": "📰",
+      "tags": [
+        "AI News"
+      ],
+      "source_name": "TechCrunch AI",
+      "source_url": "https://techcrunch.com/2026/10/20/google-has-joined-amazon-in-attacking-nvidias-stronghold-with-ai-app-developers/",
+      "body": "<p><strong>Google has joined Amazon in attacking Nvidia’s stronghold with AI app developers</strong> — reported by TechCrunch AI. AI summary pending review; read the full story at the source link below.</p>",
+      "draft": true
+    },
+    {
+      "slug": "2026-10-21-chatgpt-now-lets-you-lock-your-chats",
+      "title": "ChatGPT now lets you lock your chats",
+      "excerpt": "Ady on: ChatGPT now lets you lock your chats",
+      "category": "AI News",
+      "date": "2026-10-21",
+      "read_minutes": 3,
+      "emoji": "📰",
+      "tags": [
+        "AI News"
+      ],
+      "source_name": "TechCrunch AI",
+      "source_url": "https://techcrunch.com/2026/10/20/chatgpt-now-lets-you-lock-your-chats/",
+      "body": "<p><strong>ChatGPT now lets you lock your chats</strong> — reported by TechCrunch AI. AI summary pending review; read the full story at the source link below.</p>",
+      "draft": true
+    },
+    {
+      "slug": "2026-10-21-ex-nvidia-turned-vc-amulya-vishwanath-physical-ai-is-in-its-",
+      "title": "Ex-Nvidia-turned-VC Amulya Vishwanath: ‘Physical AI is in its LEGO era’",
+      "excerpt": "Ady on: Ex-Nvidia-turned-VC Amulya Vishwanath: ‘Physical AI is in its LEGO era’",
+      "category": "AI News",
+      "date": "2026-10-21",
+      "read_minutes": 3,
+      "emoji": "📰",
+      "tags": [
+        "AI News"
+      ],
+      "source_name": "TechCrunch AI",
+      "source_url": "https://techcrunch.com/2026/10/20/ex-nvidia-turned-vc-amulya-vishwanath-physical-ai-is-in-its-lego-era/",
+      "body": "<p><strong>Ex-Nvidia-turned-VC Amulya Vishwanath: ‘Physical AI is in its LEGO era’</strong> — reported by TechCrunch AI. AI summary pending review; read the full story at the source link below.</p>",
+      "draft": true
+    },
+    {
+      "slug": "2026-10-21-fairstress-a-deeper-evaluation-of-fairness-in-llm-decision-m",
+      "title": "FairStress: A deeper evaluation of fairness in LLM decision-making",
+      "excerpt": "Ady on: FairStress: A deeper evaluation of fairness in LLM decision-making",
+      "category": "AI News",
+      "date": "2026-10-21",
+      "read_minutes": 3,
+      "emoji": "📰",
+      "tags": [
+        "AI News"
+      ],
+      "source_name": "Hugging Face Blog",
+      "source_url": "https://huggingface.co/blog/allenai/fairstress",
+      "body": "<p><strong>FairStress: A deeper evaluation of fairness in LLM decision-making</strong> — reported by Hugging Face Blog. AI summary pending review; read the full story at the source link below.</p>",
+      "draft": true
+    },
+    {
+      "slug": "2026-10-21-bringing-robotics-ai-to-embedded-platforms-dataset-recording",
+      "title": "Bringing Robotics AI to Embedded Platforms: Dataset Recording, VLA Fine‑Tuning, and On‑Device Optimizations",
+      "excerpt": "Ady on: Bringing Robotics AI to Embedded Platforms: Dataset Recording, VLA Fine‑Tuning, and On‑Device Optimizations",
+      "category": "AI News",
+      "date": "2026-10-21",
+      "read_minutes": 3,
+      "emoji": "📰",
+      "tags": [
+        "AI News"
+      ],
+      "source_name": "Hugging Face Blog",
+      "source_url": "https://huggingface.co/blog/nxp/bringing-robotics-ai-to-embedded-platforms",
+      "body": "<p><strong>Bringing Robotics AI to Embedded Platforms: Dataset Recording, VLA Fine‑Tuning, and On‑Device Optimizations</strong> — reported by Hugging Face Blog. AI summary pending review; read the full story at the source link below.</p>",
+      "draft": true
     }
   ],
   "site": {
