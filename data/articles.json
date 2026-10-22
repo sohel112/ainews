@@ -1322,6 +1322,86 @@
       "source_url": "https://huggingface.co/blog/huggingface/one-year-since-the-deepseek-moment-blog-2",
       "body": "<p><strong>Architectural Choices in China&#x27;s Open-Source AI Ecosystem: Building Beyond DeepSeek</strong> — reported by Hugging Face Blog. AI summary pending review; read the full story at the source link below.</p>",
       "draft": true
+    },
+    {
+      "slug": "2026-10-22-alyah-toward-robust-evaluation-of-emirati-dialect-capabiliti",
+      "title": "Alyah ⭐️: Toward Robust Evaluation of Emirati Dialect Capabilities in Arabic LLMs",
+      "excerpt": "Ady on: Alyah ⭐️: Toward Robust Evaluation of Emirati Dialect Capabilities in Arabic LLMs",
+      "category": "AI News",
+      "date": "2026-10-22",
+      "read_minutes": 3,
+      "emoji": "📰",
+      "tags": [
+        "AI News"
+      ],
+      "source_name": "Hugging Face Blog",
+      "source_url": "https://huggingface.co/blog/tiiuae/emirati-benchmarks",
+      "body": "<p><strong>Alyah ⭐️: Toward Robust Evaluation of Emirati Dialect Capabilities in Arabic LLMs</strong> — reported by Hugging Face Blog. AI summary pending review; read the full story at the source link below.</p>",
+      "draft": true
+    },
+    {
+      "slug": "2026-10-22-unlocking-agentic-rl-training-for-gpt-oss-a-practical-retros",
+      "title": "Unlocking Agentic RL Training for GPT-OSS: A Practical Retrospective",
+      "excerpt": "Ady on: Unlocking Agentic RL Training for GPT-OSS: A Practical Retrospective",
+      "category": "AI News",
+      "date": "2026-10-22",
+      "read_minutes": 3,
+      "emoji": "📰",
+      "tags": [
+        "AI News"
+      ],
+      "source_name": "Hugging Face Blog",
+      "source_url": "https://huggingface.co/blog/LinkedIn/gpt-oss-agentic-rl",
+      "body": "<p><strong>Unlocking Agentic RL Training for GPT-OSS: A Practical Retrospective</strong> — reported by Hugging Face Blog. AI summary pending review; read the full story at the source link below.</p>",
+      "draft": true
+    },
+    {
+      "slug": "2026-10-22-assetopsbench-bridging-the-gap-between-ai-agent-benchmarks-a",
+      "title": "AssetOpsBench: Bridging the Gap Between AI Agent Benchmarks and Industrial Reality",
+      "excerpt": "Ady on: AssetOpsBench: Bridging the Gap Between AI Agent Benchmarks and Industrial Reality",
+      "category": "AI News",
+      "date": "2026-10-22",
+      "read_minutes": 3,
+      "emoji": "📰",
+      "tags": [
+        "AI News"
+      ],
+      "source_name": "Hugging Face Blog",
+      "source_url": "https://huggingface.co/blog/ibm-research/assetopsbench-playground-on-hugging-face",
+      "body": "<p><strong>AssetOpsBench: Bridging the Gap Between AI Agent Benchmarks and Industrial Reality</strong> — reported by Hugging Face Blog. AI summary pending review; read the full story at the source link below.</p>",
+      "draft": true
+    },
+    {
+      "slug": "2026-10-22-introducing-falcon-h1-arabic-pushing-the-boundaries-of-arabi",
+      "title": "Introducing Falcon-H1-Arabic: Pushing the Boundaries of Arabic Language AI with Hybrid Architecture",
+      "excerpt": "Ady on: Introducing Falcon-H1-Arabic: Pushing the Boundaries of Arabic Language AI with Hybrid Architecture",
+      "category": "AI News",
+      "date": "2026-10-22",
+      "read_minutes": 3,
+      "emoji": "📰",
+      "tags": [
+        "AI News"
+      ],
+      "source_name": "Hugging Face Blog",
+      "source_url": "https://huggingface.co/blog/tiiuae/falcon-h1-arabic",
+      "body": "<p><strong>Introducing Falcon-H1-Arabic: Pushing the Boundaries of Arabic Language AI with Hybrid Architecture</strong> — reported by Hugging Face Blog. AI summary pending review; read the full story at the source link below.</p>",
+      "draft": true
+    },
+    {
+      "slug": "2026-10-22-aprielguard-a-guardrail-for-safety-and-adversarial-robustnes",
+      "title": "AprielGuard: A Guardrail for Safety and Adversarial Robustness in Modern LLM Systems",
+      "excerpt": "Ady on: AprielGuard: A Guardrail for Safety and Adversarial Robustness in Modern LLM Systems",
+      "category": "AI News",
+      "date": "2026-10-22",
+      "read_minutes": 3,
+      "emoji": "📰",
+      "tags": [
+        "AI News"
+      ],
+      "source_name": "Hugging Face Blog",
+      "source_url": "https://huggingface.co/blog/ServiceNow-AI/aprielguard",
+      "body": "<p><strong>AprielGuard: A Guardrail for Safety and Adversarial Robustness in Modern LLM Systems</strong> — reported by Hugging Face Blog. AI summary pending review; read the full story at the source link below.</p>",
+      "draft": true
     }
   ],
   "site": {
