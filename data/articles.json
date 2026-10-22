@@ -1242,6 +1242,86 @@
       "source_url": "https://huggingface.co/blog/huggingface/one-year-since-the-deepseek-moment-blog-3",
       "body": "<p><strong>The Future of the Global Open-Source AI Ecosystem: From DeepSeek to AI+</strong> — reported by Hugging Face Blog. AI summary pending review; read the full story at the source link below.</p>",
       "draft": true
+    },
+    {
+      "slug": "2026-10-22-while-amazon-blocks-ai-agents-walmart-rolls-out-the-welcome-",
+      "title": "While Amazon blocks AI agents, Walmart rolls out the welcome mat",
+      "excerpt": "Ady on: While Amazon blocks AI agents, Walmart rolls out the welcome mat",
+      "category": "AI News",
+      "date": "2026-10-22",
+      "read_minutes": 3,
+      "emoji": "📰",
+      "tags": [
+        "AI News"
+      ],
+      "source_name": "TechCrunch AI",
+      "source_url": "https://techcrunch.com/2026/10/21/while-amazon-blocks-ai-agents-walmart-rolls-out-the-welcome-mat/",
+      "body": "<p><strong>While Amazon blocks AI agents, Walmart rolls out the welcome mat</strong> — reported by TechCrunch AI. AI summary pending review; read the full story at the source link below.</p>",
+      "draft": true
+    },
+    {
+      "slug": "2026-10-22-php-armageddon-openai-google-s-wiz-find-ancient-holes-panick",
+      "title": "PHP Armageddon: OpenAI, Google’s Wiz find ancient holes, panicking the internet",
+      "excerpt": "Ady on: PHP Armageddon: OpenAI, Google’s Wiz find ancient holes, panicking the internet",
+      "category": "AI News",
+      "date": "2026-10-22",
+      "read_minutes": 3,
+      "emoji": "📰",
+      "tags": [
+        "AI News"
+      ],
+      "source_name": "TechCrunch AI",
+      "source_url": "https://techcrunch.com/2026/10/21/php-armageddon-openai-googles-wiz-find-ancient-holes-panicking-the-internet/",
+      "body": "<p><strong>PHP Armageddon: OpenAI, Google’s Wiz find ancient holes, panicking the internet</strong> — reported by TechCrunch AI. AI summary pending review; read the full story at the source link below.</p>",
+      "draft": true
+    },
+    {
+      "slug": "2026-10-22-nvidia-kumo-relational-outperforms-supervised-machine-learni",
+      "title": "NVIDIA Kumo Relational Outperforms Supervised Machine Learning on Relational Data, No Training Required",
+      "excerpt": "Ady on: NVIDIA Kumo Relational Outperforms Supervised Machine Learning on Relational Data, No Training Required",
+      "category": "AI News",
+      "date": "2026-10-22",
+      "read_minutes": 3,
+      "emoji": "📰",
+      "tags": [
+        "AI News"
+      ],
+      "source_name": "Hugging Face Blog",
+      "source_url": "https://huggingface.co/blog/nvidia/kumo-relational",
+      "body": "<p><strong>NVIDIA Kumo Relational Outperforms Supervised Machine Learning on Relational Data, No Training Required</strong> — reported by Hugging Face Blog. AI summary pending review; read the full story at the source link below.</p>",
+      "draft": true
+    },
+    {
+      "slug": "2026-10-22-we-got-claude-to-build-cuda-kernels-and-teach-open-models",
+      "title": "We Got Claude to Build CUDA Kernels and teach open models!",
+      "excerpt": "Ady on: We Got Claude to Build CUDA Kernels and teach open models!",
+      "category": "AI News",
+      "date": "2026-10-22",
+      "read_minutes": 3,
+      "emoji": "📰",
+      "tags": [
+        "AI News"
+      ],
+      "source_name": "Hugging Face Blog",
+      "source_url": "https://huggingface.co/blog/upskill",
+      "body": "<p><strong>We Got Claude to Build CUDA Kernels and teach open models!</strong> — reported by Hugging Face Blog. AI summary pending review; read the full story at the source link below.</p>",
+      "draft": true
+    },
+    {
+      "slug": "2026-10-22-architectural-choices-in-china-s-open-source-ai-ecosystem-bu",
+      "title": "Architectural Choices in China's Open-Source AI Ecosystem: Building Beyond DeepSeek",
+      "excerpt": "Ady on: Architectural Choices in China's Open-Source AI Ecosystem: Building Beyond DeepSeek",
+      "category": "AI News",
+      "date": "2026-10-22",
+      "read_minutes": 3,
+      "emoji": "📰",
+      "tags": [
+        "AI News"
+      ],
+      "source_name": "Hugging Face Blog",
+      "source_url": "https://huggingface.co/blog/huggingface/one-year-since-the-deepseek-moment-blog-2",
+      "body": "<p><strong>Architectural Choices in China&#x27;s Open-Source AI Ecosystem: Building Beyond DeepSeek</strong> — reported by Hugging Face Blog. AI summary pending review; read the full story at the source link below.</p>",
+      "draft": true
     }
   ],
   "site": {
