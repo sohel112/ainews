@@ -1402,6 +1402,86 @@
       "source_url": "https://huggingface.co/blog/ServiceNow-AI/aprielguard",
       "body": "<p><strong>AprielGuard: A Guardrail for Safety and Adversarial Robustness in Modern LLM Systems</strong> — reported by Hugging Face Blog. AI summary pending review; read the full story at the source link below.</p>",
       "draft": true
+    },
+    {
+      "slug": "2026-10-22-uber-puts-all-30-000-employees-on-chatgpt-work",
+      "title": "Uber puts all 30,000 employees on ChatGPT Work",
+      "excerpt": "Ady on: Uber puts all 30,000 employees on ChatGPT Work",
+      "category": "AI News",
+      "date": "2026-10-22",
+      "read_minutes": 3,
+      "emoji": "📰",
+      "tags": [
+        "AI News"
+      ],
+      "source_name": "TechCrunch AI",
+      "source_url": "https://techcrunch.com/2026/10/22/uber-puts-all-30000-employees-on-chatgpt-work/",
+      "body": "<p><strong>Uber puts all 30,000 employees on ChatGPT Work</strong> — reported by TechCrunch AI. AI summary pending review; read the full story at the source link below.</p>",
+      "draft": true
+    },
+    {
+      "slug": "2026-10-22-spotify-s-current-ai-bet-is-about-being-the-music-service-th",
+      "title": "Spotify’s current AI bet is about being the music service that agents choose",
+      "excerpt": "Ady on: Spotify’s current AI bet is about being the music service that agents choose",
+      "category": "AI News",
+      "date": "2026-10-22",
+      "read_minutes": 3,
+      "emoji": "📰",
+      "tags": [
+        "AI News"
+      ],
+      "source_name": "TechCrunch AI",
+      "source_url": "https://techcrunch.com/2026/10/22/spotifys-current-ai-bet-is-about-being-the-music-service-that-agents-choose/",
+      "body": "<p><strong>Spotify’s current AI bet is about being the music service that agents choose</strong> — reported by TechCrunch AI. AI summary pending review; read the full story at the source link below.</p>",
+      "draft": true
+    },
+    {
+      "slug": "2026-10-22-claude-duet-app-is-anthropic-s-bet-on-agents",
+      "title": "Claude Duet app is Anthropic’s bet on agents",
+      "excerpt": "Ady on: Claude Duet app is Anthropic’s bet on agents",
+      "category": "AI News",
+      "date": "2026-10-22",
+      "read_minutes": 3,
+      "emoji": "📰",
+      "tags": [
+        "AI News"
+      ],
+      "source_name": "TechCrunch AI",
+      "source_url": "https://techcrunch.com/2026/10/22/claude-duet-app-is-anthropics-bet-on-agents/",
+      "body": "<p><strong>Claude Duet app is Anthropic’s bet on agents</strong> — reported by TechCrunch AI. AI summary pending review; read the full story at the source link below.</p>",
+      "draft": true
+    },
+    {
+      "slug": "2026-10-22-meta-wants-to-pay-for-its-broad-ai-buildout-with-a-newly-cre",
+      "title": "Meta wants to pay for its broad AI buildout with a newly created class of stock",
+      "excerpt": "Ady on: Meta wants to pay for its broad AI buildout with a newly created class of stock",
+      "category": "AI News",
+      "date": "2026-10-22",
+      "read_minutes": 3,
+      "emoji": "📰",
+      "tags": [
+        "AI News"
+      ],
+      "source_name": "TechCrunch AI",
+      "source_url": "https://techcrunch.com/2026/10/21/meta-wants-to-pay-for-its-broad-ai-buildout-with-a-newly-created-class-of-stock/",
+      "body": "<p><strong>Meta wants to pay for its broad AI buildout with a newly created class of stock</strong> — reported by TechCrunch AI. AI summary pending review; read the full story at the source link below.</p>",
+      "draft": true
+    },
+    {
+      "slug": "2026-10-22-cuga-on-hugging-face-democratizing-configurable-ai-agents",
+      "title": "CUGA on Hugging Face: Democratizing Configurable AI Agents",
+      "excerpt": "Ady on: CUGA on Hugging Face: Democratizing Configurable AI Agents",
+      "category": "AI News",
+      "date": "2026-10-22",
+      "read_minutes": 3,
+      "emoji": "📰",
+      "tags": [
+        "AI News"
+      ],
+      "source_name": "Hugging Face Blog",
+      "source_url": "https://huggingface.co/blog/ibm-research/cuga-on-hugging-face",
+      "body": "<p><strong>CUGA on Hugging Face: Democratizing Configurable AI Agents</strong> — reported by Hugging Face Blog. AI summary pending review; read the full story at the source link below.</p>",
+      "draft": true
     }
   ],
   "site": {
