@@ -1562,6 +1562,86 @@
       "source_url": "https://huggingface.co/blog/hf-skills-training-codex",
       "body": "<p><strong>Codex is Open Sourcing AI models</strong> — reported by Hugging Face Blog. AI summary pending review; read the full story at the source link below.</p>",
       "draft": true
+    },
+    {
+      "slug": "2026-10-23-uber-rival-indrive-eyes-2027-robotaxi-tests-in-central-asia-",
+      "title": "Uber rival inDrive eyes 2027 robotaxi tests in Central Asia with Pony.ai and Nvidia",
+      "excerpt": "Ady on: Uber rival inDrive eyes 2027 robotaxi tests in Central Asia with Pony.ai and Nvidia",
+      "category": "AI News",
+      "date": "2026-10-23",
+      "read_minutes": 3,
+      "emoji": "📰",
+      "tags": [
+        "AI News"
+      ],
+      "source_name": "TechCrunch AI",
+      "source_url": "https://techcrunch.com/2026/10/22/uber-rival-indrive-eyes-2027-robotaxi-tests-in-central-asia-with-pony-ai-and-nvidia/",
+      "body": "<p><strong>Uber rival inDrive eyes 2027 robotaxi tests in Central Asia with Pony.ai and Nvidia</strong> — reported by TechCrunch AI. AI summary pending review; read the full story at the source link below.</p>",
+      "draft": true
+    },
+    {
+      "slug": "2026-10-23-left-alone-with-nothing-to-do-ai-agents-started-playing",
+      "title": "Left alone with nothing to do, AI agents started playing",
+      "excerpt": "Ady on: Left alone with nothing to do, AI agents started playing",
+      "category": "AI News",
+      "date": "2026-10-23",
+      "read_minutes": 3,
+      "emoji": "📰",
+      "tags": [
+        "AI News"
+      ],
+      "source_name": "TechCrunch AI",
+      "source_url": "https://techcrunch.com/2026/10/22/left-alone-with-nothing-to-do-ai-agents-started-playing/",
+      "body": "<p><strong>Left alone with nothing to do, AI agents started playing</strong> — reported by TechCrunch AI. AI summary pending review; read the full story at the source link below.</p>",
+      "draft": true
+    },
+    {
+      "slug": "2026-10-23-we-got-claude-to-fine-tune-an-open-source-llm",
+      "title": "We Got Claude to Fine-Tune an Open Source LLM",
+      "excerpt": "Ady on: We Got Claude to Fine-Tune an Open Source LLM",
+      "category": "AI News",
+      "date": "2026-10-23",
+      "read_minutes": 3,
+      "emoji": "📰",
+      "tags": [
+        "AI News"
+      ],
+      "source_name": "Hugging Face Blog",
+      "source_url": "https://huggingface.co/blog/hf-skills-training",
+      "body": "<p><strong>We Got Claude to Fine-Tune an Open Source LLM</strong> — reported by Hugging Face Blog. AI summary pending review; read the full story at the source link below.</p>",
+      "draft": true
+    },
+    {
+      "slug": "2026-10-23-transformers-v5-simple-model-definitions-powering-the-ai-eco",
+      "title": "Transformers v5: Simple model definitions powering the AI ecosystem",
+      "excerpt": "Ady on: Transformers v5: Simple model definitions powering the AI ecosystem",
+      "category": "AI News",
+      "date": "2026-10-23",
+      "read_minutes": 3,
+      "emoji": "📰",
+      "tags": [
+        "AI News"
+      ],
+      "source_name": "Hugging Face Blog",
+      "source_url": "https://huggingface.co/blog/transformers-v5",
+      "body": "<p><strong>Transformers v5: Simple model definitions powering the AI ecosystem</strong> — reported by Hugging Face Blog. AI summary pending review; read the full story at the source link below.</p>",
+      "draft": true
+    },
+    {
+      "slug": "2026-10-23-introducing-anylanguagemodel-one-api-for-local-and-remote-ll",
+      "title": "Introducing AnyLanguageModel: One API for Local and Remote LLMs on Apple Platforms",
+      "excerpt": "Ady on: Introducing AnyLanguageModel: One API for Local and Remote LLMs on Apple Platforms",
+      "category": "AI News",
+      "date": "2026-10-23",
+      "read_minutes": 3,
+      "emoji": "📰",
+      "tags": [
+        "AI News"
+      ],
+      "source_name": "Hugging Face Blog",
+      "source_url": "https://huggingface.co/blog/anylanguagemodel",
+      "body": "<p><strong>Introducing AnyLanguageModel: One API for Local and Remote LLMs on Apple Platforms</strong> — reported by Hugging Face Blog. AI summary pending review; read the full story at the source link below.</p>",
+      "draft": true
     }
   ],
   "site": {
