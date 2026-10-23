@@ -1482,6 +1482,86 @@
       "source_url": "https://huggingface.co/blog/ibm-research/cuga-on-hugging-face",
       "body": "<p><strong>CUGA on Hugging Face: Democratizing Configurable AI Agents</strong> — reported by Hugging Face Blog. AI summary pending review; read the full story at the source link below.</p>",
       "draft": true
+    },
+    {
+      "slug": "2026-10-23-openai-working-on-new-30b-raise-at-1-25t-valuation-ahead-of-",
+      "title": "OpenAI working on new $30B raise at $1.25T valuation ahead of IPO",
+      "excerpt": "Ady on: OpenAI working on new $30B raise at $1.25T valuation ahead of IPO",
+      "category": "AI News",
+      "date": "2026-10-23",
+      "read_minutes": 3,
+      "emoji": "📰",
+      "tags": [
+        "AI News"
+      ],
+      "source_name": "TechCrunch AI",
+      "source_url": "https://techcrunch.com/2026/10/22/openai-working-on-new-30b-raise-at-1-25t-valuation-ahead-of-ipo/",
+      "body": "<p><strong>OpenAI working on new $30B raise at $1.25T valuation ahead of IPO</strong> — reported by TechCrunch AI. AI summary pending review; read the full story at the source link below.</p>",
+      "draft": true
+    },
+    {
+      "slug": "2026-10-23-1password-launches-a-way-for-ai-agents-to-log-in-on-your-beh",
+      "title": "1Password launches a way for AI agents to log in on your behalf without seeing your password",
+      "excerpt": "Ady on: 1Password launches a way for AI agents to log in on your behalf without seeing your password",
+      "category": "AI News",
+      "date": "2026-10-23",
+      "read_minutes": 3,
+      "emoji": "📰",
+      "tags": [
+        "AI News"
+      ],
+      "source_name": "TechCrunch AI",
+      "source_url": "https://techcrunch.com/2026/10/22/1password-launches-a-way-for-ai-agents-to-log-in-on-your-behalf-without-seeing-your-password/",
+      "body": "<p><strong>1Password launches a way for AI agents to log in on your behalf without seeing your password</strong> — reported by TechCrunch AI. AI summary pending review; read the full story at the source link below.</p>",
+      "draft": true
+    },
+    {
+      "slug": "2026-10-23-openai-makes-its-jev-competitor-widely-available-as-decision",
+      "title": "OpenAI makes its Jev competitor widely available as decision model competition heats up",
+      "excerpt": "Ady on: OpenAI makes its Jev competitor widely available as decision model competition heats up",
+      "category": "AI News",
+      "date": "2026-10-23",
+      "read_minutes": 3,
+      "emoji": "📰",
+      "tags": [
+        "AI News"
+      ],
+      "source_name": "TechCrunch AI",
+      "source_url": "https://techcrunch.com/2026/10/22/openai-makes-its-jev-competitor-widely-available-as-decision-model-competition-heats-up/",
+      "body": "<p><strong>OpenAI makes its Jev competitor widely available as decision model competition heats up</strong> — reported by TechCrunch AI. AI summary pending review; read the full story at the source link below.</p>",
+      "draft": true
+    },
+    {
+      "slug": "2026-10-23-microsoft-s-mustafa-suleyman-says-its-ai-outperforms-doctors",
+      "title": "Microsoft’s Mustafa Suleyman says its AI outperforms doctors on hard cases as he chases ‘medical superintelligence’",
+      "excerpt": "Ady on: Microsoft’s Mustafa Suleyman says its AI outperforms doctors on hard cases as he chases ‘medical superintelligence’",
+      "category": "AI News",
+      "date": "2026-10-23",
+      "read_minutes": 3,
+      "emoji": "📰",
+      "tags": [
+        "AI News"
+      ],
+      "source_name": "TechCrunch AI",
+      "source_url": "https://techcrunch.com/2026/10/22/microsofts-mustafa-suleyman-says-its-ai-outperforms-doctors-on-hard-cases-as-he-chases-medical-superintelligence/",
+      "body": "<p><strong>Microsoft’s Mustafa Suleyman says its AI outperforms doctors on hard cases as he chases ‘medical superintelligence’</strong> — reported by TechCrunch AI. AI summary pending review; read the full story at the source link below.</p>",
+      "draft": true
+    },
+    {
+      "slug": "2026-10-23-codex-is-open-sourcing-ai-models",
+      "title": "Codex is Open Sourcing AI models",
+      "excerpt": "Ady on: Codex is Open Sourcing AI models",
+      "category": "AI News",
+      "date": "2026-10-23",
+      "read_minutes": 3,
+      "emoji": "📰",
+      "tags": [
+        "AI News"
+      ],
+      "source_name": "Hugging Face Blog",
+      "source_url": "https://huggingface.co/blog/hf-skills-training-codex",
+      "body": "<p><strong>Codex is Open Sourcing AI models</strong> — reported by Hugging Face Blog. AI summary pending review; read the full story at the source link below.</p>",
+      "draft": true
     }
   ],
   "site": {
