@@ -1642,6 +1642,86 @@
       "source_url": "https://huggingface.co/blog/anylanguagemodel",
       "body": "<p><strong>Introducing AnyLanguageModel: One API for Local and Remote LLMs on Apple Platforms</strong> — reported by Hugging Face Blog. AI summary pending review; read the full story at the source link below.</p>",
       "draft": true
+    },
+    {
+      "slug": "2026-10-23-join-the-amd-open-robotics-hackathon",
+      "title": "Join the AMD Open Robotics Hackathon",
+      "excerpt": "Ady on: Join the AMD Open Robotics Hackathon",
+      "category": "AI News",
+      "date": "2026-10-23",
+      "read_minutes": 3,
+      "emoji": "📰",
+      "tags": [
+        "AI News"
+      ],
+      "source_name": "Hugging Face Blog",
+      "source_url": "https://huggingface.co/blog/amd/openroboticshackathon",
+      "body": "<p><strong>Join the AMD Open Robotics Hackathon</strong> — reported by Hugging Face Blog. AI summary pending review; read the full story at the source link below.</p>",
+      "draft": true
+    },
+    {
+      "slug": "2026-10-23-building-a-healthcare-robot-from-simulation-to-deployment-wi",
+      "title": "Building a Healthcare Robot from Simulation to Deployment with NVIDIA Isaac",
+      "excerpt": "Ady on: Building a Healthcare Robot from Simulation to Deployment with NVIDIA Isaac",
+      "category": "AI News",
+      "date": "2026-10-23",
+      "read_minutes": 3,
+      "emoji": "📰",
+      "tags": [
+        "AI News"
+      ],
+      "source_name": "Hugging Face Blog",
+      "source_url": "https://huggingface.co/blog/lerobotxnvidia-healthcare",
+      "body": "<p><strong>Building a Healthcare Robot from Simulation to Deployment with NVIDIA Isaac</strong> — reported by Hugging Face Blog. AI summary pending review; read the full story at the source link below.</p>",
+      "draft": true
+    },
+    {
+      "slug": "2026-10-23-how-to-build-a-healthcare-robot-from-simulation-to-deploymen",
+      "title": "How to Build a Healthcare Robot from Simulation to Deployment with NVIDIA Isaac for Healthcare",
+      "excerpt": "Ady on: How to Build a Healthcare Robot from Simulation to Deployment with NVIDIA Isaac for Healthcare",
+      "category": "AI News",
+      "date": "2026-10-23",
+      "read_minutes": 3,
+      "emoji": "📰",
+      "tags": [
+        "AI News"
+      ],
+      "source_name": "Hugging Face Blog",
+      "source_url": "https://huggingface.co/blog/nvidia/nvidia-isaac-for-healthcare",
+      "body": "<p><strong>How to Build a Healthcare Robot from Simulation to Deployment with NVIDIA Isaac for Healthcare</strong> — reported by Hugging Face Blog. AI summary pending review; read the full story at the source link below.</p>",
+      "draft": true
+    },
+    {
+      "slug": "2026-10-23-huggingface-hub-v1-0-five-years-of-building-the-foundation-o",
+      "title": "huggingface_hub v1.0: Five Years of Building the Foundation of Open Machine Learning",
+      "excerpt": "Ady on: huggingface_hub v1.0: Five Years of Building the Foundation of Open Machine Learning",
+      "category": "AI News",
+      "date": "2026-10-23",
+      "read_minutes": 3,
+      "emoji": "📰",
+      "tags": [
+        "AI News"
+      ],
+      "source_name": "Hugging Face Blog",
+      "source_url": "https://huggingface.co/blog/huggingface-hub-v1",
+      "body": "<p><strong>huggingface_hub v1.0: Five Years of Building the Foundation of Open Machine Learning</strong> — reported by Hugging Face Blog. AI summary pending review; read the full story at the source link below.</p>",
+      "draft": true
+    },
+    {
+      "slug": "2026-10-23-lerobot-v0-4-0-supercharging-oss-robot-learning",
+      "title": "LeRobot v0.4.0: Supercharging OSS Robot Learning",
+      "excerpt": "Ady on: LeRobot v0.4.0: Supercharging OSS Robot Learning",
+      "category": "AI News",
+      "date": "2026-10-23",
+      "read_minutes": 3,
+      "emoji": "📰",
+      "tags": [
+        "AI News"
+      ],
+      "source_name": "Hugging Face Blog",
+      "source_url": "https://huggingface.co/blog/lerobot-release-v040",
+      "body": "<p><strong>LeRobot v0.4.0: Supercharging OSS Robot Learning</strong> — reported by Hugging Face Blog. AI summary pending review; read the full story at the source link below.</p>",
+      "draft": true
     }
   ],
   "site": {
