@@ -1802,6 +1802,86 @@
       "source_url": "https://huggingface.co/blog/hugging-science/ai-for-food-allergies",
       "body": "<p><strong>AI for Food Allergies</strong> — reported by Hugging Face Blog. AI summary pending review; read the full story at the source link below.</p>",
       "draft": true
+    },
+    {
+      "slug": "2026-10-24-google-cloud-c4-brings-a-70-tco-improvement-on-gpt-oss-with-",
+      "title": "Google Cloud C4 Brings a 70% TCO improvement on GPT OSS with Intel and Hugging Face",
+      "excerpt": "Ady on: Google Cloud C4 Brings a 70% TCO improvement on GPT OSS with Intel and Hugging Face",
+      "category": "AI News",
+      "date": "2026-10-24",
+      "read_minutes": 3,
+      "emoji": "📰",
+      "tags": [
+        "AI News"
+      ],
+      "source_name": "Hugging Face Blog",
+      "source_url": "https://huggingface.co/blog/gpt-oss-on-intel-xeon",
+      "body": "<p><strong>Google Cloud C4 Brings a 70% TCO improvement on GPT OSS with Intel and Hugging Face</strong> — reported by Hugging Face Blog. AI summary pending review; read the full story at the source link below.</p>",
+      "draft": true
+    },
+    {
+      "slug": "2026-10-24-nemotron-personas-japan-ai",
+      "title": "Nemotron-Personas-Japan: ソブリン AI のための合成データセット",
+      "excerpt": "Ady on: Nemotron-Personas-Japan: ソブリン AI のための合成データセット",
+      "category": "AI News",
+      "date": "2026-10-24",
+      "read_minutes": 3,
+      "emoji": "📰",
+      "tags": [
+        "AI News"
+      ],
+      "source_name": "Hugging Face Blog",
+      "source_url": "https://huggingface.co/blog/nvidia/nemotron-personas-japan-ja",
+      "body": "<p><strong>Nemotron-Personas-Japan: ソブリン AI のための合成データセット</strong> — reported by Hugging Face Blog. AI summary pending review; read the full story at the source link below.</p>",
+      "draft": true
+    },
+    {
+      "slug": "2026-10-24-sygra-the-one-stop-framework-for-building-data-for-llms-and-",
+      "title": "SyGra: The One-Stop Framework for Building Data for LLMs and SLMs",
+      "excerpt": "Ady on: SyGra: The One-Stop Framework for Building Data for LLMs and SLMs",
+      "category": "AI News",
+      "date": "2026-10-24",
+      "read_minutes": 3,
+      "emoji": "📰",
+      "tags": [
+        "AI News"
+      ],
+      "source_name": "Hugging Face Blog",
+      "source_url": "https://huggingface.co/blog/ServiceNow-AI/sygra-data-gen-framework",
+      "body": "<p><strong>SyGra: The One-Stop Framework for Building Data for LLMs and SLMs</strong> — reported by Hugging Face Blog. AI summary pending review; read the full story at the source link below.</p>",
+      "draft": true
+    },
+    {
+      "slug": "2026-10-24-democratizing-ai-safety-with-riskrubric-ai",
+      "title": "Democratizing AI Safety with RiskRubric.ai",
+      "excerpt": "Ady on: Democratizing AI Safety with RiskRubric.ai",
+      "category": "AI News",
+      "date": "2026-10-24",
+      "read_minutes": 3,
+      "emoji": "📰",
+      "tags": [
+        "AI News"
+      ],
+      "source_name": "Hugging Face Blog",
+      "source_url": "https://huggingface.co/blog/riskrubric",
+      "body": "<p><strong>Democratizing AI Safety with RiskRubric.ai</strong> — reported by Hugging Face Blog. AI summary pending review; read the full story at the source link below.</p>",
+      "draft": true
+    },
+    {
+      "slug": "2026-10-24-public-ai-on-hugging-face-inference-providers",
+      "title": "Public AI on Hugging Face Inference Providers 🔥",
+      "excerpt": "Ady on: Public AI on Hugging Face Inference Providers 🔥",
+      "category": "AI News",
+      "date": "2026-10-24",
+      "read_minutes": 3,
+      "emoji": "📰",
+      "tags": [
+        "AI News"
+      ],
+      "source_name": "Hugging Face Blog",
+      "source_url": "https://huggingface.co/blog/inference-providers-publicai",
+      "body": "<p><strong>Public AI on Hugging Face Inference Providers 🔥</strong> — reported by Hugging Face Blog. AI summary pending review; read the full story at the source link below.</p>",
+      "draft": true
     }
   ],
   "site": {
