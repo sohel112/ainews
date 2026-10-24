@@ -1962,6 +1962,86 @@
       "source_url": "https://huggingface.co/blog/togethercomputer/together-ft",
       "body": "<p><strong>Fine-tune Any LLM from the Hugging Face Hub with Together AI</strong> — reported by Hugging Face Blog. AI summary pending review; read the full story at the source link below.</p>",
       "draft": true
+    },
+    {
+      "slug": "2026-10-24-the-ai-graveyard-a-running-list-of-projects-and-startups-tha",
+      "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
+      "excerpt": "Ady on: The AI graveyard: a running list of projects and startups that didn’t make it",
+      "category": "AI News",
+      "date": "2026-10-24",
+      "read_minutes": 3,
+      "emoji": "📰",
+      "tags": [
+        "AI News"
+      ],
+      "source_name": "TechCrunch AI",
+      "source_url": "https://techcrunch.com/2026/10/24/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
+      "body": "<p><strong>The AI graveyard: a running list of projects and startups that didn’t make it</strong> — reported by TechCrunch AI. AI summary pending review; read the full story at the source link below.</p>",
+      "draft": true
+    },
+    {
+      "slug": "2026-10-24-jupyter-agents-training-llms-to-reason-with-notebooks",
+      "title": "Jupyter Agents: training LLMs to reason with notebooks",
+      "excerpt": "Ady on: Jupyter Agents: training LLMs to reason with notebooks",
+      "category": "AI News",
+      "date": "2026-10-24",
+      "read_minutes": 3,
+      "emoji": "📰",
+      "tags": [
+        "AI News"
+      ],
+      "source_name": "Hugging Face Blog",
+      "source_url": "https://huggingface.co/blog/jupyter-agent-2",
+      "body": "<p><strong>Jupyter Agents: training LLMs to reason with notebooks</strong> — reported by Hugging Face Blog. AI summary pending review; read the full story at the source link below.</p>",
+      "draft": true
+    },
+    {
+      "slug": "2026-10-24-generate-images-with-claude-and-hugging-face",
+      "title": "Generate Images with Claude and Hugging Face",
+      "excerpt": "Ady on: Generate Images with Claude and Hugging Face",
+      "category": "AI News",
+      "date": "2026-10-24",
+      "read_minutes": 3,
+      "emoji": "📰",
+      "tags": [
+        "AI News"
+      ],
+      "source_name": "Hugging Face Blog",
+      "source_url": "https://huggingface.co/blog/claude-and-mcp",
+      "body": "<p><strong>Generate Images with Claude and Hugging Face</strong> — reported by Hugging Face Blog. AI summary pending review; read the full story at the source link below.</p>",
+      "draft": true
+    },
+    {
+      "slug": "2026-10-24-mcp-for-research-how-to-connect-ai-to-research-tools",
+      "title": "MCP for Research: How to Connect AI to Research Tools",
+      "excerpt": "Ady on: MCP for Research: How to Connect AI to Research Tools",
+      "category": "AI News",
+      "date": "2026-10-24",
+      "read_minutes": 3,
+      "emoji": "📰",
+      "tags": [
+        "AI News"
+      ],
+      "source_name": "Hugging Face Blog",
+      "source_url": "https://huggingface.co/blog/mcp-for-research",
+      "body": "<p><strong>MCP for Research: How to Connect AI to Research Tools</strong> — reported by Hugging Face Blog. AI summary pending review; read the full story at the source link below.</p>",
+      "draft": true
+    },
+    {
+      "slug": "2026-10-24-arm-executorch-0-7-bringing-generative-ai-to-the-masses",
+      "title": "Arm & ExecuTorch 0.7: Bringing Generative AI to the masses",
+      "excerpt": "Ady on: Arm & ExecuTorch 0.7: Bringing Generative AI to the masses",
+      "category": "AI News",
+      "date": "2026-10-24",
+      "read_minutes": 3,
+      "emoji": "📰",
+      "tags": [
+        "AI News"
+      ],
+      "source_name": "Hugging Face Blog",
+      "source_url": "https://huggingface.co/blog/Arm/executorch-0-dot-7",
+      "body": "<p><strong>Arm &amp; ExecuTorch 0.7: Bringing Generative AI to the masses</strong> — reported by Hugging Face Blog. AI summary pending review; read the full story at the source link below.</p>",
+      "draft": true
     }
   ],
   "site": {
