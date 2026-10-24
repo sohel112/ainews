@@ -1722,6 +1722,86 @@
       "source_url": "https://huggingface.co/blog/lerobot-release-v040",
       "body": "<p><strong>LeRobot v0.4.0: Supercharging OSS Robot Learning</strong> — reported by Hugging Face Blog. AI summary pending review; read the full story at the source link below.</p>",
       "draft": true
+    },
+    {
+      "slug": "2026-10-24-openai-says-it-will-no-longer-train-its-ai-models-on-the-liv",
+      "title": "OpenAI says it will no longer train its AI models on the live internet, citing “significant risks”",
+      "excerpt": "Ady on: OpenAI says it will no longer train its AI models on the live internet, citing “significant risks”",
+      "category": "AI News",
+      "date": "2026-10-24",
+      "read_minutes": 3,
+      "emoji": "📰",
+      "tags": [
+        "AI News"
+      ],
+      "source_name": "TechCrunch AI",
+      "source_url": "https://techcrunch.com/2026/10/23/openai-says-it-will-no-longer-train-its-ai-models-on-the-live-internet-citing-significant-risks/",
+      "body": "<p><strong>OpenAI says it will no longer train its AI models on the live internet, citing “significant risks”</strong> — reported by TechCrunch AI. AI summary pending review; read the full story at the source link below.</p>",
+      "draft": true
+    },
+    {
+      "slug": "2026-10-24-hottest-toy-for-christmas-nvidia-ceo-plays-with-adorable-mic",
+      "title": "Hottest toy for Christmas? Nvidia CEO plays with adorable Microduck robots, 20,000 sell",
+      "excerpt": "Ady on: Hottest toy for Christmas? Nvidia CEO plays with adorable Microduck robots, 20,000 sell",
+      "category": "AI News",
+      "date": "2026-10-24",
+      "read_minutes": 3,
+      "emoji": "📰",
+      "tags": [
+        "AI News"
+      ],
+      "source_name": "TechCrunch AI",
+      "source_url": "https://techcrunch.com/2026/10/23/hottest-toy-for-christmas-nvidia-ceo-plays-with-adorable-microduck-robots-20000-sell/",
+      "body": "<p><strong>Hottest toy for Christmas? Nvidia CEO plays with adorable Microduck robots, 20,000 sell</strong> — reported by TechCrunch AI. AI summary pending review; read the full story at the source link below.</p>",
+      "draft": true
+    },
+    {
+      "slug": "2026-10-24-hugging-face-and-virustotal-collaborate-to-strengthen-ai-sec",
+      "title": "Hugging Face and VirusTotal collaborate to strengthen AI security",
+      "excerpt": "Ady on: Hugging Face and VirusTotal collaborate to strengthen AI security",
+      "category": "AI News",
+      "date": "2026-10-24",
+      "read_minutes": 3,
+      "emoji": "📰",
+      "tags": [
+        "AI News"
+      ],
+      "source_name": "Hugging Face Blog",
+      "source_url": "https://huggingface.co/blog/virustotal",
+      "body": "<p><strong>Hugging Face and VirusTotal collaborate to strengthen AI security</strong> — reported by Hugging Face Blog. AI summary pending review; read the full story at the source link below.</p>",
+      "draft": true
+    },
+    {
+      "slug": "2026-10-24-unlock-the-power-of-images-with-ai-sheets",
+      "title": "Unlock the power of images with AI Sheets",
+      "excerpt": "Ady on: Unlock the power of images with AI Sheets",
+      "category": "AI News",
+      "date": "2026-10-24",
+      "read_minutes": 3,
+      "emoji": "📰",
+      "tags": [
+        "AI News"
+      ],
+      "source_name": "Hugging Face Blog",
+      "source_url": "https://huggingface.co/blog/aisheets-unlock-images",
+      "body": "<p><strong>Unlock the power of images with AI Sheets</strong> — reported by Hugging Face Blog. AI summary pending review; read the full story at the source link below.</p>",
+      "draft": true
+    },
+    {
+      "slug": "2026-10-24-ai-for-food-allergies",
+      "title": "AI for Food Allergies",
+      "excerpt": "Ady on: AI for Food Allergies",
+      "category": "AI News",
+      "date": "2026-10-24",
+      "read_minutes": 3,
+      "emoji": "📰",
+      "tags": [
+        "AI News"
+      ],
+      "source_name": "Hugging Face Blog",
+      "source_url": "https://huggingface.co/blog/hugging-science/ai-for-food-allergies",
+      "body": "<p><strong>AI for Food Allergies</strong> — reported by Hugging Face Blog. AI summary pending review; read the full story at the source link below.</p>",
+      "draft": true
     }
   ],
   "site": {
