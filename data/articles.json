@@ -1882,6 +1882,86 @@
       "source_url": "https://huggingface.co/blog/inference-providers-publicai",
       "body": "<p><strong>Public AI on Hugging Face Inference Providers 🔥</strong> — reported by Hugging Face Blog. AI summary pending review; read the full story at the source link below.</p>",
       "draft": true
+    },
+    {
+      "slug": "2026-10-24-forced-to-pick-grok-s-ai-model-chooses-republicans-openai-s-",
+      "title": "Forced to pick, Grok’s AI model chooses Republicans. OpenAI’s picks Democrats.",
+      "excerpt": "Ady on: Forced to pick, Grok’s AI model chooses Republicans. OpenAI’s picks Democrats.",
+      "category": "AI News",
+      "date": "2026-10-24",
+      "read_minutes": 3,
+      "emoji": "📰",
+      "tags": [
+        "AI News"
+      ],
+      "source_name": "TechCrunch AI",
+      "source_url": "https://techcrunch.com/2026/10/24/forced-to-pick-groks-ai-model-chooses-republicans-openais-picks-democrats/",
+      "body": "<p><strong>Forced to pick, Grok’s AI model chooses Republicans. OpenAI’s picks Democrats.</strong> — reported by TechCrunch AI. AI summary pending review; read the full story at the source link below.</p>",
+      "draft": true
+    },
+    {
+      "slug": "2026-10-24-here-are-the-top-ai-agents-that-can-live-in-your-text-messag",
+      "title": "Here are the top AI agents that can live in your text messages",
+      "excerpt": "Ady on: Here are the top AI agents that can live in your text messages",
+      "category": "AI News",
+      "date": "2026-10-24",
+      "read_minutes": 3,
+      "emoji": "📰",
+      "tags": [
+        "AI News"
+      ],
+      "source_name": "TechCrunch AI",
+      "source_url": "https://techcrunch.com/2026/10/24/all-the-ai-agents-that-can-live-in-your-text-messages/",
+      "body": "<p><strong>Here are the top AI agents that can live in your text messages</strong> — reported by TechCrunch AI. AI summary pending review; read the full story at the source link below.</p>",
+      "draft": true
+    },
+    {
+      "slug": "2026-10-24-lerobotdataset-v3-0-bringing-large-scale-datasets-to-lerobot",
+      "title": "`LeRobotDataset:v3.0`: Bringing large-scale datasets to `lerobot`",
+      "excerpt": "Ady on: `LeRobotDataset:v3.0`: Bringing large-scale datasets to `lerobot`",
+      "category": "AI News",
+      "date": "2026-10-24",
+      "read_minutes": 3,
+      "emoji": "📰",
+      "tags": [
+        "AI News"
+      ],
+      "source_name": "Hugging Face Blog",
+      "source_url": "https://huggingface.co/blog/lerobot-datasets-v3",
+      "body": "<p><strong>`LeRobotDataset:v3.0`: Bringing large-scale datasets to `lerobot`</strong> — reported by Hugging Face Blog. AI summary pending review; read the full story at the source link below.</p>",
+      "draft": true
+    },
+    {
+      "slug": "2026-10-24-tricks-from-openai-gpt-oss-you-can-use-with-transformers",
+      "title": "Tricks from OpenAI gpt-oss YOU 🫵 can use with transformers",
+      "excerpt": "Ady on: Tricks from OpenAI gpt-oss YOU 🫵 can use with transformers",
+      "category": "AI News",
+      "date": "2026-10-24",
+      "read_minutes": 3,
+      "emoji": "📰",
+      "tags": [
+        "AI News"
+      ],
+      "source_name": "Hugging Face Blog",
+      "source_url": "https://huggingface.co/blog/faster-transformers",
+      "body": "<p><strong>Tricks from OpenAI gpt-oss YOU 🫵 can use with transformers</strong> — reported by Hugging Face Blog. AI summary pending review; read the full story at the source link below.</p>",
+      "draft": true
+    },
+    {
+      "slug": "2026-10-24-fine-tune-any-llm-from-the-hugging-face-hub-with-together-ai",
+      "title": "Fine-tune Any LLM from the Hugging Face Hub with Together AI",
+      "excerpt": "Ady on: Fine-tune Any LLM from the Hugging Face Hub with Together AI",
+      "category": "AI News",
+      "date": "2026-10-24",
+      "read_minutes": 3,
+      "emoji": "📰",
+      "tags": [
+        "AI News"
+      ],
+      "source_name": "Hugging Face Blog",
+      "source_url": "https://huggingface.co/blog/togethercomputer/together-ft",
+      "body": "<p><strong>Fine-tune Any LLM from the Hugging Face Hub with Together AI</strong> — reported by Hugging Face Blog. AI summary pending review; read the full story at the source link below.</p>",
+      "draft": true
     }
   ],
   "site": {
