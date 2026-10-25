@@ -2122,6 +2122,86 @@
       "source_url": "https://huggingface.co/blog/tiiuae/3lm-benchmark",
       "body": "<p><strong>📚 3LM: A Benchmark for Arabic LLMs in STEM and Code</strong> — reported by Hugging Face Blog. AI summary pending review; read the full story at the source link below.</p>",
       "draft": true
+    },
+    {
+      "slug": "2026-10-25-ai-delivers-zero-financial-payoff-to-most-companies-apollo-e",
+      "title": "AI delivers ‘zero financial payoff’ to most companies, Apollo economist says",
+      "excerpt": "Ady on: AI delivers ‘zero financial payoff’ to most companies, Apollo economist says",
+      "category": "AI News",
+      "date": "2026-10-25",
+      "read_minutes": 3,
+      "emoji": "📰",
+      "tags": [
+        "AI News"
+      ],
+      "source_name": "TechCrunch AI",
+      "source_url": "https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/",
+      "body": "<p><strong>AI delivers ‘zero financial payoff’ to most companies, Apollo economist says</strong> — reported by TechCrunch AI. AI summary pending review; read the full story at the source link below.</p>",
+      "draft": true
+    },
+    {
+      "slug": "2026-10-25-the-hottest-ai-wearables-and-gadgets-you-should-know-about",
+      "title": "The hottest AI wearables and gadgets you should know about",
+      "excerpt": "Ady on: The hottest AI wearables and gadgets you should know about",
+      "category": "AI News",
+      "date": "2026-10-25",
+      "read_minutes": 3,
+      "emoji": "📰",
+      "tags": [
+        "AI News"
+      ],
+      "source_name": "TechCrunch AI",
+      "source_url": "https://techcrunch.com/2026/10/25/the-hottest-ai-wearables-and-gadgets-you-should-know-about/",
+      "body": "<p><strong>The hottest AI wearables and gadgets you should know about</strong> — reported by TechCrunch AI. AI summary pending review; read the full story at the source link below.</p>",
+      "draft": true
+    },
+    {
+      "slug": "2026-10-25-implementing-mcp-servers-in-python-an-ai-shopping-assistant-",
+      "title": "Implementing MCP Servers in Python: An AI Shopping Assistant with Gradio",
+      "excerpt": "Ady on: Implementing MCP Servers in Python: An AI Shopping Assistant with Gradio",
+      "category": "AI News",
+      "date": "2026-10-25",
+      "read_minutes": 3,
+      "emoji": "📰",
+      "tags": [
+        "AI News"
+      ],
+      "source_name": "Hugging Face Blog",
+      "source_url": "https://huggingface.co/blog/gradio-vton-mcp",
+      "body": "<p><strong>Implementing MCP Servers in Python: An AI Shopping Assistant with Gradio</strong> — reported by Hugging Face Blog. AI summary pending review; read the full story at the source link below.</p>",
+      "draft": true
+    },
+    {
+      "slug": "2026-10-25-accelerate-a-world-of-llms-on-hugging-face-with-nvidia-nim",
+      "title": "Accelerate a World of LLMs on Hugging Face with NVIDIA NIM",
+      "excerpt": "Ady on: Accelerate a World of LLMs on Hugging Face with NVIDIA NIM",
+      "category": "AI News",
+      "date": "2026-10-25",
+      "read_minutes": 3,
+      "emoji": "📰",
+      "tags": [
+        "AI News"
+      ],
+      "source_name": "Hugging Face Blog",
+      "source_url": "https://huggingface.co/blog/nvidia/multi-llm-nim",
+      "body": "<p><strong>Accelerate a World of LLMs on Hugging Face with NVIDIA NIM</strong> — reported by Hugging Face Blog. AI summary pending review; read the full story at the source link below.</p>",
+      "draft": true
+    },
+    {
+      "slug": "2026-10-25-consilium-when-multiple-llms-collaborate",
+      "title": "Consilium: When Multiple LLMs Collaborate",
+      "excerpt": "Ady on: Consilium: When Multiple LLMs Collaborate",
+      "category": "AI News",
+      "date": "2026-10-25",
+      "read_minutes": 3,
+      "emoji": "📰",
+      "tags": [
+        "AI News"
+      ],
+      "source_name": "Hugging Face Blog",
+      "source_url": "https://huggingface.co/blog/consilium-multi-llm",
+      "body": "<p><strong>Consilium: When Multiple LLMs Collaborate</strong> — reported by Hugging Face Blog. AI summary pending review; read the full story at the source link below.</p>",
+      "draft": true
     }
   ],
   "site": {
