@@ -2042,6 +2042,86 @@
       "source_url": "https://huggingface.co/blog/Arm/executorch-0-dot-7",
       "body": "<p><strong>Arm &amp; ExecuTorch 0.7: Bringing Generative AI to the masses</strong> — reported by Hugging Face Blog. AI summary pending review; read the full story at the source link below.</p>",
       "draft": true
+    },
+    {
+      "slug": "2026-10-25-textquests-how-good-are-llms-at-text-based-video-games",
+      "title": "TextQuests: How Good are LLMs at Text-Based Video Games?",
+      "excerpt": "Ady on: TextQuests: How Good are LLMs at Text-Based Video Games?",
+      "category": "AI News",
+      "date": "2026-10-25",
+      "read_minutes": 3,
+      "emoji": "📰",
+      "tags": [
+        "AI News"
+      ],
+      "source_name": "Hugging Face Blog",
+      "source_url": "https://huggingface.co/blog/textquests",
+      "body": "<p><strong>TextQuests: How Good are LLMs at Text-Based Video Games?</strong> — reported by Hugging Face Blog. AI summary pending review; read the full story at the source link below.</p>",
+      "draft": true
+    },
+    {
+      "slug": "2026-10-25-filbench-can-llms-understand-and-generate-filipino",
+      "title": "🇵🇭 FilBench - Can LLMs Understand and Generate Filipino?",
+      "excerpt": "Ady on: 🇵🇭 FilBench - Can LLMs Understand and Generate Filipino?",
+      "category": "AI News",
+      "date": "2026-10-25",
+      "read_minutes": 3,
+      "emoji": "📰",
+      "tags": [
+        "AI News"
+      ],
+      "source_name": "Hugging Face Blog",
+      "source_url": "https://huggingface.co/blog/filbench",
+      "body": "<p><strong>🇵🇭 FilBench - Can LLMs Understand and Generate Filipino?</strong> — reported by Hugging Face Blog. AI summary pending review; read the full story at the source link below.</p>",
+      "draft": true
+    },
+    {
+      "slug": "2026-10-25-introducing-ai-sheets-a-tool-to-work-with-datasets-using-ope",
+      "title": "Introducing AI Sheets: a tool to work with datasets using open AI models!",
+      "excerpt": "Ady on: Introducing AI Sheets: a tool to work with datasets using open AI models!",
+      "category": "AI News",
+      "date": "2026-10-25",
+      "read_minutes": 3,
+      "emoji": "📰",
+      "tags": [
+        "AI News"
+      ],
+      "source_name": "Hugging Face Blog",
+      "source_url": "https://huggingface.co/blog/aisheets",
+      "body": "<p><strong>Introducing AI Sheets: a tool to work with datasets using open AI models!</strong> — reported by Hugging Face Blog. AI summary pending review; read the full story at the source link below.</p>",
+      "draft": true
+    },
+    {
+      "slug": "2026-10-25-welcome-gpt-oss-the-new-open-source-model-family-from-openai",
+      "title": "Welcome GPT OSS, the new open-source model family from OpenAI!",
+      "excerpt": "Ady on: Welcome GPT OSS, the new open-source model family from OpenAI!",
+      "category": "AI News",
+      "date": "2026-10-25",
+      "read_minutes": 3,
+      "emoji": "📰",
+      "tags": [
+        "AI News"
+      ],
+      "source_name": "Hugging Face Blog",
+      "source_url": "https://huggingface.co/blog/welcome-openai-gpt-oss",
+      "body": "<p><strong>Welcome GPT OSS, the new open-source model family from OpenAI!</strong> — reported by Hugging Face Blog. AI summary pending review; read the full story at the source link below.</p>",
+      "draft": true
+    },
+    {
+      "slug": "2026-10-25-3lm-a-benchmark-for-arabic-llms-in-stem-and-code",
+      "title": "📚 3LM: A Benchmark for Arabic LLMs in STEM and Code",
+      "excerpt": "Ady on: 📚 3LM: A Benchmark for Arabic LLMs in STEM and Code",
+      "category": "AI News",
+      "date": "2026-10-25",
+      "read_minutes": 3,
+      "emoji": "📰",
+      "tags": [
+        "AI News"
+      ],
+      "source_name": "Hugging Face Blog",
+      "source_url": "https://huggingface.co/blog/tiiuae/3lm-benchmark",
+      "body": "<p><strong>📚 3LM: A Benchmark for Arabic LLMs in STEM and Code</strong> — reported by Hugging Face Blog. AI summary pending review; read the full story at the source link below.</p>",
+      "draft": true
     }
   ],
   "site": {
