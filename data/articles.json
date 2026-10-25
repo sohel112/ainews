@@ -2202,6 +2202,86 @@
       "source_url": "https://huggingface.co/blog/consilium-multi-llm",
       "body": "<p><strong>Consilium: When Multiple LLMs Collaborate</strong> — reported by Hugging Face Blog. AI summary pending review; read the full story at the source link below.</p>",
       "draft": true
+    },
+    {
+      "slug": "2026-10-25-back-to-the-future-evaluating-ai-agents-on-predicting-future",
+      "title": "Back to The Future: Evaluating AI Agents on Predicting Future Events",
+      "excerpt": "Ady on: Back to The Future: Evaluating AI Agents on Predicting Future Events",
+      "category": "AI News",
+      "date": "2026-10-25",
+      "read_minutes": 3,
+      "emoji": "📰",
+      "tags": [
+        "AI News"
+      ],
+      "source_name": "Hugging Face Blog",
+      "source_url": "https://huggingface.co/blog/futurebench",
+      "body": "<p><strong>Back to The Future: Evaluating AI Agents on Predicting Future Events</strong> — reported by Hugging Face Blog. AI summary pending review; read the full story at the source link below.</p>",
+      "draft": true
+    },
+    {
+      "slug": "2026-10-25-asynchronous-robot-inference-decoupling-action-prediction-an",
+      "title": "Asynchronous Robot Inference: Decoupling Action Prediction and Execution",
+      "excerpt": "Ady on: Asynchronous Robot Inference: Decoupling Action Prediction and Execution",
+      "category": "AI News",
+      "date": "2026-10-25",
+      "read_minutes": 3,
+      "emoji": "📰",
+      "tags": [
+        "AI News"
+      ],
+      "source_name": "Hugging Face Blog",
+      "source_url": "https://huggingface.co/blog/async-robot-inference",
+      "body": "<p><strong>Asynchronous Robot Inference: Decoupling Action Prediction and Execution</strong> — reported by Hugging Face Blog. AI summary pending review; read the full story at the source link below.</p>",
+      "draft": true
+    },
+    {
+      "slug": "2026-10-25-reachy-mini-the-open-source-robot-for-today-s-and-tomorrow-s",
+      "title": "Reachy Mini - The Open-Source Robot for Today's and Tomorrow's AI Builders",
+      "excerpt": "Ady on: Reachy Mini - The Open-Source Robot for Today's and Tomorrow's AI Builders",
+      "category": "AI News",
+      "date": "2026-10-25",
+      "read_minutes": 3,
+      "emoji": "📰",
+      "tags": [
+        "AI News"
+      ],
+      "source_name": "Hugging Face Blog",
+      "source_url": "https://huggingface.co/blog/reachy-mini",
+      "body": "<p><strong>Reachy Mini - The Open-Source Robot for Today&#x27;s and Tomorrow&#x27;s AI Builders</strong> — reported by Hugging Face Blog. AI summary pending review; read the full story at the source link below.</p>",
+      "draft": true
+    },
+    {
+      "slug": "2026-10-25-upskill-your-llms-with-gradio-mcp-servers",
+      "title": "Upskill your LLMs With Gradio MCP Servers",
+      "excerpt": "Ady on: Upskill your LLMs With Gradio MCP Servers",
+      "category": "AI News",
+      "date": "2026-10-25",
+      "read_minutes": 3,
+      "emoji": "📰",
+      "tags": [
+        "AI News"
+      ],
+      "source_name": "Hugging Face Blog",
+      "source_url": "https://huggingface.co/blog/gradio-mcp-servers",
+      "body": "<p><strong>Upskill your LLMs With Gradio MCP Servers</strong> — reported by Hugging Face Blog. AI summary pending review; read the full story at the source link below.</p>",
+      "draft": true
+    },
+    {
+      "slug": "2026-10-25-smollm3-smol-multilingual-long-context-reasoner",
+      "title": "SmolLM3: smol, multilingual, long-context reasoner",
+      "excerpt": "Ady on: SmolLM3: smol, multilingual, long-context reasoner",
+      "category": "AI News",
+      "date": "2026-10-25",
+      "read_minutes": 3,
+      "emoji": "📰",
+      "tags": [
+        "AI News"
+      ],
+      "source_name": "Hugging Face Blog",
+      "source_url": "https://huggingface.co/blog/smollm3",
+      "body": "<p><strong>SmolLM3: smol, multilingual, long-context reasoner</strong> — reported by Hugging Face Blog. AI summary pending review; read the full story at the source link below.</p>",
+      "draft": true
     }
   ],
   "site": {
