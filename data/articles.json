@@ -2362,6 +2362,86 @@
       "source_url": "https://huggingface.co/blog/smolvla",
       "body": "<p><strong>SmolVLA: Efficient Vision-Language-Action Model trained on Lerobot Community Data</strong> — reported by Hugging Face Blog. AI summary pending review; read the full story at the source link below.</p>",
       "draft": true
+    },
+    {
+      "slug": "2026-10-26-anthropic-s-ipo-filing-reveals-its-strategy-for-keeping-ente",
+      "title": "Anthropic’s IPO filing reveals its strategy for keeping enterprise customers hooked",
+      "excerpt": "Ady on: Anthropic’s IPO filing reveals its strategy for keeping enterprise customers hooked",
+      "category": "AI News",
+      "date": "2026-10-26",
+      "read_minutes": 3,
+      "emoji": "📰",
+      "tags": [
+        "AI News"
+      ],
+      "source_name": "TechCrunch AI",
+      "source_url": "https://techcrunch.com/2026/10/26/anthropics-ipo-filing-reveals-its-strategy-for-keeping-enterprise-customers-hooked/",
+      "body": "<p><strong>Anthropic’s IPO filing reveals its strategy for keeping enterprise customers hooked</strong> — reported by TechCrunch AI. AI summary pending review; read the full story at the source link below.</p>",
+      "draft": true
+    },
+    {
+      "slug": "2026-10-26-anthropic-officially-files-for-its-public-debut",
+      "title": "Anthropic officially files for its public debut",
+      "excerpt": "Ady on: Anthropic officially files for its public debut",
+      "category": "AI News",
+      "date": "2026-10-26",
+      "read_minutes": 3,
+      "emoji": "📰",
+      "tags": [
+        "AI News"
+      ],
+      "source_name": "TechCrunch AI",
+      "source_url": "https://techcrunch.com/2026/10/26/anthropic-officially-files-for-its-public-debut/",
+      "body": "<p><strong>Anthropic officially files for its public debut</strong> — reported by TechCrunch AI. AI summary pending review; read the full story at the source link below.</p>",
+      "draft": true
+    },
+    {
+      "slug": "2026-10-26-will-ai-expose-the-rickety-infrastructure-of-the-internet",
+      "title": "Will AI expose the rickety infrastructure of the internet?",
+      "excerpt": "Ady on: Will AI expose the rickety infrastructure of the internet?",
+      "category": "AI News",
+      "date": "2026-10-26",
+      "read_minutes": 3,
+      "emoji": "📰",
+      "tags": [
+        "AI News"
+      ],
+      "source_name": "TechCrunch AI",
+      "source_url": "https://techcrunch.com/2026/10/24/will-ai-expose-the-rickety-infrastructure-of-the-internet/",
+      "body": "<p><strong>Will AI expose the rickety infrastructure of the internet?</strong> — reported by TechCrunch AI. AI summary pending review; read the full story at the source link below.</p>",
+      "draft": true
+    },
+    {
+      "slug": "2026-10-26-no-gpu-left-behind-unlocking-efficiency-with-co-located-vllm",
+      "title": "No GPU left behind: Unlocking Efficiency with Co-located vLLM in TRL",
+      "excerpt": "Ady on: No GPU left behind: Unlocking Efficiency with Co-located vLLM in TRL",
+      "category": "AI News",
+      "date": "2026-10-26",
+      "read_minutes": 3,
+      "emoji": "📰",
+      "tags": [
+        "AI News"
+      ],
+      "source_name": "Hugging Face Blog",
+      "source_url": "https://huggingface.co/blog/vllm-colocate",
+      "body": "<p><strong>No GPU left behind: Unlocking Efficiency with Co-located vLLM in TRL</strong> — reported by Hugging Face Blog. AI summary pending review; read the full story at the source link below.</p>",
+      "draft": true
+    },
+    {
+      "slug": "2026-10-26-dell-enterprise-hub-is-all-you-need-to-build-ai-on-premises",
+      "title": "Dell Enterprise Hub is all you need to build AI on premises",
+      "excerpt": "Ady on: Dell Enterprise Hub is all you need to build AI on premises",
+      "category": "AI News",
+      "date": "2026-10-26",
+      "read_minutes": 3,
+      "emoji": "📰",
+      "tags": [
+        "AI News"
+      ],
+      "source_name": "Hugging Face Blog",
+      "source_url": "https://huggingface.co/blog/dell-ai-applications",
+      "body": "<p><strong>Dell Enterprise Hub is all you need to build AI on premises</strong> — reported by Hugging Face Blog. AI summary pending review; read the full story at the source link below.</p>",
+      "draft": true
     }
   ],
   "site": {
