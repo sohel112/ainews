@@ -2282,6 +2282,86 @@
       "source_url": "https://huggingface.co/blog/smollm3",
       "body": "<p><strong>SmolLM3: smol, multilingual, long-context reasoner</strong> — reported by Hugging Face Blog. AI summary pending review; read the full story at the source link below.</p>",
       "draft": true
+    },
+    {
+      "slug": "2026-10-26-how-long-prompts-block-other-requests-optimizing-llm-perform",
+      "title": "How Long Prompts Block Other Requests - Optimizing LLM Performance",
+      "excerpt": "Ady on: How Long Prompts Block Other Requests - Optimizing LLM Performance",
+      "category": "AI News",
+      "date": "2026-10-26",
+      "read_minutes": 3,
+      "emoji": "📰",
+      "tags": [
+        "AI News"
+      ],
+      "source_name": "Hugging Face Blog",
+      "source_url": "https://huggingface.co/blog/tngtech/llm-performance-blocked-by-long-prompts",
+      "body": "<p><strong>How Long Prompts Block Other Requests - Optimizing LLM Performance</strong> — reported by Hugging Face Blog. AI summary pending review; read the full story at the source link below.</p>",
+      "draft": true
+    },
+    {
+      "slug": "2026-10-26-featherless-ai-on-hugging-face-inference-providers",
+      "title": "Featherless AI on Hugging Face Inference Providers 🔥",
+      "excerpt": "Ady on: Featherless AI on Hugging Face Inference Providers 🔥",
+      "category": "AI News",
+      "date": "2026-10-26",
+      "read_minutes": 3,
+      "emoji": "📰",
+      "tags": [
+        "AI News"
+      ],
+      "source_name": "Hugging Face Blog",
+      "source_url": "https://huggingface.co/blog/inference-providers-featherless",
+      "body": "<p><strong>Featherless AI on Hugging Face Inference Providers 🔥</strong> — reported by Hugging Face Blog. AI summary pending review; read the full story at the source link below.</p>",
+      "draft": true
+    },
+    {
+      "slug": "2026-10-26-post-training-isaac-gr00t-n1-5-for-lerobot-so-101-arm",
+      "title": "Post-Training Isaac GR00T N1.5 for LeRobot SO-101 Arm",
+      "excerpt": "Ady on: Post-Training Isaac GR00T N1.5 for LeRobot SO-101 Arm",
+      "category": "AI News",
+      "date": "2026-10-26",
+      "read_minutes": 3,
+      "emoji": "📰",
+      "tags": [
+        "AI News"
+      ],
+      "source_name": "Hugging Face Blog",
+      "source_url": "https://huggingface.co/blog/nvidia/gr00t-n1-5-so101-tuning",
+      "body": "<p><strong>Post-Training Isaac GR00T N1.5 for LeRobot SO-101 Arm</strong> — reported by Hugging Face Blog. AI summary pending review; read the full story at the source link below.</p>",
+      "draft": true
+    },
+    {
+      "slug": "2026-10-26-real-time-ai-sound-generation-on-arm-a-personal-tool-for-cre",
+      "title": "Real-Time AI Sound Generation on Arm: A Personal Tool for Creative Freedom",
+      "excerpt": "Ady on: Real-Time AI Sound Generation on Arm: A Personal Tool for Creative Freedom",
+      "category": "AI News",
+      "date": "2026-10-26",
+      "read_minutes": 3,
+      "emoji": "📰",
+      "tags": [
+        "AI News"
+      ],
+      "source_name": "Hugging Face Blog",
+      "source_url": "https://huggingface.co/blog/Arm/ai-sound-gen-on-arm",
+      "body": "<p><strong>Real-Time AI Sound Generation on Arm: A Personal Tool for Creative Freedom</strong> — reported by Hugging Face Blog. AI summary pending review; read the full story at the source link below.</p>",
+      "draft": true
+    },
+    {
+      "slug": "2026-10-26-smolvla-efficient-vision-language-action-model-trained-on-le",
+      "title": "SmolVLA: Efficient Vision-Language-Action Model trained on Lerobot Community Data",
+      "excerpt": "Ady on: SmolVLA: Efficient Vision-Language-Action Model trained on Lerobot Community Data",
+      "category": "AI News",
+      "date": "2026-10-26",
+      "read_minutes": 3,
+      "emoji": "📰",
+      "tags": [
+        "AI News"
+      ],
+      "source_name": "Hugging Face Blog",
+      "source_url": "https://huggingface.co/blog/smolvla",
+      "body": "<p><strong>SmolVLA: Efficient Vision-Language-Action Model trained on Lerobot Community Data</strong> — reported by Hugging Face Blog. AI summary pending review; read the full story at the source link below.</p>",
+      "draft": true
     }
   ],
   "site": {
