@@ -2442,6 +2442,86 @@
       "source_url": "https://huggingface.co/blog/dell-ai-applications",
       "body": "<p><strong>Dell Enterprise Hub is all you need to build AI on premises</strong> — reported by Hugging Face Blog. AI summary pending review; read the full story at the source link below.</p>",
       "draft": true
+    },
+    {
+      "slug": "2026-10-27-lerobot-community-datasets-the-imagenet-of-robotics-when-and",
+      "title": "LeRobot Community Datasets: The “ImageNet” of Robotics — When and How?",
+      "excerpt": "Ady on: LeRobot Community Datasets: The “ImageNet” of Robotics — When and How?",
+      "category": "AI News",
+      "date": "2026-10-27",
+      "read_minutes": 3,
+      "emoji": "📰",
+      "tags": [
+        "AI News"
+      ],
+      "source_name": "Hugging Face Blog",
+      "source_url": "https://huggingface.co/blog/lerobot-datasets",
+      "body": "<p><strong>LeRobot Community Datasets: The “ImageNet” of Robotics — When and How?</strong> — reported by Hugging Face Blog. AI summary pending review; read the full story at the source link below.</p>",
+      "draft": true
+    },
+    {
+      "slug": "2026-10-27-introducing-autoround-intel-s-advanced-quantization-for-llms",
+      "title": "Introducing AutoRound: Intel’s Advanced Quantization for LLMs and VLMs",
+      "excerpt": "Ady on: Introducing AutoRound: Intel’s Advanced Quantization for LLMs and VLMs",
+      "category": "AI News",
+      "date": "2026-10-27",
+      "read_minutes": 3,
+      "emoji": "📰",
+      "tags": [
+        "AI News"
+      ],
+      "source_name": "Hugging Face Blog",
+      "source_url": "https://huggingface.co/blog/autoround",
+      "body": "<p><strong>Introducing AutoRound: Intel’s Advanced Quantization for LLMs and VLMs</strong> — reported by Hugging Face Blog. AI summary pending review; read the full story at the source link below.</p>",
+      "draft": true
+    },
+    {
+      "slug": "2026-10-27-prefill-and-decode-for-concurrent-requests-optimizing-llm-pe",
+      "title": "Prefill and Decode for Concurrent Requests - Optimizing LLM Performance",
+      "excerpt": "Ady on: Prefill and Decode for Concurrent Requests - Optimizing LLM Performance",
+      "category": "AI News",
+      "date": "2026-10-27",
+      "read_minutes": 3,
+      "emoji": "📰",
+      "tags": [
+        "AI News"
+      ],
+      "source_name": "Hugging Face Blog",
+      "source_url": "https://huggingface.co/blog/tngtech/llm-performance-prefill-decode-concurrent-requests",
+      "body": "<p><strong>Prefill and Decode for Concurrent Requests - Optimizing LLM Performance</strong> — reported by Hugging Face Blog. AI summary pending review; read the full story at the source link below.</p>",
+      "draft": true
+    },
+    {
+      "slug": "2026-10-27-hugging-face-to-sell-open-source-robots-thanks-to-pollen-rob",
+      "title": "Hugging Face to sell open-source robots thanks to Pollen Robotics acquisition 🤖",
+      "excerpt": "Ady on: Hugging Face to sell open-source robots thanks to Pollen Robotics acquisition 🤖",
+      "category": "AI News",
+      "date": "2026-10-27",
+      "read_minutes": 3,
+      "emoji": "📰",
+      "tags": [
+        "AI News"
+      ],
+      "source_name": "Hugging Face Blog",
+      "source_url": "https://huggingface.co/blog/hugging-face-pollen-robotics-acquisition",
+      "body": "<p><strong>Hugging Face to sell open-source robots thanks to Pollen Robotics acquisition 🤖</strong> — reported by Hugging Face Blog. AI summary pending review; read the full story at the source link below.</p>",
+      "draft": true
+    },
+    {
+      "slug": "2026-10-27-4m-models-scanned-protect-ai-hugging-face-6-months-in",
+      "title": "4M Models Scanned: Protect AI + Hugging Face 6 Months In",
+      "excerpt": "Ady on: 4M Models Scanned: Protect AI + Hugging Face 6 Months In",
+      "category": "AI News",
+      "date": "2026-10-27",
+      "read_minutes": 3,
+      "emoji": "📰",
+      "tags": [
+        "AI News"
+      ],
+      "source_name": "Hugging Face Blog",
+      "source_url": "https://huggingface.co/blog/pai-6-month",
+      "body": "<p><strong>4M Models Scanned: Protect AI + Hugging Face 6 Months In</strong> — reported by Hugging Face Blog. AI summary pending review; read the full story at the source link below.</p>",
+      "draft": true
     }
   ],
   "site": {
