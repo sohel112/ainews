@@ -2522,6 +2522,86 @@
       "source_url": "https://huggingface.co/blog/pai-6-month",
       "body": "<p><strong>4M Models Scanned: Protect AI + Hugging Face 6 Months In</strong> — reported by Hugging Face Blog. AI summary pending review; read the full story at the source link below.</p>",
       "draft": true
+    },
+    {
+      "slug": "2026-10-27-how-openai-turned-its-coding-tools-into-dots-an-always-on-pe",
+      "title": "How OpenAI turned its coding tools into dots, an always-on personal assistant",
+      "excerpt": "Ady on: How OpenAI turned its coding tools into dots, an always-on personal assistant",
+      "category": "AI News",
+      "date": "2026-10-27",
+      "read_minutes": 3,
+      "emoji": "📰",
+      "tags": [
+        "AI News"
+      ],
+      "source_name": "TechCrunch AI",
+      "source_url": "https://techcrunch.com/2026/10/26/how-openai-turned-its-coding-tools-into-dots-an-always-on-personal-assistant/",
+      "body": "<p><strong>How OpenAI turned its coding tools into dots, an always-on personal assistant</strong> — reported by TechCrunch AI. AI summary pending review; read the full story at the source link below.</p>",
+      "draft": true
+    },
+    {
+      "slug": "2026-10-27-the-nlp-course-is-becoming-the-llm-course",
+      "title": "The NLP Course is becoming the LLM Course",
+      "excerpt": "Ady on: The NLP Course is becoming the LLM Course",
+      "category": "AI News",
+      "date": "2026-10-27",
+      "read_minutes": 3,
+      "emoji": "📰",
+      "tags": [
+        "AI News"
+      ],
+      "source_name": "Hugging Face Blog",
+      "source_url": "https://huggingface.co/blog/llm-course",
+      "body": "<p><strong>The NLP Course is becoming the LLM Course</strong> — reported by Hugging Face Blog. AI summary pending review; read the full story at the source link below.</p>",
+      "draft": true
+    },
+    {
+      "slug": "2026-10-27-efficient-request-queueing-optimizing-llm-performance",
+      "title": "Efficient Request Queueing – Optimizing LLM Performance",
+      "excerpt": "Ady on: Efficient Request Queueing – Optimizing LLM Performance",
+      "category": "AI News",
+      "date": "2026-10-27",
+      "read_minutes": 3,
+      "emoji": "📰",
+      "tags": [
+        "AI News"
+      ],
+      "source_name": "Hugging Face Blog",
+      "source_url": "https://huggingface.co/blog/tngtech/llm-performance-request-queueing",
+      "body": "<p><strong>Efficient Request Queueing – Optimizing LLM Performance</strong> — reported by Hugging Face Blog. AI summary pending review; read the full story at the source link below.</p>",
+      "draft": true
+    },
+    {
+      "slug": "2026-10-27-how-hugging-face-scaled-secrets-management-for-ai-infrastruc",
+      "title": "How Hugging Face Scaled Secrets Management for AI Infrastructure",
+      "excerpt": "Ady on: How Hugging Face Scaled Secrets Management for AI Infrastructure",
+      "category": "AI News",
+      "date": "2026-10-27",
+      "read_minutes": 3,
+      "emoji": "📰",
+      "tags": [
+        "AI News"
+      ],
+      "source_name": "Hugging Face Blog",
+      "source_url": "https://huggingface.co/blog/scaling-secrets-management",
+      "body": "<p><strong>How Hugging Face Scaled Secrets Management for AI Infrastructure</strong> — reported by Hugging Face Blog. AI summary pending review; read the full story at the source link below.</p>",
+      "draft": true
+    },
+    {
+      "slug": "2026-10-27-accelerating-llm-inference-with-tgi-on-intel-gaudi",
+      "title": "🚀 Accelerating LLM Inference with TGI on Intel Gaudi",
+      "excerpt": "Ady on: 🚀 Accelerating LLM Inference with TGI on Intel Gaudi",
+      "category": "AI News",
+      "date": "2026-10-27",
+      "read_minutes": 3,
+      "emoji": "📰",
+      "tags": [
+        "AI News"
+      ],
+      "source_name": "Hugging Face Blog",
+      "source_url": "https://huggingface.co/blog/intel-gaudi-backend-for-tgi",
+      "body": "<p><strong>🚀 Accelerating LLM Inference with TGI on Intel Gaudi</strong> — reported by Hugging Face Blog. AI summary pending review; read the full story at the source link below.</p>",
+      "draft": true
     }
   ],
   "site": {
