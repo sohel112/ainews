@@ -2602,6 +2602,86 @@
       "source_url": "https://huggingface.co/blog/intel-gaudi-backend-for-tgi",
       "body": "<p><strong>🚀 Accelerating LLM Inference with TGI on Intel Gaudi</strong> — reported by Hugging Face Blog. AI summary pending review; read the full story at the source link below.</p>",
       "draft": true
+    },
+    {
+      "slug": "2026-10-27-frontier-ai-labs-say-their-models-refuted-the-exponential-ti",
+      "title": "Frontier AI labs say their models refuted the Exponential Time Hypothesis. What does that mean?",
+      "excerpt": "Ady on: Frontier AI labs say their models refuted the Exponential Time Hypothesis. What does that mean?",
+      "category": "AI News",
+      "date": "2026-10-27",
+      "read_minutes": 3,
+      "emoji": "📰",
+      "tags": [
+        "AI News"
+      ],
+      "source_name": "TechCrunch AI",
+      "source_url": "https://techcrunch.com/2026/10/27/frontier-ai-labs-say-their-models-refuted-the-exponential-time-hypothesis-what-does-that-mean/",
+      "body": "<p><strong>Frontier AI labs say their models refuted the Exponential Time Hypothesis. What does that mean?</strong> — reported by TechCrunch AI. AI summary pending review; read the full story at the source link below.</p>",
+      "draft": true
+    },
+    {
+      "slug": "2026-10-27-meta-ai-director-rohit-patel-leaves-to-take-on-microsoft-off",
+      "title": "Meta AI director Rohit Patel leaves to take on Microsoft Office and Google Workspace",
+      "excerpt": "Ady on: Meta AI director Rohit Patel leaves to take on Microsoft Office and Google Workspace",
+      "category": "AI News",
+      "date": "2026-10-27",
+      "read_minutes": 3,
+      "emoji": "📰",
+      "tags": [
+        "AI News"
+      ],
+      "source_name": "TechCrunch AI",
+      "source_url": "https://techcrunch.com/2026/10/27/meta-ai-director-rohit-patel-leaves-to-take-on-microsoft-office-and-google-workspace/",
+      "body": "<p><strong>Meta AI director Rohit Patel leaves to take on Microsoft Office and Google Workspace</strong> — reported by TechCrunch AI. AI summary pending review; read the full story at the source link below.</p>",
+      "draft": true
+    },
+    {
+      "slug": "2026-10-27-opera-introduces-a-new-web-standard-to-let-users-deploy-ai-l",
+      "title": "Opera introduces a new web standard to let users deploy AI locally in their browser",
+      "excerpt": "Ady on: Opera introduces a new web standard to let users deploy AI locally in their browser",
+      "category": "AI News",
+      "date": "2026-10-27",
+      "read_minutes": 3,
+      "emoji": "📰",
+      "tags": [
+        "AI News"
+      ],
+      "source_name": "TechCrunch AI",
+      "source_url": "https://techcrunch.com/2026/10/27/opera-introduces-a-new-web-standard-to-let-users-deploy-ai-locally-in-their-browser/",
+      "body": "<p><strong>Opera introduces a new web standard to let users deploy AI locally in their browser</strong> — reported by TechCrunch AI. AI summary pending review; read the full story at the source link below.</p>",
+      "draft": true
+    },
+    {
+      "slug": "2026-10-27-nvidia-backs-indian-startup-helping-companies-run-ai-models-",
+      "title": "Nvidia backs Indian startup helping companies run AI models with fewer GPUs",
+      "excerpt": "Ady on: Nvidia backs Indian startup helping companies run AI models with fewer GPUs",
+      "category": "AI News",
+      "date": "2026-10-27",
+      "read_minutes": 3,
+      "emoji": "📰",
+      "tags": [
+        "AI News"
+      ],
+      "source_name": "TechCrunch AI",
+      "source_url": "https://techcrunch.com/2026/10/27/nvidia-backs-indian-startup-helping-companies-run-ai-models-with-fewer-gpus/",
+      "body": "<p><strong>Nvidia backs Indian startup helping companies run AI models with fewer GPUs</strong> — reported by TechCrunch AI. AI summary pending review; read the full story at the source link below.</p>",
+      "draft": true
+    },
+    {
+      "slug": "2026-10-27-can-we-trust-llms-to-judge-whether-a-research-idea-is-novel",
+      "title": "Can we trust LLMs to judge whether a research idea is novel?",
+      "excerpt": "Ady on: Can we trust LLMs to judge whether a research idea is novel?",
+      "category": "AI News",
+      "date": "2026-10-27",
+      "read_minutes": 3,
+      "emoji": "📰",
+      "tags": [
+        "AI News"
+      ],
+      "source_name": "Hugging Face Blog",
+      "source_url": "https://huggingface.co/blog/allenai/novelty-bench",
+      "body": "<p><strong>Can we trust LLMs to judge whether a research idea is novel?</strong> — reported by Hugging Face Blog. AI summary pending review; read the full story at the source link below.</p>",
+      "draft": true
     }
   ],
   "site": {
