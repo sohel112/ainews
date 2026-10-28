@@ -2682,6 +2682,86 @@
       "source_url": "https://huggingface.co/blog/allenai/novelty-bench",
       "body": "<p><strong>Can we trust LLMs to judge whether a research idea is novel?</strong> — reported by Hugging Face Blog. AI summary pending review; read the full story at the source link below.</p>",
       "draft": true
+    },
+    {
+      "slug": "2026-10-28-parents-sue-openai-alleging-gpt-4o-coached-their-daughter-of",
+      "title": "Parents sue OpenAI, alleging GPT-4o coached their daughter off seizure medication",
+      "excerpt": "Ady on: Parents sue OpenAI, alleging GPT-4o coached their daughter off seizure medication",
+      "category": "AI News",
+      "date": "2026-10-28",
+      "read_minutes": 3,
+      "emoji": "📰",
+      "tags": [
+        "AI News"
+      ],
+      "source_name": "TechCrunch AI",
+      "source_url": "https://techcrunch.com/2026/10/27/parents-sue-openai-alleging-gpt-4o-coached-their-daughter-off-seizure-medication/",
+      "body": "<p><strong>Parents sue OpenAI, alleging GPT-4o coached their daughter off seizure medication</strong> — reported by TechCrunch AI. AI summary pending review; read the full story at the source link below.</p>",
+      "draft": true
+    },
+    {
+      "slug": "2026-10-28-bank-of-america-kindly-asks-that-you-don-t-share-your-bankin",
+      "title": "Bank of America kindly asks that you don’t share your banking password with your AI assistant",
+      "excerpt": "Ady on: Bank of America kindly asks that you don’t share your banking password with your AI assistant",
+      "category": "AI News",
+      "date": "2026-10-28",
+      "read_minutes": 3,
+      "emoji": "📰",
+      "tags": [
+        "AI News"
+      ],
+      "source_name": "TechCrunch AI",
+      "source_url": "https://techcrunch.com/2026/10/27/bank-of-america-kindly-asks-that-you-dont-share-your-banking-password-with-your-ai-assistant/",
+      "body": "<p><strong>Bank of America kindly asks that you don’t share your banking password with your AI assistant</strong> — reported by TechCrunch AI. AI summary pending review; read the full story at the source link below.</p>",
+      "draft": true
+    },
+    {
+      "slug": "2026-10-28-who-s-really-in-charge-at-anthropic-after-the-ipo",
+      "title": "Who’s really in charge at Anthropic after the IPO?",
+      "excerpt": "Ady on: Who’s really in charge at Anthropic after the IPO?",
+      "category": "AI News",
+      "date": "2026-10-28",
+      "read_minutes": 3,
+      "emoji": "📰",
+      "tags": [
+        "AI News"
+      ],
+      "source_name": "TechCrunch AI",
+      "source_url": "https://techcrunch.com/2026/10/27/whos-really-in-charge-at-anthropic-after-the-ipo/",
+      "body": "<p><strong>Who’s really in charge at Anthropic after the IPO?</strong> — reported by TechCrunch AI. AI summary pending review; read the full story at the source link below.</p>",
+      "draft": true
+    },
+    {
+      "slug": "2026-10-28-ai-policy-response-to-the-white-house-ai-action-plan-rfi",
+      "title": "AI Policy @🤗: Response to the White House AI Action Plan RFI",
+      "excerpt": "Ady on: AI Policy @🤗: Response to the White House AI Action Plan RFI",
+      "category": "AI News",
+      "date": "2026-10-28",
+      "read_minutes": 3,
+      "emoji": "📰",
+      "tags": [
+        "AI News"
+      ],
+      "source_name": "Hugging Face Blog",
+      "source_url": "https://huggingface.co/blog/ai-action-wh-2025",
+      "body": "<p><strong>AI Policy @🤗: Response to the White House AI Action Plan RFI</strong> — reported by Hugging Face Blog. AI summary pending review; read the full story at the source link below.</p>",
+      "draft": true
+    },
+    {
+      "slug": "2026-10-28-nvidia-s-gtc-2025-announcement-for-physical-ai-developers-ne",
+      "title": "NVIDIA's GTC 2025 Announcement for Physical AI Developers: New Open Models and Datasets",
+      "excerpt": "Ady on: NVIDIA's GTC 2025 Announcement for Physical AI Developers: New Open Models and Datasets",
+      "category": "AI News",
+      "date": "2026-10-28",
+      "read_minutes": 3,
+      "emoji": "📰",
+      "tags": [
+        "AI News"
+      ],
+      "source_name": "Hugging Face Blog",
+      "source_url": "https://huggingface.co/blog/nvidia-physical-ai",
+      "body": "<p><strong>NVIDIA&#x27;s GTC 2025 Announcement for Physical AI Developers: New Open Models and Datasets</strong> — reported by Hugging Face Blog. AI summary pending review; read the full story at the source link below.</p>",
+      "draft": true
     }
   ],
   "site": {
