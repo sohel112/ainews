@@ -2762,6 +2762,86 @@
       "source_url": "https://huggingface.co/blog/nvidia-physical-ai",
       "body": "<p><strong>NVIDIA&#x27;s GTC 2025 Announcement for Physical AI Developers: New Open Models and Datasets</strong> — reported by Hugging Face Blog. AI summary pending review; read the full story at the source link below.</p>",
       "draft": true
+    },
+    {
+      "slug": "2026-10-28-vcs-will-make-billions-on-anthropic-s-ipo-but-amazon-is-set-",
+      "title": "VCs will make billions on Anthropic’s IPO, but Amazon is set to make much (much) more",
+      "excerpt": "Ady on: VCs will make billions on Anthropic’s IPO, but Amazon is set to make much (much) more",
+      "category": "AI News",
+      "date": "2026-10-28",
+      "read_minutes": 3,
+      "emoji": "📰",
+      "tags": [
+        "AI News"
+      ],
+      "source_name": "TechCrunch AI",
+      "source_url": "https://techcrunch.com/2026/10/27/vcs-will-make-billions-on-anthropics-ipo-but-amazon-is-set-to-make-much-much-more/",
+      "body": "<p><strong>VCs will make billions on Anthropic’s IPO, but Amazon is set to make much (much) more</strong> — reported by TechCrunch AI. AI summary pending review; read the full story at the source link below.</p>",
+      "draft": true
+    },
+    {
+      "slug": "2026-10-28-welcome-gemma-3-google-s-all-new-multimodal-multilingual-lon",
+      "title": "Welcome Gemma 3: Google's all new multimodal, multilingual, long context open LLM",
+      "excerpt": "Ady on: Welcome Gemma 3: Google's all new multimodal, multilingual, long context open LLM",
+      "category": "AI News",
+      "date": "2026-10-28",
+      "read_minutes": 3,
+      "emoji": "📰",
+      "tags": [
+        "AI News"
+      ],
+      "source_name": "Hugging Face Blog",
+      "source_url": "https://huggingface.co/blog/gemma3",
+      "body": "<p><strong>Welcome Gemma 3: Google&#x27;s all new multimodal, multilingual, long context open LLM</strong> — reported by Hugging Face Blog. AI summary pending review; read the full story at the source link below.</p>",
+      "draft": true
+    },
+    {
+      "slug": "2026-10-28-lerobot-goes-to-driving-school-world-s-largest-open-source-s",
+      "title": "LeRobot goes to driving school: World’s largest open-source self-driving dataset",
+      "excerpt": "Ady on: LeRobot goes to driving school: World’s largest open-source self-driving dataset",
+      "category": "AI News",
+      "date": "2026-10-28",
+      "read_minutes": 3,
+      "emoji": "📰",
+      "tags": [
+        "AI News"
+      ],
+      "source_name": "Hugging Face Blog",
+      "source_url": "https://huggingface.co/blog/lerobot-goes-to-driving-school",
+      "body": "<p><strong>LeRobot goes to driving school: World’s largest open-source self-driving dataset</strong> — reported by Hugging Face Blog. AI summary pending review; read the full story at the source link below.</p>",
+      "draft": true
+    },
+    {
+      "slug": "2026-10-28-llm-inference-on-edge-a-fun-and-easy-guide-to-run-llms-via-r",
+      "title": "LLM Inference on Edge: A Fun and Easy Guide to run LLMs via React Native on your Phone!",
+      "excerpt": "Ady on: LLM Inference on Edge: A Fun and Easy Guide to run LLMs via React Native on your Phone!",
+      "category": "AI News",
+      "date": "2026-10-28",
+      "read_minutes": 3,
+      "emoji": "📰",
+      "tags": [
+        "AI News"
+      ],
+      "source_name": "Hugging Face Blog",
+      "source_url": "https://huggingface.co/blog/llm-inference-on-edge",
+      "body": "<p><strong>LLM Inference on Edge: A Fun and Easy Guide to run LLMs via React Native on your Phone!</strong> — reported by Hugging Face Blog. AI summary pending review; read the full story at the source link below.</p>",
+      "draft": true
+    },
+    {
+      "slug": "2026-10-28-hugging-face-and-jfrog-partner-to-make-ai-security-more-tran",
+      "title": "Hugging Face and JFrog partner to make AI Security more transparent",
+      "excerpt": "Ady on: Hugging Face and JFrog partner to make AI Security more transparent",
+      "category": "AI News",
+      "date": "2026-10-28",
+      "read_minutes": 3,
+      "emoji": "📰",
+      "tags": [
+        "AI News"
+      ],
+      "source_name": "Hugging Face Blog",
+      "source_url": "https://huggingface.co/blog/jfrog",
+      "body": "<p><strong>Hugging Face and JFrog partner to make AI Security more transparent</strong> — reported by Hugging Face Blog. AI summary pending review; read the full story at the source link below.</p>",
+      "draft": true
     }
   ],
   "site": {
