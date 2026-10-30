@@ -3322,6 +3322,86 @@
       "source_url": "https://huggingface.co/blog/debate",
       "body": "<p><strong>Letting Large Models Debate: The First Multilingual LLM Debate Competition</strong> — reported by Hugging Face Blog. AI summary pending review; read the full story at the source link below.</p>",
       "draft": true
+    },
+    {
+      "slug": "2026-10-30-zest-s-new-ai-agent-finds-restaurants-and-books-reservations",
+      "title": "Zest’s new AI agent finds restaurants and books reservations over text",
+      "excerpt": "Ady on: Zest’s new AI agent finds restaurants and books reservations over text",
+      "category": "AI News",
+      "date": "2026-10-30",
+      "read_minutes": 3,
+      "emoji": "📰",
+      "tags": [
+        "AI News"
+      ],
+      "source_name": "TechCrunch AI",
+      "source_url": "https://techcrunch.com/2026/10/30/zests-new-ai-agent-finds-restaurants-and-books-reservations-over-text/",
+      "body": "<p><strong>Zest’s new AI agent finds restaurants and books reservations over text</strong> — reported by TechCrunch AI. AI summary pending review; read the full story at the source link below.</p>",
+      "draft": true
+    },
+    {
+      "slug": "2026-10-30-theranos-whistleblower-tyler-shultz-warns-that-the-ai-boom-i",
+      "title": "Theranos whistleblower Tyler Shultz warns that the AI boom is ‘a great opportunity to go deceive people’",
+      "excerpt": "Ady on: Theranos whistleblower Tyler Shultz warns that the AI boom is ‘a great opportunity to go deceive people’",
+      "category": "AI News",
+      "date": "2026-10-30",
+      "read_minutes": 3,
+      "emoji": "📰",
+      "tags": [
+        "AI News"
+      ],
+      "source_name": "TechCrunch AI",
+      "source_url": "https://techcrunch.com/2026/10/30/theranos-whistleblower-tyler-shultz-warns-that-the-ai-boom-is-a-great-opportunity-to-go-deceive-people/",
+      "body": "<p><strong>Theranos whistleblower Tyler Shultz warns that the AI boom is ‘a great opportunity to go deceive people’</strong> — reported by TechCrunch AI. AI summary pending review; read the full story at the source link below.</p>",
+      "draft": true
+    },
+    {
+      "slug": "2026-10-30-doordash-said-it-s-only-received-several-hundred-orders-from",
+      "title": "DoorDash said it’s only received ‘several hundred’ orders from AI agents",
+      "excerpt": "Ady on: DoorDash said it’s only received ‘several hundred’ orders from AI agents",
+      "category": "AI News",
+      "date": "2026-10-30",
+      "read_minutes": 3,
+      "emoji": "📰",
+      "tags": [
+        "AI News"
+      ],
+      "source_name": "TechCrunch AI",
+      "source_url": "https://techcrunch.com/2026/10/30/doordash-said-its-only-received-several-hundred-orders-from-ai-agents/",
+      "body": "<p><strong>DoorDash said it’s only received ‘several hundred’ orders from AI agents</strong> — reported by TechCrunch AI. AI summary pending review; read the full story at the source link below.</p>",
+      "draft": true
+    },
+    {
+      "slug": "2026-10-30-can-ai-data-centers-be-mass-produced-like-cars-this-startup-",
+      "title": "Can AI data centers be mass-produced like cars? This startup aims to find out",
+      "excerpt": "Ady on: Can AI data centers be mass-produced like cars? This startup aims to find out",
+      "category": "AI News",
+      "date": "2026-10-30",
+      "read_minutes": 3,
+      "emoji": "📰",
+      "tags": [
+        "AI News"
+      ],
+      "source_name": "TechCrunch AI",
+      "source_url": "https://techcrunch.com/2026/10/30/can-ai-data-centers-be-mass-produced-like-cars-and-online-in-48-hours-this-startup-aims-to-find-out/",
+      "body": "<p><strong>Can AI data centers be mass-produced like cars? This startup aims to find out</strong> — reported by TechCrunch AI. AI summary pending review; read the full story at the source link below.</p>",
+      "draft": true
+    },
+    {
+      "slug": "2026-10-30-introducing-the-open-leaderboard-for-japanese-llms",
+      "title": "Introducing the Open Leaderboard for Japanese LLMs!",
+      "excerpt": "Ady on: Introducing the Open Leaderboard for Japanese LLMs!",
+      "category": "AI News",
+      "date": "2026-10-30",
+      "read_minutes": 3,
+      "emoji": "📰",
+      "tags": [
+        "AI News"
+      ],
+      "source_name": "Hugging Face Blog",
+      "source_url": "https://huggingface.co/blog/leaderboard-japanese",
+      "body": "<p><strong>Introducing the Open Leaderboard for Japanese LLMs!</strong> — reported by Hugging Face Blog. AI summary pending review; read the full story at the source link below.</p>",
+      "draft": true
     }
   ],
   "site": {
