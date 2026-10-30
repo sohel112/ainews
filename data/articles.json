@@ -3242,6 +3242,86 @@
       "source_url": "https://huggingface.co/blog/leaderboard-emissions-analysis",
       "body": "<p><strong>CO₂ Emissions and Models Performance: Insights from the Open LLM Leaderboard</strong> — reported by Hugging Face Blog. AI summary pending review; read the full story at the source link below.</p>",
       "draft": true
+    },
+    {
+      "slug": "2026-10-30-how-good-are-llms-at-fixing-their-mistakes-a-chatbot-arena-e",
+      "title": "How good are LLMs at fixing their mistakes? A chatbot arena experiment with Keras and TPUs",
+      "excerpt": "Ady on: How good are LLMs at fixing their mistakes? A chatbot arena experiment with Keras and TPUs",
+      "category": "AI News",
+      "date": "2026-10-30",
+      "read_minutes": 3,
+      "emoji": "📰",
+      "tags": [
+        "AI News"
+      ],
+      "source_name": "Hugging Face Blog",
+      "source_url": "https://huggingface.co/blog/keras-chatbot-arena",
+      "body": "<p><strong>How good are LLMs at fixing their mistakes? A chatbot arena experiment with Keras and TPUs</strong> — reported by Hugging Face Blog. AI summary pending review; read the full story at the source link below.</p>",
+      "draft": true
+    },
+    {
+      "slug": "2026-10-30-rethinking-llm-evaluation-with-3c3h-aragen-benchmark-and-lea",
+      "title": "Rethinking LLM Evaluation with 3C3H: AraGen Benchmark and Leaderboard",
+      "excerpt": "Ady on: Rethinking LLM Evaluation with 3C3H: AraGen Benchmark and Leaderboard",
+      "category": "AI News",
+      "date": "2026-10-30",
+      "read_minutes": 3,
+      "emoji": "📰",
+      "tags": [
+        "AI News"
+      ],
+      "source_name": "Hugging Face Blog",
+      "source_url": "https://huggingface.co/blog/leaderboard-3c3h-aragen",
+      "body": "<p><strong>Rethinking LLM Evaluation with 3C3H: AraGen Benchmark and Leaderboard</strong> — reported by Hugging Face Blog. AI summary pending review; read the full story at the source link below.</p>",
+      "draft": true
+    },
+    {
+      "slug": "2026-10-30-investing-in-performance-fine-tune-small-models-with-llm-ins",
+      "title": "Investing in Performance: Fine-tune small models with LLM insights  - a CFM case study",
+      "excerpt": "Ady on: Investing in Performance: Fine-tune small models with LLM insights  - a CFM case study",
+      "category": "AI News",
+      "date": "2026-10-30",
+      "read_minutes": 3,
+      "emoji": "📰",
+      "tags": [
+        "AI News"
+      ],
+      "source_name": "Hugging Face Blog",
+      "source_url": "https://huggingface.co/blog/cfm-case-study",
+      "body": "<p><strong>Investing in Performance: Fine-tune small models with LLM insights  - a CFM case study</strong> — reported by Hugging Face Blog. AI summary pending review; read the full story at the source link below.</p>",
+      "draft": true
+    },
+    {
+      "slug": "2026-10-30-open-source-developers-guide-to-the-eu-ai-act",
+      "title": "Open Source Developers Guide to the EU AI Act",
+      "excerpt": "Ady on: Open Source Developers Guide to the EU AI Act",
+      "category": "AI News",
+      "date": "2026-10-30",
+      "read_minutes": 3,
+      "emoji": "📰",
+      "tags": [
+        "AI News"
+      ],
+      "source_name": "Hugging Face Blog",
+      "source_url": "https://huggingface.co/blog/eu-ai-act-for-oss-developers",
+      "body": "<p><strong>Open Source Developers Guide to the EU AI Act</strong> — reported by Hugging Face Blog. AI summary pending review; read the full story at the source link below.</p>",
+      "draft": true
+    },
+    {
+      "slug": "2026-10-30-letting-large-models-debate-the-first-multilingual-llm-debat",
+      "title": "Letting Large Models Debate: The First Multilingual LLM Debate Competition",
+      "excerpt": "Ady on: Letting Large Models Debate: The First Multilingual LLM Debate Competition",
+      "category": "AI News",
+      "date": "2026-10-30",
+      "read_minutes": 3,
+      "emoji": "📰",
+      "tags": [
+        "AI News"
+      ],
+      "source_name": "Hugging Face Blog",
+      "source_url": "https://huggingface.co/blog/debate",
+      "body": "<p><strong>Letting Large Models Debate: The First Multilingual LLM Debate Competition</strong> — reported by Hugging Face Blog. AI summary pending review; read the full story at the source link below.</p>",
+      "draft": true
     }
   ],
   "site": {
