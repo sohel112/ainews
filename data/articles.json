@@ -3402,6 +3402,86 @@
       "source_url": "https://huggingface.co/blog/leaderboard-japanese",
       "body": "<p><strong>Introducing the Open Leaderboard for Japanese LLMs!</strong> — reported by Hugging Face Blog. AI summary pending review; read the full story at the source link below.</p>",
       "draft": true
+    },
+    {
+      "slug": "2026-10-31-ollie-a-privacy-focused-ai-assistant-is-shutting-down",
+      "title": "Ollie, a privacy-focused AI assistant, is shutting down",
+      "excerpt": "Ady on: Ollie, a privacy-focused AI assistant, is shutting down",
+      "category": "AI News",
+      "date": "2026-10-31",
+      "read_minutes": 3,
+      "emoji": "📰",
+      "tags": [
+        "AI News"
+      ],
+      "source_name": "TechCrunch AI",
+      "source_url": "https://techcrunch.com/2026/10/30/ollie-a-privacy-focused-ai-assistant-is-shutting-down/",
+      "body": "<p><strong>Ollie, a privacy-focused AI assistant, is shutting down</strong> — reported by TechCrunch AI. AI summary pending review; read the full story at the source link below.</p>",
+      "draft": true
+    },
+    {
+      "slug": "2026-10-31-anthropic-expected-to-receive-high-junk-rating-from-credit-a",
+      "title": "Anthropic expected to receive high ‘junk’ rating from credit agencies following IPO, FT report says",
+      "excerpt": "Ady on: Anthropic expected to receive high ‘junk’ rating from credit agencies following IPO, FT report says",
+      "category": "AI News",
+      "date": "2026-10-31",
+      "read_minutes": 3,
+      "emoji": "📰",
+      "tags": [
+        "AI News"
+      ],
+      "source_name": "TechCrunch AI",
+      "source_url": "https://techcrunch.com/2026/10/30/anthropic-expected-to-receive-high-junk-rating-from-credit-agencies-following-ipo-report-says/",
+      "body": "<p><strong>Anthropic expected to receive high ‘junk’ rating from credit agencies following IPO, FT report says</strong> — reported by TechCrunch AI. AI summary pending review; read the full story at the source link below.</p>",
+      "draft": true
+    },
+    {
+      "slug": "2026-10-31-cracks-are-emerging-in-the-ai-spending-boom",
+      "title": "Cracks are emerging in the AI spending boom",
+      "excerpt": "Ady on: Cracks are emerging in the AI spending boom",
+      "category": "AI News",
+      "date": "2026-10-31",
+      "read_minutes": 3,
+      "emoji": "📰",
+      "tags": [
+        "AI News"
+      ],
+      "source_name": "TechCrunch AI",
+      "source_url": "https://techcrunch.com/2026/10/30/cracks-are-emerging-in-the-ai-spending-boom/",
+      "body": "<p><strong>Cracks are emerging in the AI spending boom</strong> — reported by TechCrunch AI. AI summary pending review; read the full story at the source link below.</p>",
+      "draft": true
+    },
+    {
+      "slug": "2026-10-31-judge-arena-benchmarking-llms-as-evaluators",
+      "title": "Judge Arena: Benchmarking LLMs as Evaluators",
+      "excerpt": "Ady on: Judge Arena: Benchmarking LLMs as Evaluators",
+      "category": "AI News",
+      "date": "2026-10-31",
+      "read_minutes": 3,
+      "emoji": "📰",
+      "tags": [
+        "AI News"
+      ],
+      "source_name": "Hugging Face Blog",
+      "source_url": "https://huggingface.co/blog/arena-atla",
+      "body": "<p><strong>Judge Arena: Benchmarking LLMs as Evaluators</strong> — reported by Hugging Face Blog. AI summary pending review; read the full story at the source link below.</p>",
+      "draft": true
+    },
+    {
+      "slug": "2026-10-31-expert-support-case-study-bolstering-a-rag-app-with-llm-as-a",
+      "title": "Expert Support case study: Bolstering a RAG app with LLM-as-a-Judge",
+      "excerpt": "Ady on: Expert Support case study: Bolstering a RAG app with LLM-as-a-Judge",
+      "category": "AI News",
+      "date": "2026-10-31",
+      "read_minutes": 3,
+      "emoji": "📰",
+      "tags": [
+        "AI News"
+      ],
+      "source_name": "Hugging Face Blog",
+      "source_url": "https://huggingface.co/blog/digital-green-llm-judge",
+      "body": "<p><strong>Expert Support case study: Bolstering a RAG app with LLM-as-a-Judge</strong> — reported by Hugging Face Blog. AI summary pending review; read the full story at the source link below.</p>",
+      "draft": true
     }
   ],
   "site": {
