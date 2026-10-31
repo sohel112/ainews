@@ -3482,6 +3482,86 @@
       "source_url": "https://huggingface.co/blog/digital-green-llm-judge",
       "body": "<p><strong>Expert Support case study: Bolstering a RAG app with LLM-as-a-Judge</strong> — reported by Hugging Face Blog. AI summary pending review; read the full story at the source link below.</p>",
       "draft": true
+    },
+    {
+      "slug": "2026-10-31-nvidia-weighs-playing-the-cosigner-for-nscale-s-ai-data-cent",
+      "title": "Nvidia weighs playing the cosigner for Nscale’s AI data center in West Virginia",
+      "excerpt": "Ady on: Nvidia weighs playing the cosigner for Nscale’s AI data center in West Virginia",
+      "category": "AI News",
+      "date": "2026-10-31",
+      "read_minutes": 3,
+      "emoji": "📰",
+      "tags": [
+        "AI News"
+      ],
+      "source_name": "TechCrunch AI",
+      "source_url": "https://techcrunch.com/2026/10/30/nvidia-weighs-playing-the-cosigner-for-nscales-ai-data-center-in-west-virginia/",
+      "body": "<p><strong>Nvidia weighs playing the cosigner for Nscale’s AI data center in West Virginia</strong> — reported by TechCrunch AI. AI summary pending review; read the full story at the source link below.</p>",
+      "draft": true
+    },
+    {
+      "slug": "2026-10-31-introducing-hugs-scale-your-ai-with-open-models",
+      "title": "Introducing HUGS - Scale your AI with Open Models",
+      "excerpt": "Ady on: Introducing HUGS - Scale your AI with Open Models",
+      "category": "AI News",
+      "date": "2026-10-31",
+      "read_minutes": 3,
+      "emoji": "📰",
+      "tags": [
+        "AI News"
+      ],
+      "source_name": "Hugging Face Blog",
+      "source_url": "https://huggingface.co/blog/hugs",
+      "body": "<p><strong>Introducing HUGS - Scale your AI with Open Models</strong> — reported by Hugging Face Blog. AI summary pending review; read the full story at the source link below.</p>",
+      "draft": true
+    },
+    {
+      "slug": "2026-10-31-diffusers-welcomes-stable-diffusion-3-5-large",
+      "title": "Diffusers welcomes Stable Diffusion 3.5 Large",
+      "excerpt": "Ady on: Diffusers welcomes Stable Diffusion 3.5 Large",
+      "category": "AI News",
+      "date": "2026-10-31",
+      "read_minutes": 3,
+      "emoji": "📰",
+      "tags": [
+        "AI News"
+      ],
+      "source_name": "Hugging Face Blog",
+      "source_url": "https://huggingface.co/blog/sd3-5",
+      "body": "<p><strong>Diffusers welcomes Stable Diffusion 3.5 Large</strong> — reported by Hugging Face Blog. AI summary pending review; read the full story at the source link below.</p>",
+      "draft": true
+    },
+    {
+      "slug": "2026-10-31-introducing-the-open-finllm-leaderboard",
+      "title": "Introducing the Open FinLLM Leaderboard",
+      "excerpt": "Ady on: Introducing the Open FinLLM Leaderboard",
+      "category": "AI News",
+      "date": "2026-10-31",
+      "read_minutes": 3,
+      "emoji": "📰",
+      "tags": [
+        "AI News"
+      ],
+      "source_name": "Hugging Face Blog",
+      "source_url": "https://huggingface.co/blog/leaderboard-finbench",
+      "body": "<p><strong>Introducing the Open FinLLM Leaderboard</strong> — reported by Hugging Face Blog. AI summary pending review; read the full story at the source link below.</p>",
+      "draft": true
+    },
+    {
+      "slug": "2026-10-31-a-short-summary-of-chinese-ai-global-expansion",
+      "title": "A Short Summary of Chinese AI Global Expansion",
+      "excerpt": "Ady on: A Short Summary of Chinese AI Global Expansion",
+      "category": "AI News",
+      "date": "2026-10-31",
+      "read_minutes": 3,
+      "emoji": "📰",
+      "tags": [
+        "AI News"
+      ],
+      "source_name": "Hugging Face Blog",
+      "source_url": "https://huggingface.co/blog/chinese-ai-expansion",
+      "body": "<p><strong>A Short Summary of Chinese AI Global Expansion</strong> — reported by Hugging Face Blog. AI summary pending review; read the full story at the source link below.</p>",
+      "draft": true
     }
   ],
   "site": {
