@@ -3562,6 +3562,86 @@
       "source_url": "https://huggingface.co/blog/chinese-ai-expansion",
       "body": "<p><strong>A Short Summary of Chinese AI Global Expansion</strong> — reported by Hugging Face Blog. AI summary pending review; read the full story at the source link below.</p>",
       "draft": true
+    },
+    {
+      "slug": "2026-10-31-openai-reportedly-lowers-funding-target-for-new-round",
+      "title": "OpenAI reportedly lowers funding target for new round",
+      "excerpt": "Ady on: OpenAI reportedly lowers funding target for new round",
+      "category": "AI News",
+      "date": "2026-10-31",
+      "read_minutes": 3,
+      "emoji": "📰",
+      "tags": [
+        "AI News"
+      ],
+      "source_name": "TechCrunch AI",
+      "source_url": "https://techcrunch.com/2026/10/31/openai-reportedly-lowers-funding-target-for-new-round/",
+      "body": "<p><strong>OpenAI reportedly lowers funding target for new round</strong> — reported by TechCrunch AI. AI summary pending review; read the full story at the source link below.</p>",
+      "draft": true
+    },
+    {
+      "slug": "2026-10-31-benczechmark-can-your-llm-understand-czech",
+      "title": "🇨🇿 BenCzechMark - Can your LLM Understand Czech?",
+      "excerpt": "Ady on: 🇨🇿 BenCzechMark - Can your LLM Understand Czech?",
+      "category": "AI News",
+      "date": "2026-10-31",
+      "read_minutes": 3,
+      "emoji": "📰",
+      "tags": [
+        "AI News"
+      ],
+      "source_name": "Hugging Face Blog",
+      "source_url": "https://huggingface.co/blog/benczechmark",
+      "body": "<p><strong>🇨🇿 BenCzechMark - Can your LLM Understand Czech?</strong> — reported by Hugging Face Blog. AI summary pending review; read the full story at the source link below.</p>",
+      "draft": true
+    },
+    {
+      "slug": "2026-10-31-fine-tuning-llms-to-1-58bit-extreme-quantization-made-easy",
+      "title": "Fine-tuning LLMs to 1.58bit: extreme quantization made easy",
+      "excerpt": "Ady on: Fine-tuning LLMs to 1.58bit: extreme quantization made easy",
+      "category": "AI News",
+      "date": "2026-10-31",
+      "read_minutes": 3,
+      "emoji": "📰",
+      "tags": [
+        "AI News"
+      ],
+      "source_name": "Hugging Face Blog",
+      "source_url": "https://huggingface.co/blog/1_58_llm_extreme_quantization",
+      "body": "<p><strong>Fine-tuning LLMs to 1.58bit: extreme quantization made easy</strong> — reported by Hugging Face Blog. AI summary pending review; read the full story at the source link below.</p>",
+      "draft": true
+    },
+    {
+      "slug": "2026-10-31-scaling-robotics-datasets-with-video-encoding",
+      "title": "Scaling robotics datasets with video encoding",
+      "excerpt": "Ady on: Scaling robotics datasets with video encoding",
+      "category": "AI News",
+      "date": "2026-10-31",
+      "read_minutes": 3,
+      "emoji": "📰",
+      "tags": [
+        "AI News"
+      ],
+      "source_name": "Hugging Face Blog",
+      "source_url": "https://huggingface.co/blog/video-encoding",
+      "body": "<p><strong>Scaling robotics datasets with video encoding</strong> — reported by Hugging Face Blog. AI summary pending review; read the full story at the source link below.</p>",
+      "draft": true
+    },
+    {
+      "slug": "2026-10-31-lave-zero-shot-vqa-evaluation-on-docmatix-with-llms-do-we-st",
+      "title": "LAVE: Zero-shot VQA Evaluation on Docmatix with LLMs - Do We Still Need Fine-Tuning?",
+      "excerpt": "Ady on: LAVE: Zero-shot VQA Evaluation on Docmatix with LLMs - Do We Still Need Fine-Tuning?",
+      "category": "AI News",
+      "date": "2026-10-31",
+      "read_minutes": 3,
+      "emoji": "📰",
+      "tags": [
+        "AI News"
+      ],
+      "source_name": "Hugging Face Blog",
+      "source_url": "https://huggingface.co/blog/zero-shot-vqa-docmatix",
+      "body": "<p><strong>LAVE: Zero-shot VQA Evaluation on Docmatix with LLMs - Do We Still Need Fine-Tuning?</strong> — reported by Hugging Face Blog. AI summary pending review; read the full story at the source link below.</p>",
+      "draft": true
     }
   ],
   "site": {
