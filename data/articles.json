@@ -3722,6 +3722,86 @@
       "source_url": "https://huggingface.co/blog/sd3",
       "body": "<p><strong>Diffusers welcomes Stable Diffusion 3</strong> — reported by Hugging Face Blog. AI summary pending review; read the full story at the source link below.</p>",
       "draft": true
+    },
+    {
+      "slug": "2026-11-01-introducing-npc-playground-a-3d-playground-to-interact-with-",
+      "title": "Introducing NPC-Playground, a 3D playground to interact with LLM-powered NPCs",
+      "excerpt": "Ady on: Introducing NPC-Playground, a 3D playground to interact with LLM-powered NPCs",
+      "category": "AI News",
+      "date": "2026-11-01",
+      "read_minutes": 3,
+      "emoji": "📰",
+      "tags": [
+        "AI News"
+      ],
+      "source_name": "Hugging Face Blog",
+      "source_url": "https://huggingface.co/blog/npc-gigax-cubzh",
+      "body": "<p><strong>Introducing NPC-Playground, a 3D playground to interact with LLM-powered NPCs</strong> — reported by Hugging Face Blog. AI summary pending review; read the full story at the source link below.</p>",
+      "draft": true
+    },
+    {
+      "slug": "2026-11-01-build-ai-on-premise-with-dell-enterprise-hub",
+      "title": "Build AI on premise with Dell Enterprise Hub",
+      "excerpt": "Ady on: Build AI on premise with Dell Enterprise Hub",
+      "category": "AI News",
+      "date": "2026-11-01",
+      "read_minutes": 3,
+      "emoji": "📰",
+      "tags": [
+        "AI News"
+      ],
+      "source_name": "Hugging Face Blog",
+      "source_url": "https://huggingface.co/blog/dell-enterprise-hub",
+      "body": "<p><strong>Build AI on premise with Dell Enterprise Hub</strong> — reported by Hugging Face Blog. AI summary pending review; read the full story at the source link below.</p>",
+      "draft": true
+    },
+    {
+      "slug": "2026-11-01-introducing-the-open-arabic-llm-leaderboard",
+      "title": "Introducing the Open Arabic LLM Leaderboard",
+      "excerpt": "Ady on: Introducing the Open Arabic LLM Leaderboard",
+      "category": "AI News",
+      "date": "2026-11-01",
+      "read_minutes": 3,
+      "emoji": "📰",
+      "tags": [
+        "AI News"
+      ],
+      "source_name": "Hugging Face Blog",
+      "source_url": "https://huggingface.co/blog/leaderboard-arabic",
+      "body": "<p><strong>Introducing the Open Arabic LLM Leaderboard</strong> — reported by Hugging Face Blog. AI summary pending review; read the full story at the source link below.</p>",
+      "draft": true
+    },
+    {
+      "slug": "2026-11-01-introducing-the-open-leaderboard-for-hebrew-llms",
+      "title": "Introducing the Open Leaderboard for Hebrew LLMs!",
+      "excerpt": "Ady on: Introducing the Open Leaderboard for Hebrew LLMs!",
+      "category": "AI News",
+      "date": "2026-11-01",
+      "read_minutes": 3,
+      "emoji": "📰",
+      "tags": [
+        "AI News"
+      ],
+      "source_name": "Hugging Face Blog",
+      "source_url": "https://huggingface.co/blog/leaderboard-hebrew",
+      "body": "<p><strong>Introducing the Open Leaderboard for Hebrew LLMs!</strong> — reported by Hugging Face Blog. AI summary pending review; read the full story at the source link below.</p>",
+      "draft": true
+    },
+    {
+      "slug": "2026-11-01-bringing-the-artificial-analysis-llm-performance-leaderboard",
+      "title": "Bringing the Artificial Analysis LLM Performance Leaderboard to Hugging Face",
+      "excerpt": "Ady on: Bringing the Artificial Analysis LLM Performance Leaderboard to Hugging Face",
+      "category": "AI News",
+      "date": "2026-11-01",
+      "read_minutes": 3,
+      "emoji": "📰",
+      "tags": [
+        "AI News"
+      ],
+      "source_name": "Hugging Face Blog",
+      "source_url": "https://huggingface.co/blog/leaderboard-artificial-analysis",
+      "body": "<p><strong>Bringing the Artificial Analysis LLM Performance Leaderboard to Hugging Face</strong> — reported by Hugging Face Blog. AI summary pending review; read the full story at the source link below.</p>",
+      "draft": true
     }
   ],
   "site": {
