@@ -3802,6 +3802,86 @@
       "source_url": "https://huggingface.co/blog/leaderboard-artificial-analysis",
       "body": "<p><strong>Bringing the Artificial Analysis LLM Performance Leaderboard to Hugging Face</strong> — reported by Hugging Face Blog. AI summary pending review; read the full story at the source link below.</p>",
       "draft": true
+    },
+    {
+      "slug": "2026-11-01-the-open-medical-llm-leaderboard-benchmarking-large-language",
+      "title": "The Open Medical-LLM Leaderboard: Benchmarking Large Language Models in Healthcare",
+      "excerpt": "Ady on: The Open Medical-LLM Leaderboard: Benchmarking Large Language Models in Healthcare",
+      "category": "AI News",
+      "date": "2026-11-01",
+      "read_minutes": 3,
+      "emoji": "📰",
+      "tags": [
+        "AI News"
+      ],
+      "source_name": "Hugging Face Blog",
+      "source_url": "https://huggingface.co/blog/leaderboard-medicalllm",
+      "body": "<p><strong>The Open Medical-LLM Leaderboard: Benchmarking Large Language Models in Healthcare</strong> — reported by Hugging Face Blog. AI summary pending review; read the full story at the source link below.</p>",
+      "draft": true
+    },
+    {
+      "slug": "2026-11-01-welcome-llama-3-meta-s-new-open-llm",
+      "title": "Welcome Llama 3 - Meta's new open LLM",
+      "excerpt": "Ady on: Welcome Llama 3 - Meta's new open LLM",
+      "category": "AI News",
+      "date": "2026-11-01",
+      "read_minutes": 3,
+      "emoji": "📰",
+      "tags": [
+        "AI News"
+      ],
+      "source_name": "Hugging Face Blog",
+      "source_url": "https://huggingface.co/blog/llama3",
+      "body": "<p><strong>Welcome Llama 3 - Meta&#x27;s new open LLM</strong> — reported by Hugging Face Blog. AI summary pending review; read the full story at the source link below.</p>",
+      "draft": true
+    },
+    {
+      "slug": "2026-11-01-ai-apps-in-a-flash-with-gradio-s-reload-mode",
+      "title": "AI Apps in a Flash with Gradio's Reload Mode",
+      "excerpt": "Ady on: AI Apps in a Flash with Gradio's Reload Mode",
+      "category": "AI News",
+      "date": "2026-11-01",
+      "read_minutes": 3,
+      "emoji": "📰",
+      "tags": [
+        "AI News"
+      ],
+      "source_name": "Hugging Face Blog",
+      "source_url": "https://huggingface.co/blog/gradio-reload",
+      "body": "<p><strong>AI Apps in a Flash with Gradio&#x27;s Reload Mode</strong> — reported by Hugging Face Blog. AI summary pending review; read the full story at the source link below.</p>",
+      "draft": true
+    },
+    {
+      "slug": "2026-11-01-introducing-the-livecodebench-leaderboard-holistic-and-conta",
+      "title": "Introducing the LiveCodeBench Leaderboard - Holistic and Contamination-Free Evaluation of Code LLMs",
+      "excerpt": "Ady on: Introducing the LiveCodeBench Leaderboard - Holistic and Contamination-Free Evaluation of Code LLMs",
+      "category": "AI News",
+      "date": "2026-11-01",
+      "read_minutes": 3,
+      "emoji": "📰",
+      "tags": [
+        "AI News"
+      ],
+      "source_name": "Hugging Face Blog",
+      "source_url": "https://huggingface.co/blog/leaderboard-livecodebench",
+      "body": "<p><strong>Introducing the LiveCodeBench Leaderboard - Holistic and Contamination-Free Evaluation of Code LLMs</strong> — reported by Hugging Face Blog. AI summary pending review; read the full story at the source link below.</p>",
+      "draft": true
+    },
+    {
+      "slug": "2026-11-01-making-thousands-of-open-llms-bloom-in-the-vertex-ai-model-g",
+      "title": "Making thousands of open LLMs bloom in the Vertex AI Model Garden",
+      "excerpt": "Ady on: Making thousands of open LLMs bloom in the Vertex AI Model Garden",
+      "category": "AI News",
+      "date": "2026-11-01",
+      "read_minutes": 3,
+      "emoji": "📰",
+      "tags": [
+        "AI News"
+      ],
+      "source_name": "Hugging Face Blog",
+      "source_url": "https://huggingface.co/blog/google-cloud-model-garden",
+      "body": "<p><strong>Making thousands of open LLMs bloom in the Vertex AI Model Garden</strong> — reported by Hugging Face Blog. AI summary pending review; read the full story at the source link below.</p>",
+      "draft": true
     }
   ],
   "site": {
