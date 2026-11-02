@@ -3962,6 +3962,86 @@
       "source_url": "https://huggingface.co/blog/pollen-vision",
       "body": "<p><strong>Pollen-Vision: Unified interface for Zero-Shot vision models in robotics</strong> — reported by Hugging Face Blog. AI summary pending review; read the full story at the source link below.</p>",
       "draft": true
+    },
+    {
+      "slug": "2026-11-02-openai-is-finally-merging-chatgpt-s-chat-and-work-tabs",
+      "title": "OpenAI is finally merging ChatGPT’s chat and Work tabs",
+      "excerpt": "Ady on: OpenAI is finally merging ChatGPT’s chat and Work tabs",
+      "category": "AI News",
+      "date": "2026-11-02",
+      "read_minutes": 3,
+      "emoji": "📰",
+      "tags": [
+        "AI News"
+      ],
+      "source_name": "TechCrunch AI",
+      "source_url": "https://techcrunch.com/2026/11/02/openai-is-finally-merging-chatgpts-chat-and-work-tabs/",
+      "body": "<p><strong>OpenAI is finally merging ChatGPT’s chat and Work tabs</strong> — reported by TechCrunch AI. AI summary pending review; read the full story at the source link below.</p>",
+      "draft": true
+    },
+    {
+      "slug": "2026-11-02-text-generation-pipeline-on-intel-gaudi-2-ai-accelerator",
+      "title": "Text-Generation Pipeline on Intel® Gaudi® 2 AI Accelerator",
+      "excerpt": "Ady on: Text-Generation Pipeline on Intel® Gaudi® 2 AI Accelerator",
+      "category": "AI News",
+      "date": "2026-11-02",
+      "read_minutes": 3,
+      "emoji": "📰",
+      "tags": [
+        "AI News"
+      ],
+      "source_name": "Hugging Face Blog",
+      "source_url": "https://huggingface.co/blog/textgen-pipe-gaudi",
+      "body": "<p><strong>Text-Generation Pipeline on Intel® Gaudi® 2 AI Accelerator</strong> — reported by Hugging Face Blog. AI summary pending review; read the full story at the source link below.</p>",
+      "draft": true
+    },
+    {
+      "slug": "2026-11-02-ai-watermarking-101-tools-and-techniques",
+      "title": "AI Watermarking 101: Tools and Techniques",
+      "excerpt": "Ady on: AI Watermarking 101: Tools and Techniques",
+      "category": "AI News",
+      "date": "2026-11-02",
+      "read_minutes": 3,
+      "emoji": "📰",
+      "tags": [
+        "AI News"
+      ],
+      "source_name": "Hugging Face Blog",
+      "source_url": "https://huggingface.co/blog/watermarking",
+      "body": "<p><strong>AI Watermarking 101: Tools and Techniques</strong> — reported by Hugging Face Blog. AI summary pending review; read the full story at the source link below.</p>",
+      "draft": true
+    },
+    {
+      "slug": "2026-11-02-welcome-gemma-google-s-new-open-llm",
+      "title": "Welcome Gemma - Google’s new open LLM",
+      "excerpt": "Ady on: Welcome Gemma - Google’s new open LLM",
+      "category": "AI News",
+      "date": "2026-11-02",
+      "read_minutes": 3,
+      "emoji": "📰",
+      "tags": [
+        "AI News"
+      ],
+      "source_name": "Hugging Face Blog",
+      "source_url": "https://huggingface.co/blog/gemma",
+      "body": "<p><strong>Welcome Gemma - Google’s new open LLM</strong> — reported by Hugging Face Blog. AI summary pending review; read the full story at the source link below.</p>",
+      "draft": true
+    },
+    {
+      "slug": "2026-11-02-introducing-the-open-ko-llm-leaderboard-leading-the-korean-l",
+      "title": "Introducing the Open Ko-LLM Leaderboard: Leading the Korean LLM Evaluation Ecosystem",
+      "excerpt": "Ady on: Introducing the Open Ko-LLM Leaderboard: Leading the Korean LLM Evaluation Ecosystem",
+      "category": "AI News",
+      "date": "2026-11-02",
+      "read_minutes": 3,
+      "emoji": "📰",
+      "tags": [
+        "AI News"
+      ],
+      "source_name": "Hugging Face Blog",
+      "source_url": "https://huggingface.co/blog/leaderboard-upstage",
+      "body": "<p><strong>Introducing the Open Ko-LLM Leaderboard: Leading the Korean LLM Evaluation Ecosystem</strong> — reported by Hugging Face Blog. AI summary pending review; read the full story at the source link below.</p>",
+      "draft": true
     }
   ],
   "site": {
