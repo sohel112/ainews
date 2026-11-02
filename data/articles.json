@@ -3882,6 +3882,86 @@
       "source_url": "https://huggingface.co/blog/google-cloud-model-garden",
       "body": "<p><strong>Making thousands of open LLMs bloom in the Vertex AI Model Garden</strong> — reported by Hugging Face Blog. AI summary pending review; read the full story at the source link below.</p>",
       "draft": true
+    },
+    {
+      "slug": "2026-11-02-openai-might-rebrand-its-data-centers-as-ai-compute-campuses",
+      "title": "OpenAI might rebrand its data centers as ‘AI compute campuses’",
+      "excerpt": "Ady on: OpenAI might rebrand its data centers as ‘AI compute campuses’",
+      "category": "AI News",
+      "date": "2026-11-02",
+      "read_minutes": 3,
+      "emoji": "📰",
+      "tags": [
+        "AI News"
+      ],
+      "source_name": "TechCrunch AI",
+      "source_url": "https://techcrunch.com/2026/11/01/openai-might-rebrand-its-data-centers-as-ai-compute-campuses/",
+      "body": "<p><strong>OpenAI might rebrand its data centers as ‘AI compute campuses’</strong> — reported by TechCrunch AI. AI summary pending review; read the full story at the source link below.</p>",
+      "draft": true
+    },
+    {
+      "slug": "2026-11-02-ai-can-make-tech-ceos-lives-easier-what-about-everyone-else",
+      "title": "AI can make tech CEOs’ lives easier. What about everyone else?",
+      "excerpt": "Ady on: AI can make tech CEOs’ lives easier. What about everyone else?",
+      "category": "AI News",
+      "date": "2026-11-02",
+      "read_minutes": 3,
+      "emoji": "📰",
+      "tags": [
+        "AI News"
+      ],
+      "source_name": "TechCrunch AI",
+      "source_url": "https://techcrunch.com/2026/11/01/ai-can-make-tech-ceos-lives-easier-what-about-everyone-else/",
+      "body": "<p><strong>AI can make tech CEOs’ lives easier. What about everyone else?</strong> — reported by TechCrunch AI. AI summary pending review; read the full story at the source link below.</p>",
+      "draft": true
+    },
+    {
+      "slug": "2026-11-02-codegemma-an-official-google-release-for-code-llms",
+      "title": "CodeGemma - an official Google release for code LLMs",
+      "excerpt": "Ady on: CodeGemma - an official Google release for code LLMs",
+      "category": "AI News",
+      "date": "2026-11-02",
+      "read_minutes": 3,
+      "emoji": "📰",
+      "tags": [
+        "AI News"
+      ],
+      "source_name": "Hugging Face Blog",
+      "source_url": "https://huggingface.co/blog/codegemma",
+      "body": "<p><strong>CodeGemma - an official Google release for code LLMs</strong> — reported by Hugging Face Blog. AI summary pending review; read the full story at the source link below.</p>",
+      "draft": true
+    },
+    {
+      "slug": "2026-11-02-hugging-face-partners-with-wiz-research-to-improve-ai-securi",
+      "title": "Hugging Face partners with Wiz Research to Improve AI Security",
+      "excerpt": "Ady on: Hugging Face partners with Wiz Research to Improve AI Security",
+      "category": "AI News",
+      "date": "2026-11-02",
+      "read_minutes": 3,
+      "emoji": "📰",
+      "tags": [
+        "AI News"
+      ],
+      "source_name": "Hugging Face Blog",
+      "source_url": "https://huggingface.co/blog/hugging-face-wiz-security-blog",
+      "body": "<p><strong>Hugging Face partners with Wiz Research to Improve AI Security</strong> — reported by Hugging Face Blog. AI summary pending review; read the full story at the source link below.</p>",
+      "draft": true
+    },
+    {
+      "slug": "2026-11-02-pollen-vision-unified-interface-for-zero-shot-vision-models-",
+      "title": "Pollen-Vision: Unified interface for Zero-Shot vision models in robotics",
+      "excerpt": "Ady on: Pollen-Vision: Unified interface for Zero-Shot vision models in robotics",
+      "category": "AI News",
+      "date": "2026-11-02",
+      "read_minutes": 3,
+      "emoji": "📰",
+      "tags": [
+        "AI News"
+      ],
+      "source_name": "Hugging Face Blog",
+      "source_url": "https://huggingface.co/blog/pollen-vision",
+      "body": "<p><strong>Pollen-Vision: Unified interface for Zero-Shot vision models in robotics</strong> — reported by Hugging Face Blog. AI summary pending review; read the full story at the source link below.</p>",
+      "draft": true
     }
   ],
   "site": {
