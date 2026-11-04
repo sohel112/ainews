@@ -4362,6 +4362,38 @@
       "source_url": "https://huggingface.co/blog/pref-tuning",
       "body": "<p><strong>Preference Tuning LLMs with Direct Preference Optimization Methods</strong> — reported by Hugging Face Blog. AI summary pending review; read the full story at the source link below.</p>",
       "draft": true
+    },
+    {
+      "slug": "2026-11-04-the-download-controlling-ai-agents-and-super-intelligence-lo",
+      "title": "The Download: controlling AI agents and “Super Intelligence” loyalty tests",
+      "excerpt": "Ady on: The Download: controlling AI agents and “Super Intelligence” loyalty tests",
+      "category": "AI News",
+      "date": "2026-11-04",
+      "read_minutes": 3,
+      "emoji": "📰",
+      "tags": [
+        "AI News"
+      ],
+      "source_name": "MIT Tech Review AI",
+      "source_url": "https://www.technologyreview.com/2026/11/03/1147940/the-download-controlling-ai-agents-trump-super-intelligence/",
+      "body": "<p><strong>The Download: controlling AI agents and “Super Intelligence” loyalty tests</strong> — reported by MIT Tech Review AI. AI summary pending review; read the full story at the source link below.</p>",
+      "draft": true
+    },
+    {
+      "slug": "2026-11-04-how-reverse-game-theory-could-keep-ai-agents-in-check",
+      "title": "How “reverse game theory” could keep AI agents in check",
+      "excerpt": "Ady on: How “reverse game theory” could keep AI agents in check",
+      "category": "AI News",
+      "date": "2026-11-04",
+      "read_minutes": 3,
+      "emoji": "📰",
+      "tags": [
+        "AI News"
+      ],
+      "source_name": "MIT Tech Review AI",
+      "source_url": "https://www.technologyreview.com/2026/11/03/1147934/reverse-game-theory-mechanism-design-ai-alignment/",
+      "body": "<p><strong>How “reverse game theory” could keep AI agents in check</strong> — reported by MIT Tech Review AI. AI summary pending review; read the full story at the source link below.</p>",
+      "draft": true
     }
   ],
   "site": {
