@@ -4394,6 +4394,86 @@
       "source_url": "https://www.technologyreview.com/2026/11/03/1147934/reverse-game-theory-mechanism-design-ai-alignment/",
       "body": "<p><strong>How “reverse game theory” could keep AI agents in check</strong> — reported by MIT Tech Review AI. AI summary pending review; read the full story at the source link below.</p>",
       "draft": true
+    },
+    {
+      "slug": "2026-11-04-open-source-ai-is-booming-hugging-face-explains-who-profits",
+      "title": "Open source AI is booming. Hugging Face explains who profits.",
+      "excerpt": "Ady on: Open source AI is booming. Hugging Face explains who profits.",
+      "category": "AI News",
+      "date": "2026-11-04",
+      "read_minutes": 3,
+      "emoji": "📰",
+      "tags": [
+        "AI News"
+      ],
+      "source_name": "TechCrunch AI",
+      "source_url": "https://techcrunch.com/video/open-source-ai-is-booming-hugging-face-explains-who-profits/",
+      "body": "<p><strong>Open source AI is booming. Hugging Face explains who profits.</strong> — reported by TechCrunch AI. AI summary pending review; read the full story at the source link below.</p>",
+      "draft": true
+    },
+    {
+      "slug": "2026-11-04-duckduckgo-pitches-itself-to-schools-amid-backlash-over-goog",
+      "title": "DuckDuckGo pitches itself to schools amid backlash over Google’s AI policy",
+      "excerpt": "Ady on: DuckDuckGo pitches itself to schools amid backlash over Google’s AI policy",
+      "category": "AI News",
+      "date": "2026-11-04",
+      "read_minutes": 3,
+      "emoji": "📰",
+      "tags": [
+        "AI News"
+      ],
+      "source_name": "TechCrunch AI",
+      "source_url": "https://techcrunch.com/2026/11/04/duckduckgo-pitches-itself-to-schools-amid-backlash-over-googles-ai-policy/",
+      "body": "<p><strong>DuckDuckGo pitches itself to schools amid backlash over Google’s AI policy</strong> — reported by TechCrunch AI. AI summary pending review; read the full story at the source link below.</p>",
+      "draft": true
+    },
+    {
+      "slug": "2026-11-04-make-llm-fine-tuning-2x-faster-with-unsloth-and-trl",
+      "title": "Make LLM Fine-tuning 2x faster with Unsloth and 🤗 TRL",
+      "excerpt": "Ady on: Make LLM Fine-tuning 2x faster with Unsloth and 🤗 TRL",
+      "category": "AI News",
+      "date": "2026-11-04",
+      "read_minutes": 3,
+      "emoji": "📰",
+      "tags": [
+        "AI News"
+      ],
+      "source_name": "Hugging Face Blog",
+      "source_url": "https://huggingface.co/blog/unsloth-trl",
+      "body": "<p><strong>Make LLM Fine-tuning 2x faster with Unsloth and 🤗 TRL</strong> — reported by Hugging Face Blog. AI summary pending review; read the full story at the source link below.</p>",
+      "draft": true
+    },
+    {
+      "slug": "2026-11-04-2023-year-of-open-llms",
+      "title": "2023, year of open LLMs",
+      "excerpt": "Ady on: 2023, year of open LLMs",
+      "category": "AI News",
+      "date": "2026-11-04",
+      "read_minutes": 3,
+      "emoji": "📰",
+      "tags": [
+        "AI News"
+      ],
+      "source_name": "Hugging Face Blog",
+      "source_url": "https://huggingface.co/blog/2023-in-llms",
+      "body": "<p><strong>2023, year of open LLMs</strong> — reported by Hugging Face Blog. AI summary pending review; read the full story at the source link below.</p>",
+      "draft": true
+    },
+    {
+      "slug": "2026-11-04-optimum-nvidia-unlocking-blazingly-fast-llm-inference-in-jus",
+      "title": "Optimum-NVIDIA Unlocking blazingly fast LLM inference in just 1 line of code",
+      "excerpt": "Ady on: Optimum-NVIDIA Unlocking blazingly fast LLM inference in just 1 line of code",
+      "category": "AI News",
+      "date": "2026-11-04",
+      "read_minutes": 3,
+      "emoji": "📰",
+      "tags": [
+        "AI News"
+      ],
+      "source_name": "Hugging Face Blog",
+      "source_url": "https://huggingface.co/blog/optimum-nvidia",
+      "body": "<p><strong>Optimum-NVIDIA Unlocking blazingly fast LLM inference in just 1 line of code</strong> — reported by Hugging Face Blog. AI summary pending review; read the full story at the source link below.</p>",
+      "draft": true
     }
   ],
   "site": {
