@@ -4282,6 +4282,86 @@
       "source_url": "https://techcrunch.com/2026/11/03/apple-restricts-dating-apps-and-ai-companions-to-users-18-and-up/",
       "body": "<p><strong>Apple restricts dating apps and AI companions to users 18 and up</strong> — reported by TechCrunch AI. AI summary pending review; read the full story at the source link below.</p>",
       "draft": true
+    },
+    {
+      "slug": "2026-11-04-anthropic-is-working-on-a-system-to-prove-ai-models-identity",
+      "title": "Anthropic is working on a system to prove AI models’ identity",
+      "excerpt": "Ady on: Anthropic is working on a system to prove AI models’ identity",
+      "category": "AI News",
+      "date": "2026-11-04",
+      "read_minutes": 3,
+      "emoji": "📰",
+      "tags": [
+        "AI News"
+      ],
+      "source_name": "TechCrunch AI",
+      "source_url": "https://techcrunch.com/2026/11/03/anthropic-is-working-on-a-system-to-prove-ai-models-identity/",
+      "body": "<p><strong>Anthropic is working on a system to prove AI models’ identity</strong> — reported by TechCrunch AI. AI summary pending review; read the full story at the source link below.</p>",
+      "draft": true
+    },
+    {
+      "slug": "2026-11-04-an-introduction-to-ai-secure-llm-safety-leaderboard",
+      "title": "An Introduction to AI Secure LLM Safety Leaderboard",
+      "excerpt": "Ady on: An Introduction to AI Secure LLM Safety Leaderboard",
+      "category": "AI News",
+      "date": "2026-11-04",
+      "read_minutes": 3,
+      "emoji": "📰",
+      "tags": [
+        "AI News"
+      ],
+      "source_name": "Hugging Face Blog",
+      "source_url": "https://huggingface.co/blog/leaderboard-decodingtrust",
+      "body": "<p><strong>An Introduction to AI Secure LLM Safety Leaderboard</strong> — reported by Hugging Face Blog. AI summary pending review; read the full story at the source link below.</p>",
+      "draft": true
+    },
+    {
+      "slug": "2026-11-04-hugging-face-and-google-partner-for-open-ai-collaboration",
+      "title": "Hugging Face and Google partner for open AI collaboration",
+      "excerpt": "Ady on: Hugging Face and Google partner for open AI collaboration",
+      "category": "AI News",
+      "date": "2026-11-04",
+      "read_minutes": 3,
+      "emoji": "📰",
+      "tags": [
+        "AI News"
+      ],
+      "source_name": "Hugging Face Blog",
+      "source_url": "https://huggingface.co/blog/gcp-partnership",
+      "body": "<p><strong>Hugging Face and Google partner for open AI collaboration</strong> — reported by Hugging Face Blog. AI summary pending review; read the full story at the source link below.</p>",
+      "draft": true
+    },
+    {
+      "slug": "2026-11-04-open-source-llms-as-langchain-agents",
+      "title": "Open-source LLMs as LangChain Agents",
+      "excerpt": "Ady on: Open-source LLMs as LangChain Agents",
+      "category": "AI News",
+      "date": "2026-11-04",
+      "read_minutes": 3,
+      "emoji": "📰",
+      "tags": [
+        "AI News"
+      ],
+      "source_name": "Hugging Face Blog",
+      "source_url": "https://huggingface.co/blog/open-source-llms-as-agents",
+      "body": "<p><strong>Open-source LLMs as LangChain Agents</strong> — reported by Hugging Face Blog. AI summary pending review; read the full story at the source link below.</p>",
+      "draft": true
+    },
+    {
+      "slug": "2026-11-04-preference-tuning-llms-with-direct-preference-optimization-m",
+      "title": "Preference Tuning LLMs with Direct Preference Optimization Methods",
+      "excerpt": "Ady on: Preference Tuning LLMs with Direct Preference Optimization Methods",
+      "category": "AI News",
+      "date": "2026-11-04",
+      "read_minutes": 3,
+      "emoji": "📰",
+      "tags": [
+        "AI News"
+      ],
+      "source_name": "Hugging Face Blog",
+      "source_url": "https://huggingface.co/blog/pref-tuning",
+      "body": "<p><strong>Preference Tuning LLMs with Direct Preference Optimization Methods</strong> — reported by Hugging Face Blog. AI summary pending review; read the full story at the source link below.</p>",
+      "draft": true
     }
   ],
   "site": {
