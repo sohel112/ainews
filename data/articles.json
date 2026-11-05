@@ -4554,6 +4554,86 @@
       "source_url": "https://techcrunch.com/2026/11/04/meta-acquires-ai-coding-startup-conductor/",
       "body": "<p><strong>Meta acquires AI coding startup Conductor</strong> — reported by TechCrunch AI. AI summary pending review; read the full story at the source link below.</p>",
       "draft": true
+    },
+    {
+      "slug": "2026-11-05-agility-is-the-first-pure-humanoid-robot-company-on-the-stoc",
+      "title": "Agility is the first pure humanoid robot company on the stock market. Are you buying?",
+      "excerpt": "Ady on: Agility is the first pure humanoid robot company on the stock market. Are you buying?",
+      "category": "AI News",
+      "date": "2026-11-05",
+      "read_minutes": 3,
+      "emoji": "📰",
+      "tags": [
+        "AI News"
+      ],
+      "source_name": "TechCrunch AI",
+      "source_url": "https://techcrunch.com/2026/11/05/agility-is-the-first-pure-humanoid-robot-company-on-the-stock-market-are-you-buying/",
+      "body": "<p><strong>Agility is the first pure humanoid robot company on the stock market. Are you buying?</strong> — reported by TechCrunch AI. AI summary pending review; read the full story at the source link below.</p>",
+      "draft": true
+    },
+    {
+      "slug": "2026-11-05-open-llm-leaderboard-drop-deep-dive",
+      "title": "Open LLM Leaderboard: DROP deep dive",
+      "excerpt": "Ady on: Open LLM Leaderboard: DROP deep dive",
+      "category": "AI News",
+      "date": "2026-11-05",
+      "read_minutes": 3,
+      "emoji": "📰",
+      "tags": [
+        "AI News"
+      ],
+      "source_name": "Hugging Face Blog",
+      "source_url": "https://huggingface.co/blog/open-llm-leaderboard-drop",
+      "body": "<p><strong>Open LLM Leaderboard: DROP deep dive</strong> — reported by Hugging Face Blog. AI summary pending review; read the full story at the source link below.</p>",
+      "draft": true
+    },
+    {
+      "slug": "2026-11-05-comparing-the-performance-of-llms-a-deep-dive-into-roberta-l",
+      "title": "Comparing the Performance of LLMs: A Deep Dive into Roberta, Llama 2, and Mistral for Disaster Tweets Analysis with Lora",
+      "excerpt": "Ady on: Comparing the Performance of LLMs: A Deep Dive into Roberta, Llama 2, and Mistral for Disaster Tweets Analysis with Lora",
+      "category": "AI News",
+      "date": "2026-11-05",
+      "read_minutes": 3,
+      "emoji": "📰",
+      "tags": [
+        "AI News"
+      ],
+      "source_name": "Hugging Face Blog",
+      "source_url": "https://huggingface.co/blog/Lora-for-sequence-classification-with-Roberta-Llama-Mistral",
+      "body": "<p><strong>Comparing the Performance of LLMs: A Deep Dive into Roberta, Llama 2, and Mistral for Disaster Tweets Analysis with Lora</strong> — reported by Hugging Face Blog. AI summary pending review; read the full story at the source link below.</p>",
+      "draft": true
+    },
+    {
+      "slug": "2026-11-05-personal-copilot-train-your-own-coding-assistant",
+      "title": "Personal Copilot: Train Your Own Coding Assistant",
+      "excerpt": "Ady on: Personal Copilot: Train Your Own Coding Assistant",
+      "category": "AI News",
+      "date": "2026-11-05",
+      "read_minutes": 3,
+      "emoji": "📰",
+      "tags": [
+        "AI News"
+      ],
+      "source_name": "Hugging Face Blog",
+      "source_url": "https://huggingface.co/blog/personal-copilot",
+      "body": "<p><strong>Personal Copilot: Train Your Own Coding Assistant</strong> — reported by Hugging Face Blog. AI summary pending review; read the full story at the source link below.</p>",
+      "draft": true
+    },
+    {
+      "slug": "2026-11-05-accelerating-stable-diffusion-xl-inference-with-jax-on-cloud",
+      "title": "🧨 Accelerating Stable Diffusion XL Inference with JAX on Cloud TPU v5e",
+      "excerpt": "Ady on: 🧨 Accelerating Stable Diffusion XL Inference with JAX on Cloud TPU v5e",
+      "category": "AI News",
+      "date": "2026-11-05",
+      "read_minutes": 3,
+      "emoji": "📰",
+      "tags": [
+        "AI News"
+      ],
+      "source_name": "Hugging Face Blog",
+      "source_url": "https://huggingface.co/blog/sdxl_jax",
+      "body": "<p><strong>🧨 Accelerating Stable Diffusion XL Inference with JAX on Cloud TPU v5e</strong> — reported by Hugging Face Blog. AI summary pending review; read the full story at the source link below.</p>",
+      "draft": true
     }
   ],
   "site": {
