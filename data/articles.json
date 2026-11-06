@@ -4794,6 +4794,86 @@
       "source_url": "https://huggingface.co/blog/ai-comic-factory",
       "body": "<p><strong>Deploying the AI Comic Factory using the Inference API</strong> — reported by Hugging Face Blog. AI summary pending review; read the full story at the source link below.</p>",
       "draft": true
+    },
+    {
+      "slug": "2026-11-06-physicl-raises-10m-to-make-the-digital-world-real-enough-for",
+      "title": "Physicl raises $10M to make the digital world real enough for robots",
+      "excerpt": "Ady on: Physicl raises $10M to make the digital world real enough for robots",
+      "category": "AI News",
+      "date": "2026-11-06",
+      "read_minutes": 3,
+      "emoji": "📰",
+      "tags": [
+        "AI News"
+      ],
+      "source_name": "TechCrunch AI",
+      "source_url": "https://techcrunch.com/2026/11/06/physicl-raises-10m-to-make-the-digital-world-real-enough-for-robots/",
+      "body": "<p><strong>Physicl raises $10M to make the digital world real enough for robots</strong> — reported by TechCrunch AI. AI summary pending review; read the full story at the source link below.</p>",
+      "draft": true
+    },
+    {
+      "slug": "2026-11-06-palo-alto-networks-in-talks-to-buy-ai-agent-security-startup",
+      "title": "Palo Alto Networks in talks to buy AI agent security startup Clutch for $500M",
+      "excerpt": "Ady on: Palo Alto Networks in talks to buy AI agent security startup Clutch for $500M",
+      "category": "AI News",
+      "date": "2026-11-06",
+      "read_minutes": 3,
+      "emoji": "📰",
+      "tags": [
+        "AI News"
+      ],
+      "source_name": "TechCrunch AI",
+      "source_url": "https://techcrunch.com/2026/11/05/palo-alto-networks-in-talks-to-buy-ai-agent-security-startup-clutch-for-500m/",
+      "body": "<p><strong>Palo Alto Networks in talks to buy AI agent security startup Clutch for $500M</strong> — reported by TechCrunch AI. AI summary pending review; read the full story at the source link below.</p>",
+      "draft": true
+    },
+    {
+      "slug": "2026-11-06-finetune-stable-diffusion-models-with-ddpo-via-trl",
+      "title": "Finetune Stable Diffusion Models with DDPO via TRL",
+      "excerpt": "Ady on: Finetune Stable Diffusion Models with DDPO via TRL",
+      "category": "AI News",
+      "date": "2026-11-06",
+      "read_minutes": 3,
+      "emoji": "📰",
+      "tags": [
+        "AI News"
+      ],
+      "source_name": "Hugging Face Blog",
+      "source_url": "https://huggingface.co/blog/trl-ddpo",
+      "body": "<p><strong>Finetune Stable Diffusion Models with DDPO via TRL</strong> — reported by Hugging Face Blog. AI summary pending review; read the full story at the source link below.</p>",
+      "draft": true
+    },
+    {
+      "slug": "2026-11-06-optimizing-your-llm-in-production",
+      "title": "Optimizing your LLM in production",
+      "excerpt": "Ady on: Optimizing your LLM in production",
+      "category": "AI News",
+      "date": "2026-11-06",
+      "read_minutes": 3,
+      "emoji": "📰",
+      "tags": [
+        "AI News"
+      ],
+      "source_name": "Hugging Face Blog",
+      "source_url": "https://huggingface.co/blog/optimize-llm",
+      "body": "<p><strong>Optimizing your LLM in production</strong> — reported by Hugging Face Blog. AI summary pending review; read the full story at the source link below.</p>",
+      "draft": true
+    },
+    {
+      "slug": "2026-11-06-making-llms-lighter-with-autogptq-and-transformers",
+      "title": "Making LLMs lighter with AutoGPTQ and transformers",
+      "excerpt": "Ady on: Making LLMs lighter with AutoGPTQ and transformers",
+      "category": "AI News",
+      "date": "2026-11-06",
+      "read_minutes": 3,
+      "emoji": "📰",
+      "tags": [
+        "AI News"
+      ],
+      "source_name": "Hugging Face Blog",
+      "source_url": "https://huggingface.co/blog/gptq-integration",
+      "body": "<p><strong>Making LLMs lighter with AutoGPTQ and transformers</strong> — reported by Hugging Face Blog. AI summary pending review; read the full story at the source link below.</p>",
+      "draft": true
     }
   ],
   "site": {
