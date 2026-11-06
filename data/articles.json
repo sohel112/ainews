@@ -4874,6 +4874,86 @@
       "source_url": "https://huggingface.co/blog/gptq-integration",
       "body": "<p><strong>Making LLMs lighter with AutoGPTQ and transformers</strong> — reported by Hugging Face Blog. AI summary pending review; read the full story at the source link below.</p>",
       "draft": true
+    },
+    {
+      "slug": "2026-11-06-hundreds-of-artex-ai-hacking-tools-found-publicly-exposed-to",
+      "title": "Hundreds of Artex AI hacking tools found publicly exposed to the web",
+      "excerpt": "Ady on: Hundreds of Artex AI hacking tools found publicly exposed to the web",
+      "category": "AI News",
+      "date": "2026-11-06",
+      "read_minutes": 3,
+      "emoji": "📰",
+      "tags": [
+        "AI News"
+      ],
+      "source_name": "TechCrunch AI",
+      "source_url": "https://techcrunch.com/2026/11/06/hundreds-of-artex-ai-hacking-tools-found-publicly-exposed-to-the-web/",
+      "body": "<p><strong>Hundreds of Artex AI hacking tools found publicly exposed to the web</strong> — reported by TechCrunch AI. AI summary pending review; read the full story at the source link below.</p>",
+      "draft": true
+    },
+    {
+      "slug": "2026-11-06-how-a-blue-wave-midterm-might-reshape-the-ai-industry",
+      "title": "How a Blue Wave midterm might reshape the AI industry",
+      "excerpt": "Ady on: How a Blue Wave midterm might reshape the AI industry",
+      "category": "AI News",
+      "date": "2026-11-06",
+      "read_minutes": 3,
+      "emoji": "📰",
+      "tags": [
+        "AI News"
+      ],
+      "source_name": "TechCrunch AI",
+      "source_url": "https://techcrunch.com/podcast/how-a-blue-wave-midterm-might-reshape-the-ai-industry/",
+      "body": "<p><strong>How a Blue Wave midterm might reshape the AI industry</strong> — reported by TechCrunch AI. AI summary pending review; read the full story at the source link below.</p>",
+      "draft": true
+    },
+    {
+      "slug": "2026-11-06-after-the-midterms-is-the-ai-industry-in-for-a-rough-two-yea",
+      "title": "After the midterms, is the AI industry in for a rough two years?",
+      "excerpt": "Ady on: After the midterms, is the AI industry in for a rough two years?",
+      "category": "AI News",
+      "date": "2026-11-06",
+      "read_minutes": 3,
+      "emoji": "📰",
+      "tags": [
+        "AI News"
+      ],
+      "source_name": "TechCrunch AI",
+      "source_url": "https://techcrunch.com/video/after-the-midterms-is-the-ai-industry-in-for-a-rough-two-years/",
+      "body": "<p><strong>After the midterms, is the AI industry in for a rough two years?</strong> — reported by TechCrunch AI. AI summary pending review; read the full story at the source link below.</p>",
+      "draft": true
+    },
+    {
+      "slug": "2026-11-06-ramp-data-shows-ai-spending-stalling-just-as-anthropic-nears",
+      "title": "Ramp data shows AI spending stalling just as Anthropic nears its IPO",
+      "excerpt": "Ady on: Ramp data shows AI spending stalling just as Anthropic nears its IPO",
+      "category": "AI News",
+      "date": "2026-11-06",
+      "read_minutes": 3,
+      "emoji": "📰",
+      "tags": [
+        "AI News"
+      ],
+      "source_name": "TechCrunch AI",
+      "source_url": "https://techcrunch.com/2026/11/06/ramp-data-shows-ai-spending-stalling-just-as-anthropic-nears-its-ipo/",
+      "body": "<p><strong>Ramp data shows AI spending stalling just as Anthropic nears its IPO</strong> — reported by TechCrunch AI. AI summary pending review; read the full story at the source link below.</p>",
+      "draft": true
+    },
+    {
+      "slug": "2026-11-06-toyblocks-a-controlled-world-for-robot-learning-and-evaluati",
+      "title": "ToyBlocks: A controlled world for robot learning and evaluation",
+      "excerpt": "Ady on: ToyBlocks: A controlled world for robot learning and evaluation",
+      "category": "AI News",
+      "date": "2026-11-06",
+      "read_minutes": 3,
+      "emoji": "📰",
+      "tags": [
+        "AI News"
+      ],
+      "source_name": "Hugging Face Blog",
+      "source_url": "https://huggingface.co/blog/allenai/toyblocks",
+      "body": "<p><strong>ToyBlocks: A controlled world for robot learning and evaluation</strong> — reported by Hugging Face Blog. AI summary pending review; read the full story at the source link below.</p>",
+      "draft": true
     }
   ],
   "site": {
