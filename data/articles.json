@@ -4954,6 +4954,86 @@
       "source_url": "https://huggingface.co/blog/allenai/toyblocks",
       "body": "<p><strong>ToyBlocks: A controlled world for robot learning and evaluation</strong> — reported by Hugging Face Blog. AI summary pending review; read the full story at the source link below.</p>",
       "draft": true
+    },
+    {
+      "slug": "2026-11-07-openai-reportedly-raises-an-additional-11-billion-at-a-1-25-",
+      "title": "OpenAI reportedly raises an additional $11 billion at a $1.25 trillion valuation",
+      "excerpt": "Ady on: OpenAI reportedly raises an additional $11 billion at a $1.25 trillion valuation",
+      "category": "AI News",
+      "date": "2026-11-07",
+      "read_minutes": 3,
+      "emoji": "📰",
+      "tags": [
+        "AI News"
+      ],
+      "source_name": "TechCrunch AI",
+      "source_url": "https://techcrunch.com/2026/11/06/openai-reportedly-raises-an-additional-11-billion-at-a-1-25-trillion-valuation/",
+      "body": "<p><strong>OpenAI reportedly raises an additional $11 billion at a $1.25 trillion valuation</strong> — reported by TechCrunch AI. AI summary pending review; read the full story at the source link below.</p>",
+      "draft": true
+    },
+    {
+      "slug": "2026-11-07-releasing-swift-transformers-run-on-device-llms-in-apple-dev",
+      "title": "Releasing Swift Transformers: Run On-Device LLMs in Apple Devices",
+      "excerpt": "Ady on: Releasing Swift Transformers: Run On-Device LLMs in Apple Devices",
+      "category": "AI News",
+      "date": "2026-11-07",
+      "read_minutes": 3,
+      "emoji": "📰",
+      "tags": [
+        "AI News"
+      ],
+      "source_name": "Hugging Face Blog",
+      "source_url": "https://huggingface.co/blog/swift-coreml-llm",
+      "body": "<p><strong>Releasing Swift Transformers: Run On-Device LLMs in Apple Devices</strong> — reported by Hugging Face Blog. AI summary pending review; read the full story at the source link below.</p>",
+      "draft": true
+    },
+    {
+      "slug": "2026-11-07-huggy-lingo-using-machine-learning-to-improve-language-metad",
+      "title": "Huggy Lingo: Using Machine Learning to Improve Language Metadata on the Hugging Face Hub",
+      "excerpt": "Ady on: Huggy Lingo: Using Machine Learning to Improve Language Metadata on the Hugging Face Hub",
+      "category": "AI News",
+      "date": "2026-11-07",
+      "read_minutes": 3,
+      "emoji": "📰",
+      "tags": [
+        "AI News"
+      ],
+      "source_name": "Hugging Face Blog",
+      "source_url": "https://huggingface.co/blog/huggy-lingo",
+      "body": "<p><strong>Huggy Lingo: Using Machine Learning to Improve Language Metadata on the Hugging Face Hub</strong> — reported by Hugging Face Blog. AI summary pending review; read the full story at the source link below.</p>",
+      "draft": true
+    },
+    {
+      "slug": "2026-11-07-stable-diffusion-xl-on-mac-with-advanced-core-ml-quantizatio",
+      "title": "Stable Diffusion XL on Mac with Advanced Core ML Quantization",
+      "excerpt": "Ady on: Stable Diffusion XL on Mac with Advanced Core ML Quantization",
+      "category": "AI News",
+      "date": "2026-11-07",
+      "read_minutes": 3,
+      "emoji": "📰",
+      "tags": [
+        "AI News"
+      ],
+      "source_name": "Hugging Face Blog",
+      "source_url": "https://huggingface.co/blog/stable-diffusion-xl-coreml",
+      "body": "<p><strong>Stable Diffusion XL on Mac with Advanced Core ML Quantization</strong> — reported by Hugging Face Blog. AI summary pending review; read the full story at the source link below.</p>",
+      "draft": true
+    },
+    {
+      "slug": "2026-11-07-ai-policy-open-ml-considerations-in-the-eu-ai-act",
+      "title": "AI Policy @🤗: Open ML Considerations in the EU AI Act",
+      "excerpt": "Ady on: AI Policy @🤗: Open ML Considerations in the EU AI Act",
+      "category": "AI News",
+      "date": "2026-11-07",
+      "read_minutes": 3,
+      "emoji": "📰",
+      "tags": [
+        "AI News"
+      ],
+      "source_name": "Hugging Face Blog",
+      "source_url": "https://huggingface.co/blog/eu-ai-act-oss",
+      "body": "<p><strong>AI Policy @🤗: Open ML Considerations in the EU AI Act</strong> — reported by Hugging Face Blog. AI summary pending review; read the full story at the source link below.</p>",
+      "draft": true
     }
   ],
   "site": {
