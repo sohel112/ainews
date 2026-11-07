@@ -5034,6 +5034,86 @@
       "source_url": "https://huggingface.co/blog/eu-ai-act-oss",
       "body": "<p><strong>AI Policy @🤗: Open ML Considerations in the EU AI Act</strong> — reported by Hugging Face Blog. AI summary pending review; read the full story at the source link below.</p>",
       "draft": true
+    },
+    {
+      "slug": "2026-11-07-introducing-agents-js-give-tools-to-your-llms-using-javascri",
+      "title": "Introducing Agents.js: Give tools to your LLMs using JavaScript",
+      "excerpt": "Ady on: Introducing Agents.js: Give tools to your LLMs using JavaScript",
+      "category": "AI News",
+      "date": "2026-11-07",
+      "read_minutes": 3,
+      "emoji": "📰",
+      "tags": [
+        "AI News"
+      ],
+      "source_name": "Hugging Face Blog",
+      "source_url": "https://huggingface.co/blog/agents-js",
+      "body": "<p><strong>Introducing Agents.js: Give tools to your LLMs using JavaScript</strong> — reported by Hugging Face Blog. AI summary pending review; read the full story at the source link below.</p>",
+      "draft": true
+    },
+    {
+      "slug": "2026-11-07-results-of-the-open-source-ai-game-jam",
+      "title": "Results of the Open Source AI Game Jam",
+      "excerpt": "Ady on: Results of the Open Source AI Game Jam",
+      "category": "AI News",
+      "date": "2026-11-07",
+      "read_minutes": 3,
+      "emoji": "📰",
+      "tags": [
+        "AI News"
+      ],
+      "source_name": "Hugging Face Blog",
+      "source_url": "https://huggingface.co/blog/game-jam-first-edition-results",
+      "body": "<p><strong>Results of the Open Source AI Game Jam</strong> — reported by Hugging Face Blog. AI summary pending review; read the full story at the source link below.</p>",
+      "draft": true
+    },
+    {
+      "slug": "2026-11-07-building-an-ai-webtv",
+      "title": "Building an AI WebTV",
+      "excerpt": "Ady on: Building an AI WebTV",
+      "category": "AI News",
+      "date": "2026-11-07",
+      "read_minutes": 3,
+      "emoji": "📰",
+      "tags": [
+        "AI News"
+      ],
+      "source_name": "Hugging Face Blog",
+      "source_url": "https://huggingface.co/blog/ai-webtv",
+      "body": "<p><strong>Building an AI WebTV</strong> — reported by Hugging Face Blog. AI summary pending review; read the full story at the source link below.</p>",
+      "draft": true
+    },
+    {
+      "slug": "2026-11-07-open-source-text-generation-llm-ecosystem-at-hugging-face",
+      "title": "Open-Source Text Generation & LLM Ecosystem at Hugging Face",
+      "excerpt": "Ady on: Open-Source Text Generation & LLM Ecosystem at Hugging Face",
+      "category": "AI News",
+      "date": "2026-11-07",
+      "read_minutes": 3,
+      "emoji": "📰",
+      "tags": [
+        "AI News"
+      ],
+      "source_name": "Hugging Face Blog",
+      "source_url": "https://huggingface.co/blog/os-llms",
+      "body": "<p><strong>Open-Source Text Generation &amp; LLM Ecosystem at Hugging Face</strong> — reported by Hugging Face Blog. AI summary pending review; read the full story at the source link below.</p>",
+      "draft": true
+    },
+    {
+      "slug": "2026-11-07-fine-tuning-stable-diffusion-models-on-intel-cpus",
+      "title": "Fine-tuning Stable Diffusion models on Intel CPUs",
+      "excerpt": "Ady on: Fine-tuning Stable Diffusion models on Intel CPUs",
+      "category": "AI News",
+      "date": "2026-11-07",
+      "read_minutes": 3,
+      "emoji": "📰",
+      "tags": [
+        "AI News"
+      ],
+      "source_name": "Hugging Face Blog",
+      "source_url": "https://huggingface.co/blog/stable-diffusion-finetuning-intel",
+      "body": "<p><strong>Fine-tuning Stable Diffusion models on Intel CPUs</strong> — reported by Hugging Face Blog. AI summary pending review; read the full story at the source link below.</p>",
+      "draft": true
     }
   ],
   "site": {
