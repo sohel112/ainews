@@ -5114,6 +5114,86 @@
       "source_url": "https://huggingface.co/blog/stable-diffusion-finetuning-intel",
       "body": "<p><strong>Fine-tuning Stable Diffusion models on Intel CPUs</strong> — reported by Hugging Face Blog. AI summary pending review; read the full story at the source link below.</p>",
       "draft": true
+    },
+    {
+      "slug": "2026-11-07-deploy-llms-with-hugging-face-inference-endpoints",
+      "title": "Deploy LLMs with Hugging Face Inference Endpoints",
+      "excerpt": "Ady on: Deploy LLMs with Hugging Face Inference Endpoints",
+      "category": "AI News",
+      "date": "2026-11-07",
+      "read_minutes": 3,
+      "emoji": "📰",
+      "tags": [
+        "AI News"
+      ],
+      "source_name": "Hugging Face Blog",
+      "source_url": "https://huggingface.co/blog/inference-endpoints-llm",
+      "body": "<p><strong>Deploy LLMs with Hugging Face Inference Endpoints</strong> — reported by Hugging Face Blog. AI summary pending review; read the full story at the source link below.</p>",
+      "draft": true
+    },
+    {
+      "slug": "2026-11-07-leveraging-hugging-face-for-complex-generative-ai-use-cases",
+      "title": "Leveraging Hugging Face for complex generative AI use cases",
+      "excerpt": "Ady on: Leveraging Hugging Face for complex generative AI use cases",
+      "category": "AI News",
+      "date": "2026-11-07",
+      "read_minutes": 3,
+      "emoji": "📰",
+      "tags": [
+        "AI News"
+      ],
+      "source_name": "Hugging Face Blog",
+      "source_url": "https://huggingface.co/blog/writer-case-study",
+      "body": "<p><strong>Leveraging Hugging Face for complex generative AI use cases</strong> — reported by Hugging Face Blog. AI summary pending review; read the full story at the source link below.</p>",
+      "draft": true
+    },
+    {
+      "slug": "2026-11-07-what-s-going-on-with-the-open-llm-leaderboard",
+      "title": "What's going on with the Open LLM Leaderboard?",
+      "excerpt": "Ady on: What's going on with the Open LLM Leaderboard?",
+      "category": "AI News",
+      "date": "2026-11-07",
+      "read_minutes": 3,
+      "emoji": "📰",
+      "tags": [
+        "AI News"
+      ],
+      "source_name": "Hugging Face Blog",
+      "source_url": "https://huggingface.co/blog/open-llm-leaderboard-mmlu",
+      "body": "<p><strong>What&#x27;s going on with the Open LLM Leaderboard?</strong> — reported by Hugging Face Blog. AI summary pending review; read the full story at the source link below.</p>",
+      "draft": true
+    },
+    {
+      "slug": "2026-11-07-ai-policy-response-to-the-u-s-ntia-s-request-for-comment-on-",
+      "title": "AI Policy @🤗: Response to the U.S. NTIA's Request for Comment on AI Accountability",
+      "excerpt": "Ady on: AI Policy @🤗: Response to the U.S. NTIA's Request for Comment on AI Accountability",
+      "category": "AI News",
+      "date": "2026-11-07",
+      "read_minutes": 3,
+      "emoji": "📰",
+      "tags": [
+        "AI News"
+      ],
+      "source_name": "Hugging Face Blog",
+      "source_url": "https://huggingface.co/blog/policy-ntia-rfc",
+      "body": "<p><strong>AI Policy @🤗: Response to the U.S. NTIA&#x27;s Request for Comment on AI Accountability</strong> — reported by Hugging Face Blog. AI summary pending review; read the full story at the source link below.</p>",
+      "draft": true
+    },
+    {
+      "slug": "2026-11-07-faster-stable-diffusion-with-core-ml-on-iphone-ipad-and-mac",
+      "title": "Faster Stable Diffusion with Core ML on iPhone, iPad, and Mac",
+      "excerpt": "Ady on: Faster Stable Diffusion with Core ML on iPhone, iPad, and Mac",
+      "category": "AI News",
+      "date": "2026-11-07",
+      "read_minutes": 3,
+      "emoji": "📰",
+      "tags": [
+        "AI News"
+      ],
+      "source_name": "Hugging Face Blog",
+      "source_url": "https://huggingface.co/blog/fast-diffusers-coreml",
+      "body": "<p><strong>Faster Stable Diffusion with Core ML on iPhone, iPad, and Mac</strong> — reported by Hugging Face Blog. AI summary pending review; read the full story at the source link below.</p>",
+      "draft": true
     }
   ],
   "site": {
