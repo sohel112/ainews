@@ -5274,6 +5274,86 @@
       "source_url": "https://huggingface.co/blog/4bit-transformers-bitsandbytes",
       "body": "<p><strong>Making LLMs even more accessible with bitsandbytes, 4-bit quantization and QLoRA</strong> — reported by Hugging Face Blog. AI summary pending review; read the full story at the source link below.</p>",
       "draft": true
+    },
+    {
+      "slug": "2026-11-08-hugging-face-and-ibm-partner-on-watsonx-ai-the-next-generati",
+      "title": "Hugging Face and IBM partner on watsonx.ai, the next-generation enterprise studio for AI builders",
+      "excerpt": "Ady on: Hugging Face and IBM partner on watsonx.ai, the next-generation enterprise studio for AI builders",
+      "category": "AI News",
+      "date": "2026-11-08",
+      "read_minutes": 3,
+      "emoji": "📰",
+      "tags": [
+        "AI News"
+      ],
+      "source_name": "Hugging Face Blog",
+      "source_url": "https://huggingface.co/blog/huggingface-and-ibm",
+      "body": "<p><strong>Hugging Face and IBM partner on watsonx.ai, the next-generation enterprise studio for AI builders</strong> — reported by Hugging Face Blog. AI summary pending review; read the full story at the source link below.</p>",
+      "draft": true
+    },
+    {
+      "slug": "2026-11-08-instruction-tuning-stable-diffusion-with-instructpix2pix",
+      "title": "Instruction-tuning Stable Diffusion with InstructPix2Pix",
+      "excerpt": "Ady on: Instruction-tuning Stable Diffusion with InstructPix2Pix",
+      "category": "AI News",
+      "date": "2026-11-08",
+      "read_minutes": 3,
+      "emoji": "📰",
+      "tags": [
+        "AI News"
+      ],
+      "source_name": "Hugging Face Blog",
+      "source_url": "https://huggingface.co/blog/instruction-tuning-sd",
+      "body": "<p><strong>Instruction-tuning Stable Diffusion with InstructPix2Pix</strong> — reported by Hugging Face Blog. AI summary pending review; read the full story at the source link below.</p>",
+      "draft": true
+    },
+    {
+      "slug": "2026-11-08-smaller-is-better-q8-chat-an-efficient-generative-ai-experie",
+      "title": "Smaller is better: Q8-Chat, an efficient generative AI experience on Xeon",
+      "excerpt": "Ady on: Smaller is better: Q8-Chat, an efficient generative AI experience on Xeon",
+      "category": "AI News",
+      "date": "2026-11-08",
+      "read_minutes": 3,
+      "emoji": "📰",
+      "tags": [
+        "AI News"
+      ],
+      "source_name": "Hugging Face Blog",
+      "source_url": "https://huggingface.co/blog/generative-ai-models-on-intel-cpu",
+      "body": "<p><strong>Smaller is better: Q8-Chat, an efficient generative AI experience on Xeon</strong> — reported by Hugging Face Blog. AI summary pending review; read the full story at the source link below.</p>",
+      "draft": true
+    },
+    {
+      "slug": "2026-11-08-run-a-chatgpt-like-chatbot-on-a-single-gpu-with-rocm",
+      "title": "Run a Chatgpt-like Chatbot on a Single GPU with ROCm",
+      "excerpt": "Ady on: Run a Chatgpt-like Chatbot on a Single GPU with ROCm",
+      "category": "AI News",
+      "date": "2026-11-08",
+      "read_minutes": 3,
+      "emoji": "📰",
+      "tags": [
+        "AI News"
+      ],
+      "source_name": "Hugging Face Blog",
+      "source_url": "https://huggingface.co/blog/chatbot-amd-gpu",
+      "body": "<p><strong>Run a Chatgpt-like Chatbot on a Single GPU with ROCm</strong> — reported by Hugging Face Blog. AI summary pending review; read the full story at the source link below.</p>",
+      "draft": true
+    },
+    {
+      "slug": "2026-11-08-starcoder-a-state-of-the-art-llm-for-code",
+      "title": "StarCoder: A State-of-the-Art LLM for Code",
+      "excerpt": "Ady on: StarCoder: A State-of-the-Art LLM for Code",
+      "category": "AI News",
+      "date": "2026-11-08",
+      "read_minutes": 3,
+      "emoji": "📰",
+      "tags": [
+        "AI News"
+      ],
+      "source_name": "Hugging Face Blog",
+      "source_url": "https://huggingface.co/blog/starcoder",
+      "body": "<p><strong>StarCoder: A State-of-the-Art LLM for Code</strong> — reported by Hugging Face Blog. AI summary pending review; read the full story at the source link below.</p>",
+      "draft": true
     }
   ],
   "site": {
