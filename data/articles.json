@@ -5354,6 +5354,86 @@
       "source_url": "https://huggingface.co/blog/starcoder",
       "body": "<p><strong>StarCoder: A State-of-the-Art LLM for Code</strong> — reported by Hugging Face Blog. AI summary pending review; read the full story at the source link below.</p>",
       "draft": true
+    },
+    {
+      "slug": "2026-11-08-introducing-huggingface-blog-for-chinese-speakers-fostering-",
+      "title": "Introducing HuggingFace blog for Chinese speakers: Fostering Collaboration with the Chinese AI community",
+      "excerpt": "Ady on: Introducing HuggingFace blog for Chinese speakers: Fostering Collaboration with the Chinese AI community",
+      "category": "AI News",
+      "date": "2026-11-08",
+      "read_minutes": 3,
+      "emoji": "📰",
+      "tags": [
+        "AI News"
+      ],
+      "source_name": "Hugging Face Blog",
+      "source_url": "https://huggingface.co/blog/chinese-language-blog",
+      "body": "<p><strong>Introducing HuggingFace blog for Chinese speakers: Fostering Collaboration with the Chinese AI community</strong> — reported by Hugging Face Blog. AI summary pending review; read the full story at the source link below.</p>",
+      "draft": true
+    },
+    {
+      "slug": "2026-11-08-creating-privacy-preserving-ai-with-substra",
+      "title": "Creating Privacy Preserving AI with Substra",
+      "excerpt": "Ady on: Creating Privacy Preserving AI with Substra",
+      "category": "AI News",
+      "date": "2026-11-08",
+      "read_minutes": 3,
+      "emoji": "📰",
+      "tags": [
+        "AI News"
+      ],
+      "source_name": "Hugging Face Blog",
+      "source_url": "https://huggingface.co/blog/owkin-substra",
+      "body": "<p><strong>Creating Privacy Preserving AI with Substra</strong> — reported by Hugging Face Blog. AI summary pending review; read the full story at the source link below.</p>",
+      "draft": true
+    },
+    {
+      "slug": "2026-11-08-snorkel-ai-x-hugging-face-unlock-foundation-models-for-enter",
+      "title": "Snorkel AI x Hugging Face: unlock foundation models for enterprises",
+      "excerpt": "Ady on: Snorkel AI x Hugging Face: unlock foundation models for enterprises",
+      "category": "AI News",
+      "date": "2026-11-08",
+      "read_minutes": 3,
+      "emoji": "📰",
+      "tags": [
+        "AI News"
+      ],
+      "source_name": "Hugging Face Blog",
+      "source_url": "https://huggingface.co/blog/snorkel-case-study",
+      "body": "<p><strong>Snorkel AI x Hugging Face: unlock foundation models for enterprises</strong> — reported by Hugging Face Blog. AI summary pending review; read the full story at the source link below.</p>",
+      "draft": true
+    },
+    {
+      "slug": "2026-11-08-accelerating-stable-diffusion-inference-on-intel-cpus",
+      "title": "Accelerating Stable Diffusion Inference on Intel CPUs",
+      "excerpt": "Ady on: Accelerating Stable Diffusion Inference on Intel CPUs",
+      "category": "AI News",
+      "date": "2026-11-08",
+      "read_minutes": 3,
+      "emoji": "📰",
+      "tags": [
+        "AI News"
+      ],
+      "source_name": "Hugging Face Blog",
+      "source_url": "https://huggingface.co/blog/stable-diffusion-inference-intel",
+      "body": "<p><strong>Accelerating Stable Diffusion Inference on Intel CPUs</strong> — reported by Hugging Face Blog. AI summary pending review; read the full story at the source link below.</p>",
+      "draft": true
+    },
+    {
+      "slug": "2026-11-08-fine-tuning-20b-llms-with-rlhf-on-a-24gb-consumer-gpu",
+      "title": "Fine-tuning 20B LLMs with RLHF on a 24GB consumer GPU",
+      "excerpt": "Ady on: Fine-tuning 20B LLMs with RLHF on a 24GB consumer GPU",
+      "category": "AI News",
+      "date": "2026-11-08",
+      "read_minutes": 3,
+      "emoji": "📰",
+      "tags": [
+        "AI News"
+      ],
+      "source_name": "Hugging Face Blog",
+      "source_url": "https://huggingface.co/blog/trl-peft",
+      "body": "<p><strong>Fine-tuning 20B LLMs with RLHF on a 24GB consumer GPU</strong> — reported by Hugging Face Blog. AI summary pending review; read the full story at the source link below.</p>",
+      "draft": true
     }
   ],
   "site": {
