@@ -5194,6 +5194,86 @@
       "source_url": "https://huggingface.co/blog/fast-diffusers-coreml",
       "body": "<p><strong>Faster Stable Diffusion with Core ML on iPhone, iPad, and Mac</strong> — reported by Hugging Face Blog. AI summary pending review; read the full story at the source link below.</p>",
       "draft": true
+    },
+    {
+      "slug": "2026-11-08-ai-speech-recognition-in-unity",
+      "title": "AI Speech Recognition in Unity",
+      "excerpt": "Ady on: AI Speech Recognition in Unity",
+      "category": "AI News",
+      "date": "2026-11-08",
+      "read_minutes": 3,
+      "emoji": "📰",
+      "tags": [
+        "AI News"
+      ],
+      "source_name": "Hugging Face Blog",
+      "source_url": "https://huggingface.co/blog/unity-asr",
+      "body": "<p><strong>AI Speech Recognition in Unity</strong> — reported by Hugging Face Blog. AI summary pending review; read the full story at the source link below.</p>",
+      "draft": true
+    },
+    {
+      "slug": "2026-11-08-announcing-the-open-source-ai-game-jam",
+      "title": "Announcing the Open Source AI Game Jam 🎮",
+      "excerpt": "Ady on: Announcing the Open Source AI Game Jam 🎮",
+      "category": "AI News",
+      "date": "2026-11-08",
+      "read_minutes": 3,
+      "emoji": "📰",
+      "tags": [
+        "AI News"
+      ],
+      "source_name": "Hugging Face Blog",
+      "source_url": "https://huggingface.co/blog/game-jam",
+      "body": "<p><strong>Announcing the Open Source AI Game Jam 🎮</strong> — reported by Hugging Face Blog. AI summary pending review; read the full story at the source link below.</p>",
+      "draft": true
+    },
+    {
+      "slug": "2026-11-08-introducing-the-hugging-face-llm-inference-container-for-ama",
+      "title": "Introducing the Hugging Face LLM Inference Container for Amazon SageMaker",
+      "excerpt": "Ady on: Introducing the Hugging Face LLM Inference Container for Amazon SageMaker",
+      "category": "AI News",
+      "date": "2026-11-08",
+      "read_minutes": 3,
+      "emoji": "📰",
+      "tags": [
+        "AI News"
+      ],
+      "source_name": "Hugging Face Blog",
+      "source_url": "https://huggingface.co/blog/sagemaker-huggingface-llm",
+      "body": "<p><strong>Introducing the Hugging Face LLM Inference Container for Amazon SageMaker</strong> — reported by Hugging Face Blog. AI summary pending review; read the full story at the source link below.</p>",
+      "draft": true
+    },
+    {
+      "slug": "2026-11-08-optimizing-stable-diffusion-for-intel-cpus-with-nncf-and-opt",
+      "title": "Optimizing Stable Diffusion for Intel CPUs with NNCF and 🤗 Optimum",
+      "excerpt": "Ady on: Optimizing Stable Diffusion for Intel CPUs with NNCF and 🤗 Optimum",
+      "category": "AI News",
+      "date": "2026-11-08",
+      "read_minutes": 3,
+      "emoji": "📰",
+      "tags": [
+        "AI News"
+      ],
+      "source_name": "Hugging Face Blog",
+      "source_url": "https://huggingface.co/blog/train-optimize-sd-intel",
+      "body": "<p><strong>Optimizing Stable Diffusion for Intel CPUs with NNCF and 🤗 Optimum</strong> — reported by Hugging Face Blog. AI summary pending review; read the full story at the source link below.</p>",
+      "draft": true
+    },
+    {
+      "slug": "2026-11-08-making-llms-even-more-accessible-with-bitsandbytes-4-bit-qua",
+      "title": "Making LLMs even more accessible with bitsandbytes, 4-bit quantization and QLoRA",
+      "excerpt": "Ady on: Making LLMs even more accessible with bitsandbytes, 4-bit quantization and QLoRA",
+      "category": "AI News",
+      "date": "2026-11-08",
+      "read_minutes": 3,
+      "emoji": "📰",
+      "tags": [
+        "AI News"
+      ],
+      "source_name": "Hugging Face Blog",
+      "source_url": "https://huggingface.co/blog/4bit-transformers-bitsandbytes",
+      "body": "<p><strong>Making LLMs even more accessible with bitsandbytes, 4-bit quantization and QLoRA</strong> — reported by Hugging Face Blog. AI summary pending review; read the full story at the source link below.</p>",
+      "draft": true
     }
   ],
   "site": {
