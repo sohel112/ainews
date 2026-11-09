@@ -5514,6 +5514,86 @@
       "source_url": "https://huggingface.co/blog/ml-for-games-5",
       "body": "<p><strong>Generating Stories: AI for Game Development #5</strong> — reported by Hugging Face Blog. AI summary pending review; read the full story at the source link below.</p>",
       "draft": true
+    },
+    {
+      "slug": "2026-11-09-introducing-ai-vs-ai-a-deep-reinforcement-learning-multi-age",
+      "title": "Introducing ⚔️ AI vs. AI ⚔️ a deep reinforcement learning multi-agents competition system",
+      "excerpt": "Ady on: Introducing ⚔️ AI vs. AI ⚔️ a deep reinforcement learning multi-agents competition system",
+      "category": "AI News",
+      "date": "2026-11-09",
+      "read_minutes": 3,
+      "emoji": "📰",
+      "tags": [
+        "AI News"
+      ],
+      "source_name": "Hugging Face Blog",
+      "source_url": "https://huggingface.co/blog/aivsai",
+      "body": "<p><strong>Introducing ⚔️ AI vs. AI ⚔️ a deep reinforcement learning multi-agents competition system</strong> — reported by Hugging Face Blog. AI summary pending review; read the full story at the source link below.</p>",
+      "draft": true
+    },
+    {
+      "slug": "2026-11-09-2d-asset-generation-ai-for-game-development-4",
+      "title": "2D Asset Generation: AI for Game Development #4",
+      "excerpt": "Ady on: 2D Asset Generation: AI for Game Development #4",
+      "category": "AI News",
+      "date": "2026-11-09",
+      "read_minutes": 3,
+      "emoji": "📰",
+      "tags": [
+        "AI News"
+      ],
+      "source_name": "Hugging Face Blog",
+      "source_url": "https://huggingface.co/blog/ml-for-games-4",
+      "body": "<p><strong>2D Asset Generation: AI for Game Development #4</strong> — reported by Hugging Face Blog. AI summary pending review; read the full story at the source link below.</p>",
+      "draft": true
+    },
+    {
+      "slug": "2026-11-09-using-lora-for-efficient-stable-diffusion-fine-tuning",
+      "title": "Using LoRA for Efficient Stable Diffusion Fine-Tuning",
+      "excerpt": "Ady on: Using LoRA for Efficient Stable Diffusion Fine-Tuning",
+      "category": "AI News",
+      "date": "2026-11-09",
+      "read_minutes": 3,
+      "emoji": "📰",
+      "tags": [
+        "AI News"
+      ],
+      "source_name": "Hugging Face Blog",
+      "source_url": "https://huggingface.co/blog/lora",
+      "body": "<p><strong>Using LoRA for Efficient Stable Diffusion Fine-Tuning</strong> — reported by Hugging Face Blog. AI summary pending review; read the full story at the source link below.</p>",
+      "draft": true
+    },
+    {
+      "slug": "2026-11-09-3d-asset-generation-ai-for-game-development-3",
+      "title": "3D Asset Generation: AI for Game Development #3",
+      "excerpt": "Ady on: 3D Asset Generation: AI for Game Development #3",
+      "category": "AI News",
+      "date": "2026-11-09",
+      "read_minutes": 3,
+      "emoji": "📰",
+      "tags": [
+        "AI News"
+      ],
+      "source_name": "Hugging Face Blog",
+      "source_url": "https://huggingface.co/blog/ml-for-games-3",
+      "body": "<p><strong>3D Asset Generation: AI for Game Development #3</strong> — reported by Hugging Face Blog. AI summary pending review; read the full story at the source link below.</p>",
+      "draft": true
+    },
+    {
+      "slug": "2026-11-09-ai-for-game-development-creating-a-farming-game-in-5-days-pa",
+      "title": "AI for Game Development: Creating a Farming Game in 5 Days. Part 2",
+      "excerpt": "Ady on: AI for Game Development: Creating a Farming Game in 5 Days. Part 2",
+      "category": "AI News",
+      "date": "2026-11-09",
+      "read_minutes": 3,
+      "emoji": "📰",
+      "tags": [
+        "AI News"
+      ],
+      "source_name": "Hugging Face Blog",
+      "source_url": "https://huggingface.co/blog/ml-for-games-2",
+      "body": "<p><strong>AI for Game Development: Creating a Farming Game in 5 Days. Part 2</strong> — reported by Hugging Face Blog. AI summary pending review; read the full story at the source link below.</p>",
+      "draft": true
     }
   ],
   "site": {
