@@ -5594,6 +5594,86 @@
       "source_url": "https://huggingface.co/blog/ml-for-games-2",
       "body": "<p><strong>AI for Game Development: Creating a Farming Game in 5 Days. Part 2</strong> — reported by Hugging Face Blog. AI summary pending review; read the full story at the source link below.</p>",
       "draft": true
+    },
+    {
+      "slug": "2026-11-10-anthropic-reportedly-plans-to-move-forward-with-ipo-plans",
+      "title": "Anthropic reportedly plans to move forward with IPO plans",
+      "excerpt": "Ady on: Anthropic reportedly plans to move forward with IPO plans",
+      "category": "AI News",
+      "date": "2026-11-10",
+      "read_minutes": 3,
+      "emoji": "📰",
+      "tags": [
+        "AI News"
+      ],
+      "source_name": "TechCrunch AI",
+      "source_url": "https://techcrunch.com/2026/11/09/anthropic-reportedly-plans-to-move-forward-with-ipo-plans/",
+      "body": "<p><strong>Anthropic reportedly plans to move forward with IPO plans</strong> — reported by TechCrunch AI. AI summary pending review; read the full story at the source link below.</p>",
+      "draft": true
+    },
+    {
+      "slug": "2026-11-10-anthropic-releases-new-mythos-and-fable-models-amid-rsi-conc",
+      "title": "Anthropic releases new Mythos and Fable models amid RSI concerns",
+      "excerpt": "Ady on: Anthropic releases new Mythos and Fable models amid RSI concerns",
+      "category": "AI News",
+      "date": "2026-11-10",
+      "read_minutes": 3,
+      "emoji": "📰",
+      "tags": [
+        "AI News"
+      ],
+      "source_name": "TechCrunch AI",
+      "source_url": "https://techcrunch.com/2026/11/09/anthropic-releases-new-mythos-and-fable-models-amid-rsi-concerns/",
+      "body": "<p><strong>Anthropic releases new Mythos and Fable models amid RSI concerns</strong> — reported by TechCrunch AI. AI summary pending review; read the full story at the source link below.</p>",
+      "draft": true
+    },
+    {
+      "slug": "2026-11-10-anthropic-joins-ai-s-natural-gas-frenzy-buys-3-4b-worth-of-t",
+      "title": "Anthropic joins AI’s natural gas frenzy, buys $3.4B worth of turbines",
+      "excerpt": "Ady on: Anthropic joins AI’s natural gas frenzy, buys $3.4B worth of turbines",
+      "category": "AI News",
+      "date": "2026-11-10",
+      "read_minutes": 3,
+      "emoji": "📰",
+      "tags": [
+        "AI News"
+      ],
+      "source_name": "TechCrunch AI",
+      "source_url": "https://techcrunch.com/2026/11/09/anthropic-joins-ais-natural-gas-frenzy-buys-3-4b-worth-of-turbines/",
+      "body": "<p><strong>Anthropic joins AI’s natural gas frenzy, buys $3.4B worth of turbines</strong> — reported by TechCrunch AI. AI summary pending review; read the full story at the source link below.</p>",
+      "draft": true
+    },
+    {
+      "slug": "2026-11-10-medium-s-new-tk-app-brings-ai-assistance-directly-into-the-w",
+      "title": "Medium’s new TK app brings AI assistance directly into the writing process",
+      "excerpt": "Ady on: Medium’s new TK app brings AI assistance directly into the writing process",
+      "category": "AI News",
+      "date": "2026-11-10",
+      "read_minutes": 3,
+      "emoji": "📰",
+      "tags": [
+        "AI News"
+      ],
+      "source_name": "TechCrunch AI",
+      "source_url": "https://techcrunch.com/2026/11/09/mediums-new-tk-app-brings-ai-assistance-directly-into-the-writing-process/",
+      "body": "<p><strong>Medium’s new TK app brings AI assistance directly into the writing process</strong> — reported by TechCrunch AI. AI summary pending review; read the full story at the source link below.</p>",
+      "draft": true
+    },
+    {
+      "slug": "2026-11-10-introduction-to-graph-machine-learning",
+      "title": "Introduction to Graph Machine Learning",
+      "excerpt": "Ady on: Introduction to Graph Machine Learning",
+      "category": "AI News",
+      "date": "2026-11-10",
+      "read_minutes": 3,
+      "emoji": "📰",
+      "tags": [
+        "AI News"
+      ],
+      "source_name": "Hugging Face Blog",
+      "source_url": "https://huggingface.co/blog/intro-graphml",
+      "body": "<p><strong>Introduction to Graph Machine Learning</strong> — reported by Hugging Face Blog. AI summary pending review; read the full story at the source link below.</p>",
+      "draft": true
     }
   ],
   "site": {
