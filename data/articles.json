@@ -5674,6 +5674,86 @@
       "source_url": "https://huggingface.co/blog/intro-graphml",
       "body": "<p><strong>Introduction to Graph Machine Learning</strong> — reported by Hugging Face Blog. AI summary pending review; read the full story at the source link below.</p>",
       "draft": true
+    },
+    {
+      "slug": "2026-11-10-cyberattacks-threaten-to-make-open-source-ai-a-little-less-o",
+      "title": "Cyberattacks threaten to make open-source AI a little less open, Hugging Face exec warns",
+      "excerpt": "Ady on: Cyberattacks threaten to make open-source AI a little less open, Hugging Face exec warns",
+      "category": "AI News",
+      "date": "2026-11-10",
+      "read_minutes": 3,
+      "emoji": "📰",
+      "tags": [
+        "AI News"
+      ],
+      "source_name": "TechCrunch AI",
+      "source_url": "https://techcrunch.com/2026/11/10/cyberattacks-threaten-to-make-open-source-ai-a-little-less-open-hugging-face-exec-warns/",
+      "body": "<p><strong>Cyberattacks threaten to make open-source AI a little less open, Hugging Face exec warns</strong> — reported by TechCrunch AI. AI summary pending review; read the full story at the source link below.</p>",
+      "draft": true
+    },
+    {
+      "slug": "2026-11-10-otter-ai-can-now-follow-conversations-across-30-languages",
+      "title": "Otter AI can now follow conversations across 30+ languages",
+      "excerpt": "Ady on: Otter AI can now follow conversations across 30+ languages",
+      "category": "AI News",
+      "date": "2026-11-10",
+      "read_minutes": 3,
+      "emoji": "📰",
+      "tags": [
+        "AI News"
+      ],
+      "source_name": "TechCrunch AI",
+      "source_url": "https://techcrunch.com/2026/11/09/otter-ai-can-now-follow-conversations-across-30-languages/",
+      "body": "<p><strong>Otter AI can now follow conversations across 30+ languages</strong> — reported by TechCrunch AI. AI summary pending review; read the full story at the source link below.</p>",
+      "draft": true
+    },
+    {
+      "slug": "2026-11-10-ai-for-game-development-creating-a-farming-game-in-5-days-pa",
+      "title": "AI for Game Development: Creating a Farming Game in 5 Days. Part 1",
+      "excerpt": "Ady on: AI for Game Development: Creating a Farming Game in 5 Days. Part 1",
+      "category": "AI News",
+      "date": "2026-11-10",
+      "read_minutes": 3,
+      "emoji": "📰",
+      "tags": [
+        "AI News"
+      ],
+      "source_name": "Hugging Face Blog",
+      "source_url": "https://huggingface.co/blog/ml-for-games-1",
+      "body": "<p><strong>AI for Game Development: Creating a Farming Game in 5 Days. Part 1</strong> — reported by Hugging Face Blog. AI summary pending review; read the full story at the source link below.</p>",
+      "draft": true
+    },
+    {
+      "slug": "2026-11-10-let-s-talk-about-biases-in-machine-learning-ethics-and-socie",
+      "title": "Let's talk about biases in machine learning! Ethics and Society Newsletter #2",
+      "excerpt": "Ady on: Let's talk about biases in machine learning! Ethics and Society Newsletter #2",
+      "category": "AI News",
+      "date": "2026-11-10",
+      "read_minutes": 3,
+      "emoji": "📰",
+      "tags": [
+        "AI News"
+      ],
+      "source_name": "Hugging Face Blog",
+      "source_url": "https://huggingface.co/blog/ethics-soc-2",
+      "body": "<p><strong>Let&#x27;s talk about biases in machine learning! Ethics and Society Newsletter #2</strong> — reported by Hugging Face Blog. AI summary pending review; read the full story at the source link below.</p>",
+      "draft": true
+    },
+    {
+      "slug": "2026-11-10-from-gpt2-to-stable-diffusion-hugging-face-arrives-to-the-el",
+      "title": "From GPT2 to Stable Diffusion: Hugging Face arrives to the Elixir community",
+      "excerpt": "Ady on: From GPT2 to Stable Diffusion: Hugging Face arrives to the Elixir community",
+      "category": "AI News",
+      "date": "2026-11-10",
+      "read_minutes": 3,
+      "emoji": "📰",
+      "tags": [
+        "AI News"
+      ],
+      "source_name": "Hugging Face Blog",
+      "source_url": "https://huggingface.co/blog/elixir-bumblebee",
+      "body": "<p><strong>From GPT2 to Stable Diffusion: Hugging Face arrives to the Elixir community</strong> — reported by Hugging Face Blog. AI summary pending review; read the full story at the source link below.</p>",
+      "draft": true
     }
   ],
   "site": {
