@@ -6154,6 +6154,86 @@
       "source_url": "https://huggingface.co/blog/stable_diffusion",
       "body": "<p><strong>Stable Diffusion with 🧨 Diffusers</strong> — reported by Hugging Face Blog. AI summary pending review; read the full story at the source link below.</p>",
       "draft": true
+    },
+    {
+      "slug": "2026-11-12-introducing-the-private-hub-a-new-way-to-build-with-machine-",
+      "title": "Introducing the Private Hub: A New Way to Build With Machine Learning",
+      "excerpt": "Ady on: Introducing the Private Hub: A New Way to Build With Machine Learning",
+      "category": "AI News",
+      "date": "2026-11-12",
+      "read_minutes": 3,
+      "emoji": "📰",
+      "tags": [
+        "AI News"
+      ],
+      "source_name": "Hugging Face Blog",
+      "source_url": "https://huggingface.co/blog/introducing-private-hub",
+      "body": "<p><strong>Introducing the Private Hub: A New Way to Build With Machine Learning</strong> — reported by Hugging Face Blog. AI summary pending review; read the full story at the source link below.</p>",
+      "draft": true
+    },
+    {
+      "slug": "2026-11-12-comments-on-u-s-national-ai-research-resource-interim-report",
+      "title": "Comments on U.S. National AI Research Resource Interim Report",
+      "excerpt": "Ady on: Comments on U.S. National AI Research Resource Interim Report",
+      "category": "AI News",
+      "date": "2026-11-12",
+      "read_minutes": 3,
+      "emoji": "📰",
+      "tags": [
+        "AI News"
+      ],
+      "source_name": "Hugging Face Blog",
+      "source_url": "https://huggingface.co/blog/us-national-ai-research-resource",
+      "body": "<p><strong>Comments on U.S. National AI Research Resource Interim Report</strong> — reported by Hugging Face Blog. AI summary pending review; read the full story at the source link below.</p>",
+      "draft": true
+    },
+    {
+      "slug": "2026-11-12-intel-and-hugging-face-partner-to-democratize-machine-learni",
+      "title": "Intel and Hugging Face Partner to Democratize Machine Learning Hardware Acceleration",
+      "excerpt": "Ady on: Intel and Hugging Face Partner to Democratize Machine Learning Hardware Acceleration",
+      "category": "AI News",
+      "date": "2026-11-12",
+      "read_minutes": 3,
+      "emoji": "📰",
+      "tags": [
+        "AI News"
+      ],
+      "source_name": "Hugging Face Blog",
+      "source_url": "https://huggingface.co/blog/intel",
+      "body": "<p><strong>Intel and Hugging Face Partner to Democratize Machine Learning Hardware Acceleration</strong> — reported by Hugging Face Blog. AI summary pending review; read the full story at the source link below.</p>",
+      "draft": true
+    },
+    {
+      "slug": "2026-11-12-director-of-machine-learning-insights-part-3-finance-edition",
+      "title": "Director of Machine Learning Insights [Part 3: Finance Edition]",
+      "excerpt": "Ady on: Director of Machine Learning Insights [Part 3: Finance Edition]",
+      "category": "AI News",
+      "date": "2026-11-12",
+      "read_minutes": 3,
+      "emoji": "📰",
+      "tags": [
+        "AI News"
+      ],
+      "source_name": "Hugging Face Blog",
+      "source_url": "https://huggingface.co/blog/ml-director-insights-3",
+      "body": "<p><strong>Director of Machine Learning Insights [Part 3: Finance Edition]</strong> — reported by Hugging Face Blog. AI summary pending review; read the full story at the source link below.</p>",
+      "draft": true
+    },
+    {
+      "slug": "2026-11-12-machine-learning-experts-sasha-luccioni",
+      "title": "Machine Learning Experts - Sasha Luccioni",
+      "excerpt": "Ady on: Machine Learning Experts - Sasha Luccioni",
+      "category": "AI News",
+      "date": "2026-11-12",
+      "read_minutes": 3,
+      "emoji": "📰",
+      "tags": [
+        "AI News"
+      ],
+      "source_name": "Hugging Face Blog",
+      "source_url": "https://huggingface.co/blog/sasha-luccioni-interview",
+      "body": "<p><strong>Machine Learning Experts - Sasha Luccioni</strong> — reported by Hugging Face Blog. AI summary pending review; read the full story at the source link below.</p>",
+      "draft": true
     }
   ],
   "site": {
