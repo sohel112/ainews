@@ -6074,6 +6074,86 @@
       "source_url": "https://techcrunch.com/2026/11/11/plurai-wants-to-help-ai-agents-work-better-using-the-same-approach-that-helped-get-self-driving-cars-to-roads/",
       "body": "<p><strong>Plurai wants to help AI agents work better using the same approach that helped get self-driving cars to roads</strong> — reported by TechCrunch AI. AI summary pending review; read the full story at the source link below.</p>",
       "draft": true
+    },
+    {
+      "slug": "2026-11-12-training-stable-diffusion-with-dreambooth-using-diffusers",
+      "title": "Training Stable Diffusion with Dreambooth using Diffusers",
+      "excerpt": "Ady on: Training Stable Diffusion with Dreambooth using Diffusers",
+      "category": "AI News",
+      "date": "2026-11-12",
+      "read_minutes": 3,
+      "emoji": "📰",
+      "tags": [
+        "AI News"
+      ],
+      "source_name": "Hugging Face Blog",
+      "source_url": "https://huggingface.co/blog/dreambooth",
+      "body": "<p><strong>Training Stable Diffusion with Dreambooth using Diffusers</strong> — reported by Hugging Face Blog. AI summary pending review; read the full story at the source link below.</p>",
+      "draft": true
+    },
+    {
+      "slug": "2026-11-12-stable-diffusion-in-jax-flax",
+      "title": "🧨 Stable Diffusion  in JAX / Flax !",
+      "excerpt": "Ady on: 🧨 Stable Diffusion  in JAX / Flax !",
+      "category": "AI News",
+      "date": "2026-11-12",
+      "read_minutes": 3,
+      "emoji": "📰",
+      "tags": [
+        "AI News"
+      ],
+      "source_name": "Hugging Face Blog",
+      "source_url": "https://huggingface.co/blog/stable_diffusion_jax",
+      "body": "<p><strong>🧨 Stable Diffusion  in JAX / Flax !</strong> — reported by Hugging Face Blog. AI summary pending review; read the full story at the source link below.</p>",
+      "draft": true
+    },
+    {
+      "slug": "2026-11-12-japanese-stable-diffusion",
+      "title": "Japanese Stable Diffusion",
+      "excerpt": "Ady on: Japanese Stable Diffusion",
+      "category": "AI News",
+      "date": "2026-11-12",
+      "read_minutes": 3,
+      "emoji": "📰",
+      "tags": [
+        "AI News"
+      ],
+      "source_name": "Hugging Face Blog",
+      "source_url": "https://huggingface.co/blog/japanese-stable-diffusion",
+      "body": "<p><strong>Japanese Stable Diffusion</strong> — reported by Hugging Face Blog. AI summary pending review; read the full story at the source link below.</p>",
+      "draft": true
+    },
+    {
+      "slug": "2026-11-12-openrail-towards-open-and-responsible-ai-licensing-framework",
+      "title": "OpenRAIL: Towards open and responsible AI licensing frameworks",
+      "excerpt": "Ady on: OpenRAIL: Towards open and responsible AI licensing frameworks",
+      "category": "AI News",
+      "date": "2026-11-12",
+      "read_minutes": 3,
+      "emoji": "📰",
+      "tags": [
+        "AI News"
+      ],
+      "source_name": "Hugging Face Blog",
+      "source_url": "https://huggingface.co/blog/open_rail",
+      "body": "<p><strong>OpenRAIL: Towards open and responsible AI licensing frameworks</strong> — reported by Hugging Face Blog. AI summary pending review; read the full story at the source link below.</p>",
+      "draft": true
+    },
+    {
+      "slug": "2026-11-12-stable-diffusion-with-diffusers",
+      "title": "Stable Diffusion with 🧨 Diffusers",
+      "excerpt": "Ady on: Stable Diffusion with 🧨 Diffusers",
+      "category": "AI News",
+      "date": "2026-11-12",
+      "read_minutes": 3,
+      "emoji": "📰",
+      "tags": [
+        "AI News"
+      ],
+      "source_name": "Hugging Face Blog",
+      "source_url": "https://huggingface.co/blog/stable_diffusion",
+      "body": "<p><strong>Stable Diffusion with 🧨 Diffusers</strong> — reported by Hugging Face Blog. AI summary pending review; read the full story at the source link below.</p>",
+      "draft": true
     }
   ],
   "site": {
