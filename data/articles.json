@@ -6394,6 +6394,86 @@
       "source_url": "https://huggingface.co/blog/series-c",
       "body": "<p><strong>We Raised $100 Million for Open &amp; Collaborative Machine Learning 🚀</strong> — reported by Hugging Face Blog. AI summary pending review; read the full story at the source link below.</p>",
       "draft": true
+    },
+    {
+      "slug": "2026-11-13-ai-agent-startup-langchain-hits-3b-valuation",
+      "title": "AI agent startup LangChain hits $3B valuation",
+      "excerpt": "Ady on: AI agent startup LangChain hits $3B valuation",
+      "category": "AI News",
+      "date": "2026-11-13",
+      "read_minutes": 3,
+      "emoji": "📰",
+      "tags": [
+        "AI News"
+      ],
+      "source_name": "TechCrunch AI",
+      "source_url": "https://techcrunch.com/2026/11/13/ai-agent-startup-langchain-hits-3b-valuation/",
+      "body": "<p><strong>AI agent startup LangChain hits $3B valuation</strong> — reported by TechCrunch AI. AI summary pending review; read the full story at the source link below.</p>",
+      "draft": true
+    },
+    {
+      "slug": "2026-11-13-export-banned-nvidia-chips-are-behind-china-s-most-powerful-",
+      "title": "Export-banned Nvidia chips are behind China’s most powerful AI models — uh oh, Jensen!",
+      "excerpt": "Ady on: Export-banned Nvidia chips are behind China’s most powerful AI models — uh oh, Jensen!",
+      "category": "AI News",
+      "date": "2026-11-13",
+      "read_minutes": 3,
+      "emoji": "📰",
+      "tags": [
+        "AI News"
+      ],
+      "source_name": "TechCrunch AI",
+      "source_url": "https://techcrunch.com/2026/11/13/export-banned-nvidia-chips-are-behind-chinas-most-powerful-ai-models-uh-oh-jensen/",
+      "body": "<p><strong>Export-banned Nvidia chips are behind China’s most powerful AI models — uh oh, Jensen!</strong> — reported by TechCrunch AI. AI summary pending review; read the full story at the source link below.</p>",
+      "draft": true
+    },
+    {
+      "slug": "2026-11-13-chatgpt-s-new-wallet-lets-ai-agents-shop-and-check-out-for-y",
+      "title": "ChatGPT’s new Wallet lets AI agents shop and check out for you",
+      "excerpt": "Ady on: ChatGPT’s new Wallet lets AI agents shop and check out for you",
+      "category": "AI News",
+      "date": "2026-11-13",
+      "read_minutes": 3,
+      "emoji": "📰",
+      "tags": [
+        "AI News"
+      ],
+      "source_name": "TechCrunch AI",
+      "source_url": "https://techcrunch.com/2026/11/13/chatgpts-new-wallet-lets-ai-agents-shop-and-check-out-for-you/",
+      "body": "<p><strong>ChatGPT’s new Wallet lets AI agents shop and check out for you</strong> — reported by TechCrunch AI. AI summary pending review; read the full story at the source link below.</p>",
+      "draft": true
+    },
+    {
+      "slug": "2026-11-13-build-a-robot-pick-and-place-simulation-with-simready-assets",
+      "title": "Build a Robot Pick-and-Place Simulation with SimReady Assets",
+      "excerpt": "Ady on: Build a Robot Pick-and-Place Simulation with SimReady Assets",
+      "category": "AI News",
+      "date": "2026-11-13",
+      "read_minutes": 3,
+      "emoji": "📰",
+      "tags": [
+        "AI News"
+      ],
+      "source_name": "Hugging Face Blog",
+      "source_url": "https://huggingface.co/blog/nvidia/simready-assets-robot-pick-and-place",
+      "body": "<p><strong>Build a Robot Pick-and-Place Simulation with SimReady Assets</strong> — reported by Hugging Face Blog. AI summary pending review; read the full story at the source link below.</p>",
+      "draft": true
+    },
+    {
+      "slug": "2026-11-13-llama-cpp-v1-0-0-a-stronger-foundation-for-the-local-ai-ecos",
+      "title": "llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem",
+      "excerpt": "Ady on: llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem",
+      "category": "AI News",
+      "date": "2026-11-13",
+      "read_minutes": 3,
+      "emoji": "📰",
+      "tags": [
+        "AI News"
+      ],
+      "source_name": "Hugging Face Blog",
+      "source_url": "https://huggingface.co/blog/ggml-org/llama-cpp-v1",
+      "body": "<p><strong>llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem</strong> — reported by Hugging Face Blog. AI summary pending review; read the full story at the source link below.</p>",
+      "draft": true
     }
   ],
   "site": {
