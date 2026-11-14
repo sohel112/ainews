@@ -6474,6 +6474,86 @@
       "source_url": "https://huggingface.co/blog/ggml-org/llama-cpp-v1",
       "body": "<p><strong>llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem</strong> — reported by Hugging Face Blog. AI summary pending review; read the full story at the source link below.</p>",
       "draft": true
+    },
+    {
+      "slug": "2026-11-14-jensen-huang-s-departure-blasts-big-hole-in-ai-startup-fundi",
+      "title": "Jensen Huang’s departure blasts big hole in AI startup funding, VCs and founders say",
+      "excerpt": "Ady on: Jensen Huang’s departure blasts big hole in AI startup funding, VCs and founders say",
+      "category": "AI News",
+      "date": "2026-11-14",
+      "read_minutes": 3,
+      "emoji": "📰",
+      "tags": [
+        "AI News"
+      ],
+      "source_name": "TechCrunch AI",
+      "source_url": "https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say/",
+      "body": "<p><strong>Jensen Huang’s departure blasts big hole in AI startup funding, VCs and founders say</strong> — reported by TechCrunch AI. AI summary pending review; read the full story at the source link below.</p>",
+      "draft": true
+    },
+    {
+      "slug": "2026-11-14-welcome-fastai-to-the-hugging-face-hub",
+      "title": "Welcome fastai to the Hugging Face Hub",
+      "excerpt": "Ady on: Welcome fastai to the Hugging Face Hub",
+      "category": "AI News",
+      "date": "2026-11-14",
+      "read_minutes": 3,
+      "emoji": "📰",
+      "tags": [
+        "AI News"
+      ],
+      "source_name": "Hugging Face Blog",
+      "source_url": "https://huggingface.co/blog/fastai",
+      "body": "<p><strong>Welcome fastai to the Hugging Face Hub</strong> — reported by Hugging Face Blog. AI summary pending review; read the full story at the source link below.</p>",
+      "draft": true
+    },
+    {
+      "slug": "2026-11-14-director-of-machine-learning-insights",
+      "title": "Director of Machine Learning Insights",
+      "excerpt": "Ady on: Director of Machine Learning Insights",
+      "category": "AI News",
+      "date": "2026-11-14",
+      "read_minutes": 3,
+      "emoji": "📰",
+      "tags": [
+        "AI News"
+      ],
+      "source_name": "Hugging Face Blog",
+      "source_url": "https://huggingface.co/blog/ml-director-insights",
+      "body": "<p><strong>Director of Machine Learning Insights</strong> — reported by Hugging Face Blog. AI summary pending review; read the full story at the source link below.</p>",
+      "draft": true
+    },
+    {
+      "slug": "2026-11-14-supercharged-customer-service-with-machine-learning",
+      "title": "Supercharged Customer Service with Machine Learning",
+      "excerpt": "Ady on: Supercharged Customer Service with Machine Learning",
+      "category": "AI News",
+      "date": "2026-11-14",
+      "read_minutes": 3,
+      "emoji": "📰",
+      "tags": [
+        "AI News"
+      ],
+      "source_name": "Hugging Face Blog",
+      "source_url": "https://huggingface.co/blog/supercharge-customer-service-with-machine-learning",
+      "body": "<p><strong>Supercharged Customer Service with Machine Learning</strong> — reported by Hugging Face Blog. AI summary pending review; read the full story at the source link below.</p>",
+      "draft": true
+    },
+    {
+      "slug": "2026-11-14-machine-learning-experts-lewis-tunstall",
+      "title": "Machine Learning Experts - Lewis Tunstall",
+      "excerpt": "Ady on: Machine Learning Experts - Lewis Tunstall",
+      "category": "AI News",
+      "date": "2026-11-14",
+      "read_minutes": 3,
+      "emoji": "📰",
+      "tags": [
+        "AI News"
+      ],
+      "source_name": "Hugging Face Blog",
+      "source_url": "https://huggingface.co/blog/lewis-tunstall-interview",
+      "body": "<p><strong>Machine Learning Experts - Lewis Tunstall</strong> — reported by Hugging Face Blog. AI summary pending review; read the full story at the source link below.</p>",
+      "draft": true
     }
   ],
   "site": {
