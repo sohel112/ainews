@@ -6554,6 +6554,86 @@
       "source_url": "https://huggingface.co/blog/lewis-tunstall-interview",
       "body": "<p><strong>Machine Learning Experts - Lewis Tunstall</strong> — reported by Hugging Face Blog. AI summary pending review; read the full story at the source link below.</p>",
       "draft": true
+    },
+    {
+      "slug": "2026-11-14-machine-learning-experts-margaret-mitchell",
+      "title": "Machine Learning Experts - Margaret Mitchell",
+      "excerpt": "Ady on: Machine Learning Experts - Margaret Mitchell",
+      "category": "AI News",
+      "date": "2026-11-14",
+      "read_minutes": 3,
+      "emoji": "📰",
+      "tags": [
+        "AI News"
+      ],
+      "source_name": "Hugging Face Blog",
+      "source_url": "https://huggingface.co/blog/meg-mitchell-interview",
+      "body": "<p><strong>Machine Learning Experts - Margaret Mitchell</strong> — reported by Hugging Face Blog. AI summary pending review; read the full story at the source link below.</p>",
+      "draft": true
+    },
+    {
+      "slug": "2026-11-14-announcing-the-ai-research-residency-program",
+      "title": "Announcing the 🤗 AI Research Residency Program",
+      "excerpt": "Ady on: Announcing the 🤗 AI Research Residency Program",
+      "category": "AI News",
+      "date": "2026-11-14",
+      "read_minutes": 3,
+      "emoji": "📰",
+      "tags": [
+        "AI News"
+      ],
+      "source_name": "Hugging Face Blog",
+      "source_url": "https://huggingface.co/blog/ai-residency",
+      "body": "<p><strong>Announcing the 🤗 AI Research Residency Program</strong> — reported by Hugging Face Blog. AI summary pending review; read the full story at the source link below.</p>",
+      "draft": true
+    },
+    {
+      "slug": "2026-11-14-deploy-gpt-j-6b-for-inference-using-hugging-face-transformer",
+      "title": "Deploy GPT-J 6B for inference using  Hugging Face Transformers and Amazon SageMaker",
+      "excerpt": "Ady on: Deploy GPT-J 6B for inference using  Hugging Face Transformers and Amazon SageMaker",
+      "category": "AI News",
+      "date": "2026-11-14",
+      "read_minutes": 3,
+      "emoji": "📰",
+      "tags": [
+        "AI News"
+      ],
+      "source_name": "Hugging Face Blog",
+      "source_url": "https://huggingface.co/blog/gptj-sagemaker",
+      "body": "<p><strong>Deploy GPT-J 6B for inference using  Hugging Face Transformers and Amazon SageMaker</strong> — reported by Hugging Face Blog. AI summary pending review; read the full story at the source link below.</p>",
+      "draft": true
+    },
+    {
+      "slug": "2026-11-14-the-age-of-machine-learning-as-code-has-arrived",
+      "title": "The Age of Machine Learning As Code Has Arrived",
+      "excerpt": "Ady on: The Age of Machine Learning As Code Has Arrived",
+      "category": "AI News",
+      "date": "2026-11-14",
+      "read_minutes": 3,
+      "emoji": "📰",
+      "tags": [
+        "AI News"
+      ],
+      "source_name": "Hugging Face Blog",
+      "source_url": "https://huggingface.co/blog/the-age-of-ml-as-code",
+      "body": "<p><strong>The Age of Machine Learning As Code Has Arrived</strong> — reported by Hugging Face Blog. AI summary pending review; read the full story at the source link below.</p>",
+      "draft": true
+    },
+    {
+      "slug": "2026-11-14-few-shot-learning-in-practice-gpt-neo-and-the-accelerated-in",
+      "title": "Few-shot learning in practice: GPT-Neo and the 🤗 Accelerated Inference API",
+      "excerpt": "Ady on: Few-shot learning in practice: GPT-Neo and the 🤗 Accelerated Inference API",
+      "category": "AI News",
+      "date": "2026-11-14",
+      "read_minutes": 3,
+      "emoji": "📰",
+      "tags": [
+        "AI News"
+      ],
+      "source_name": "Hugging Face Blog",
+      "source_url": "https://huggingface.co/blog/few-shot-learning-gpt-neo-and-inference-api",
+      "body": "<p><strong>Few-shot learning in practice: GPT-Neo and the 🤗 Accelerated Inference API</strong> — reported by Hugging Face Blog. AI summary pending review; read the full story at the source link below.</p>",
+      "draft": true
     }
   ],
   "site": {
