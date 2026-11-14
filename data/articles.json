@@ -6634,6 +6634,54 @@
       "source_url": "https://huggingface.co/blog/few-shot-learning-gpt-neo-and-inference-api",
       "body": "<p><strong>Few-shot learning in practice: GPT-Neo and the 🤗 Accelerated Inference API</strong> — reported by Hugging Face Blog. AI summary pending review; read the full story at the source link below.</p>",
       "draft": true
+    },
+    {
+      "slug": "2026-11-14-the-ai-graveyard-a-running-list-of-projects-and-startups-tha",
+      "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
+      "excerpt": "Ady on: The AI graveyard: a running list of projects and startups that didn’t make it",
+      "category": "AI News",
+      "date": "2026-11-14",
+      "read_minutes": 3,
+      "emoji": "📰",
+      "tags": [
+        "AI News"
+      ],
+      "source_name": "TechCrunch AI",
+      "source_url": "https://techcrunch.com/2026/11/14/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
+      "body": "<p><strong>The AI graveyard: a running list of projects and startups that didn’t make it</strong> — reported by TechCrunch AI. AI summary pending review; read the full story at the source link below.</p>",
+      "draft": true
+    },
+    {
+      "slug": "2026-11-14-the-download-preserving-minds-and-weighing-open-ai-risks",
+      "title": "The Download: preserving minds and weighing open AI risks",
+      "excerpt": "Ady on: The Download: preserving minds and weighing open AI risks",
+      "category": "AI News",
+      "date": "2026-11-14",
+      "read_minutes": 3,
+      "emoji": "📰",
+      "tags": [
+        "AI News"
+      ],
+      "source_name": "MIT Tech Review AI",
+      "source_url": "https://www.technologyreview.com/2026/11/11/1148424/the-download-preserving-minds-open-ai-risks/",
+      "body": "<p><strong>The Download: preserving minds and weighing open AI risks</strong> — reported by MIT Tech Review AI. AI summary pending review; read the full story at the source link below.</p>",
+      "draft": true
+    },
+    {
+      "slug": "2026-11-14-the-download-pelosi-s-successor-targets-ai-and-data-centers-",
+      "title": "The Download: Pelosi’s successor targets AI and data centers face power woes",
+      "excerpt": "Ady on: The Download: Pelosi’s successor targets AI and data centers face power woes",
+      "category": "AI News",
+      "date": "2026-11-14",
+      "read_minutes": 3,
+      "emoji": "📰",
+      "tags": [
+        "AI News"
+      ],
+      "source_name": "MIT Tech Review AI",
+      "source_url": "https://www.technologyreview.com/2026/11/10/1148150/the-download-pelosi-successor-ai-regulation-data-center-backlash/",
+      "body": "<p><strong>The Download: Pelosi’s successor targets AI and data centers face power woes</strong> — reported by MIT Tech Review AI. AI summary pending review; read the full story at the source link below.</p>",
+      "draft": true
     }
   ],
   "site": {
